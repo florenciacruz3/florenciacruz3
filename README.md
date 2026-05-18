@@ -1,16 +1,19 @@
 ## About Me 
 
-<!--
-**florenciacruz3/florenciacruz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Florencia 
 
-Here are some ideas to get you started:
+I'm an aspiring developer passonate about learning and growing in tech. I'm currently being mentored by a Microsoft MVP, and I've been learning coding, GitHub, Markdown, and web developpment. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently completed Google Develper's courses for Tecnhical Writing 1 & 2. 
+
+I'm open to collaborations on:  
+  
+• Tutorials and how-to-guides (Markdown, Screenshots, Callouts).
+
+• Product Documentation and user manuals.
+
+• API reference and getting-started guides.
+
+• Editing and proofreading on existing docs.
+
+I love turning ideas into creative projects, so please reach out to me at florenciacruzusa@gmail.com, if what you're looking for is explaining a product that is too complex for the day-to-day person. 
