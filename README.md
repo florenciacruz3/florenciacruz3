@@ -12,13 +12,13 @@ My qualifications come from completing [Google's Technical Writing One and Two (
 
 I'm open to collaborations on:
   
-• Tutorials and how-to-guides (Markdown, Screenshots, Callouts).
+- Tutorials and how-to-guides (Markdown, Screenshots, Callouts).
 
-• Product Documentation and user manuals.
+- Product Documentation and user manuals.
 
-• API reference and getting-started guides.
+- API reference and getting-started guides.
 
-• Editing and proofreading on existing docs.
+- Editing and proofreading on existing docs.
 
 ---
 
