@@ -6,7 +6,7 @@
 ## Overview
 
 - Who this article is for:
-  * This article is intended for writers with basic knowledge on Microsoft Office, using apps, such as Word, or Google Docs. 
+  * This article is intended for writers with basic knowledge of Microsoft Office, using apps, such as Word, or Google Docs. 
 - What you will learn:
 
   1. [What is Markdown](#1-what-is-markdown)
