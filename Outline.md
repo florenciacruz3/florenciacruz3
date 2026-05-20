@@ -39,14 +39,14 @@
 
 ## 2. Why Writers Should Care About Markdown
 
-- Portability - no software required
-- Compatibility - the standard format for GitHub, documentation sites, and CMS platforms
-- Simplicity - Markdown formatting vs Word formatting
-- Industry relevance - tech industry focus
+- Portability — no software required
+- Compatibility — the standard format for GitHub, documentation sites, and CMS platforms
+- Simplicity — Markdown formatting vs Word formatting
+- Industry relevance — tech industry focus
 
 ---
 
-## 3. Comparing Markdown to What You Already Know 
+## 3. Comparing Markdown to What You Already Know
 
 - Side by side: Word vs Markdown
 - Side by side: Google Docs vs Markdown
