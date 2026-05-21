@@ -218,7 +218,7 @@ You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
-- [Google Developers](https://commonmark.org/help/) — Cointains links and basic information that will help you get started. 
+- [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Cointains links and basic information that will help you get started. 
   
 - [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. 
 
