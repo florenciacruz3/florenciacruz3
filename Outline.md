@@ -9,12 +9,12 @@
   * This article is intended for writers with basic knowledge of Microsoft Office, using apps, such as Word or Google Docs. 
 - What you will learn:
 
-  1. [What Is Markdown](#1-what-is-markdown)
-  2. [Why Writers Should Care About Markdown](#2-why-writers-should-care-about-markdown)
-  3. [Comparing Markdown to What You Already Know](#3-comparing-markdown-to-what-you-already-know)
-  4. [Core Markdown Syntax](#4-core-markdown-syntax)
-  5. [The Markdown Workflow](#5-the-markdown-workflow)
-  6. [Next Steps](#6-next-steps)
+  1. [Why Word Users Should Switch to Markdown](#1-why-word-users-should-switch-to-markdown)
+  3. [Why Writers Should Care About Markdown](#2-why-writers-should-care-about-markdown)
+  4. [Comparing Markdown to What You Already Know](#3-comparing-markdown-to-what-you-already-know)
+  5. [Core Markdown Syntax](#4-core-markdown-syntax)
+  6. [The Markdown Workflow](#5-the-markdown-workflow)
+  7. [Next Steps](#6-next-steps)
   
 - What this article does not cover:
 
@@ -28,12 +28,11 @@
 
 ---
 
-## 1. What Is Markdown
+## 1. Why Word Users Should Switch to Markdown
 
-- Definition 
-- Background and why people use it
-- Brief comparison between Word and Google Docs
-- What a Markdown file looks like
+- Why you stop fighting formatting
+- Markdown as the industry standard
+- What Markdown is 
 
 ---
 
@@ -41,7 +40,6 @@
 
 - Portability — no software required
 - Compatibility — the standard format for GitHub, documentation sites, and CMS platforms
-- Simplicity — Markdown formatting vs Word formatting
 - Industry relevance — tech industry focus
 
 ---
