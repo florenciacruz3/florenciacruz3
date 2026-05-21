@@ -33,7 +33,6 @@
 - Markdown as the industry standard
 - Your files outlast any app — open the file in 20 years on any device, nothing proprietary to trap it
 - It works everywhere technical writers work — paste into GitHub, a docs platform, or a CMS and it renders immediately
-- It makes you hireable in tech — most technical writing roles expect Markdown fluency, learning it now removes a barrier to entry
   
 ---
 
