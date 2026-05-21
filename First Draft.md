@@ -27,16 +27,15 @@
 
 ## 1. Why Writers Should Care About Markdown
 
-If you’ve ever encountered a situation where you spent 20 minutes fixing a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart, you’re in the right place. 
-Word and Google Docs are built around visual formatting, which is why one single accident can ruin your whole design. Markdown takes a different approach entirely: the structure lives in the text itself, not in a layer of invisible styling on top of it.
-This section breaks down exactly why that difference matters — and why it's worth making the switch.
+If you’ve ever encountered a situation where you spent 20 minutes on Word or Google docs, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart, you’re in the right place. 
 
 ---
+
 #### You stop fighting formatting
 
 If you open a Word document that someone else created, you’ll find spacing that doesn’t look right, awkward headline design, or you’ll run into situations like pasting a paragraph from a different document and have the font being different, line spacing is off, and you’ll end up to spend on hour fixing it while, with Markdown, you could do it instantly. 
-To simplify this, what makes Word’s formatting rules frustrating is that the format is hidden from you. There are no actual rules as to how to fix any of the problems mentioned, you’ll just have to hunt through menus and style panels. 
-Markdown eliminates this entirely. As I mentioned before, when it comes to Markdown, all you need to learn is syntax and troubleshooting. There’s only one way to create headings, bold texts, or lists. There’s nothing hidden in there, nothing is invisible, and nothing can drift out of alignment without you seeing it.  
+To simplify this, what makes Word’s formatting rules frustrating is that the format is hidden from you. 
+Markdown eliminates this entirely. There’s only one way to create headings, bold texts, or lists. 
 Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main take away from this is that Markdown will put you back where your mental energy should be: on writing. 
 
 ---
@@ -44,7 +43,7 @@ Writing itself is hard enough but having to deal with formatting at the same tim
 #### Your files outlast any app
 
 Over time, Microsoft changes .docx format. This means that eventually the version of Word you used to create a file is no longer supported. What happens next is that you try to open in a computer with a different version of Word and the layout shifts, making the fonts and table of contents wrong. You are left with a sloppy document that you spent hours of work formatting.
-Markdown files are immune to this. It is a plain text that has, and will always be, readable on every computer, no matter the device or software that you’re using. The content is content, as it should be, which matters a lot for writers who want their work to last. That's a guarantee no .docx file can make.
+Markdown files are immune to this. It is a plain text that has, and will always be, readable on every computer, no matter the device or software that you’re using. That's a guarantee no .docx file can make.
 
 ---
 
@@ -52,18 +51,14 @@ Markdown files are immune to this. It is a plain text that has, and will always 
 
 One practical piece of information is that, in technical writing, your content is never going to live in one place. GitHub, Confluence, Read the Docs, and GitBook, are all platforms where you can showcase your work. And they all accept Markdown directly. 
 This means that when writing is done in Markdown, it requires no reformatting. The file you draft is the file you publish. 
-This is not just a convenience, this is a meaningful reduction in the friction between writing and publishing. 
 
 ---
 
 #### It's the industry standard
 
-Markdown was invented in 2004 by John Gruber and Aaron Swartz as a way to give writers an easier time to format text for websites without writing HTML. It became successful because it was open, simple, and it worked with any too. 
 For the tech industry, Markdown is the default writing format to this day. 
 The overwhelming majority of platforms, such as GitHub, developer tools, CLI documentation, README files, release notes, changelog entries — are all written in Markdown. 
 The point that I’m trying to make is that Markdown matters for writers because it is recognized and expected. When it comes to entering the tech industry, documentation written in clean Markdown shows that you understand the environment you're working in. 
-Some of the most common requirements when it comes to technical writing are, “experience with DITA,” “familiarity with MadCap Flare,” or “knowledge of docs-as-code workflows.” Markdown continues to appear on this list. 
-For a hiring manager, seeing Markdown on a resume proves that the writer understands text workflows, has some exposure to Git, and can contribute alongside engineers without requiring a tool setup. 
 
 ---
 
@@ -204,23 +199,22 @@ In Word or Google Docs, writing and formatting happen at the same time. You keep
 Markdown, however, separates writing from formatting, making everything in the text flow better. 
 
 **1. Write in plain text**
-When you use Markdown, you get to write in plain text. There’s no font, toolbar, or style panel to choose from. The most you would be doing, in regard to formatting, would be putting ** symbols to make the font bold, or adding ## before a title to make it a heading. Formatting on Markdown won’t pull you away from the sentence you’re in the middle of writing. 
+
+When you use Markdown, you get to write in plain text. There’s no font, toolbar, or style panel to choose from. Formatting on Markdown won’t pull you away from the sentence you’re in the middle of writing. 
 
 **2. Preview your document**
-Your screen will look a lot more different while writing in plain text compared to the finished result. However, you can have a preview pane you can open alongside your text, where you will find: headings, bold text, and lists finalized. 
 
-This is particularly useful when you’re still learning. It allows you to catch small troubleshooting mistake, which, if you catch them early, will save you time later.
+Your screen will look a lot more different while writing in plain text compared to the finished result. 
 
 **3. Use AI as an editing tool**
+
 Using an AI assistant can make the editing process easier. 
 Here’s why: 
-It’s no secret, AI tools work better with plain text rather than pasting a Word document. There’s often formatting issues that can alter the content of the document. When you paste a Markdown text, AI reads it as it is. Asking AI to check for clarity works directly with what you wrote. 
-It's a fast step. Paste your draft, get feedback, make changes, move on.
+It’s no secret, AI tools work better with plain text rather than pasting a Word document. There’s often formatting issues that can alter the content of the document. When you paste a Markdown text, it's a fast step because AI reads the text as it is. Paste your draft, get feedback, make changes, move on.
 
 **4. Publish to GitHub or your CMS**
+
 Once your document is ready, you can upload your .md file to GitHub or paste it into your content management system. It renders it automatically, no need to export to PDF first, reformat it, or convert it. The file you wrote is the file you publish. 
-On a Word document; nonetheless, you’ll need to export, convert, strip from its document, and reformat the document in order to publish it, while at the same time, adding up time with each step. 
-With Markdown, you’re just one click away from having your document submitted. 
 
 ---
 
@@ -240,14 +234,13 @@ Congratulations! You've covered the foundations. Here's where to go from here:
 
 There are two useful things I did to build real Markdown fluency: 
 
--	The first was using GitHub. I created a repository and started writing directly in `.md` If you haven’t started using GitHub before, you really should. GitHub puts you in the exact environment where Markdown is used professionally. 
+-	The first was using GitHub. I created a repository and started writing directly in `.md` 
 
--	The second was, based off a real webpage, rewriting it in Markdown from scratch. By looking at how it is structured, you should be able to recreate it using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require, such as, which heading level fits here, does this need a list or a paragraph, how do I handle this link. 
-
+-	The second was, based off a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
 
 ### Connecting Markdown to real-world technical writing roles
 
-As we explored before, Markdown fluency shows up as a requirement in most technical writer’s job postings. The fastest way to signal that to hiring committees is to write publicly — on GitHub, a personal docs site, or a platform like Dev.to.
+The fastest way to signal that to hiring committees is to write publicly — on GitHub, a personal docs site, or a platform like Dev.to.
 
 Make sure your GitHub profile, LinkedIn, and Upwork are up to date and link to your published work.
 
@@ -257,7 +250,7 @@ Once you have polished accounts, and experience with practicing Markdown, it’s
 
 ## About the Author
 
-I showedcased my interest in writing and content creating by completing my bachelor’s degree in English and Cinema and Media Studies. After that, I was left with the question, “How am I going to apply these skills in the real work?” 
+I showcased my interest in writing and content creating by completing my bachelor’s degree in English and Cinema and Media Studies. After that, I was left with the question, “How am I going to apply these skills in the real work?” 
 
 Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
 
