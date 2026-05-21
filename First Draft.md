@@ -27,13 +27,13 @@
 
 ## 1. Why Writers Should Care About Markdown
 
-If you’ve ever encountered a situation where you spent 20 minutes on Word or Google docs, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart, you’re in the right place. 
+If you’ve ever used Word or Google docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
 
 ---
 
 #### You stop fighting formatting
 
-If you open a Word document that someone else created, you’ll find spacing that doesn’t look right, awkward headline design, or you’ll run into situations like pasting a paragraph from a different document and have the font being different, line spacing is off, and you’ll end up to spend on hour fixing it while, with Markdown, you could do it instantly. 
+If you open a Word document that someone else created, you’ll find spacing that doesn’t look right, awkward headline design, or you’ll run into situations like pasting a paragraph from a different document and have the font being different, line spacing is off, and you’ll end up to spend an hour fixing it while, with Markdown, you could do it instantly. 
 To simplify this, what makes Word’s formatting rules frustrating is that the format is hidden from you. 
 Markdown eliminates this entirely. There’s only one way to create headings, bold texts, or lists. 
 Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main take away from this is that Markdown will put you back where your mental energy should be: on writing. 
@@ -204,7 +204,7 @@ When you use Markdown, you get to write in plain text. There’s no font, toolba
 
 **2. Preview your document**
 
-Your screen will look a lot more different while writing in plain text compared to the finished result. 
+Your screen will look a lot more different while writing in plain text compared to the finished result. However, this will help you catch any troubleshooting mistake right away.  
 
 **3. Use AI as an editing tool**
 
@@ -250,11 +250,11 @@ Once you have polished accounts, and experience with practicing Markdown, it’s
 
 ## About the Author
 
-I showcased my interest in writing and content creating by completing my bachelor’s degree in English and Cinema and Media Studies. After that, I was left with the question, “How am I going to apply these skills in the real work?” 
+I showcased my interest in writing and content creating by completing my bachelor’s degree in English and Cinema and Media Studies. After that, I was left with the question, “How am I going to apply these skills in the real world?” 
 
 Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
 
-The most practical step for me to start with was learning about Markdown. For writers who are in the same position as me, through this article, I’ve demonstrated that I can write _in_ Markdown, write _about_ Markdown, and do this while presenting it in a clear, structure, and easy way to follow. 
+The most practical step for me to start with was learning about Markdown. For writers who are in the same position as me, through this article, I’ve demonstrated that I can write _in_ Markdown, write _about_ Markdown, and do this while presenting it in a clear, structured, and easy way to follow. 
 
 ---
 
