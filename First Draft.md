@@ -208,9 +208,7 @@ Your screen will look a lot more different while writing in plain text compared 
 
 **3. Use AI as an editing tool**
 
-Using an AI assistant can make the editing process easier. 
-Here’s why: 
-It’s no secret, AI tools work better with plain text rather than pasting a Word document. There’s often formatting issues that can alter the content of the document. When you paste a Markdown text, it's a fast step because AI reads the text as it is. Paste your draft, get feedback, make changes, move on.
+AI tools work better with plain text. Paste your draft, ask for feedback, and make changes. There's no formatting baggage to strip out first — what you paste is exactly what the AI reads.
 
 **4. Publish to GitHub or your CMS**
 
@@ -220,7 +218,7 @@ Once your document is ready, you can upload your .md file to GitHub or paste it 
 
 ## 5. Next Steps
 
-Congratulations! You've covered the foundations. Here's where to go from here:
+You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
