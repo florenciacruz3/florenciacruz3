@@ -6,15 +6,14 @@
 ## Overview
 
 - Who this article is for:
-  * This article is intended for writers with basic knowledge of Microsoft Office, using apps, such as Word or Google Docs. 
+  * This article is intended for writers with basic knowledge of Word or Google Docs. 
 - What you will learn:
 
-  1. [Why Word Users Should Switch to Markdown](#1-why-word-users-should-switch-to-markdown)
-  3. [Why Writers Should Care About Markdown](#2-why-writers-should-care-about-markdown)
-  4. [Comparing Markdown to What You Already Know](#3-comparing-markdown-to-what-you-already-know)
-  5. [Core Markdown Syntax](#4-core-markdown-syntax)
-  6. [The Markdown Workflow](#5-the-markdown-workflow)
-  7. [Next Steps](#6-next-steps)
+  1. [Why Writers Should Care About Markdown](#1-why-writers-should-care-about-markdown)
+  2. [Comparing Markdown to What You Already Know](#2-comparing-markdown-to-what-you-already-know)
+  3. [Core Markdown Syntax](#3-core-markdown-syntax)
+  4. [The Markdown Workflow](#4-the-markdown-workflow)
+  5. [Next Steps](#5-next-steps)
   
 - What this article does not cover:
 
@@ -28,23 +27,17 @@
 
 ---
 
-## 1. Why Word Users Should Switch to Markdown
+## 1. Why Writers Should Care About Markdown
 
 - Why you stop fighting formatting
 - Markdown as the industry standard
-- What Markdown is 
-
+- Your files outlast any app — open the file in 20 years on any device, nothing proprietary to trap it
+- It works everywhere technical writers work — paste into GitHub, a docs platform, or a CMS and it renders immediately
+- It makes you hireable in tech — most technical writing roles expect Markdown fluency, learning it now removes a barrier to entry
+  
 ---
 
-## 2. Why Writers Should Care About Markdown
-
-- Portability — no software required
-- Compatibility — the standard format for GitHub, documentation sites, and CMS platforms
-- Industry relevance — tech industry focus
-
----
-
-## 3. Comparing Markdown to What You Already Know
+## 2. Comparing Markdown to What You Already Know
 
 - Side by side: Word vs Markdown
 - Side by side: Google Docs vs Markdown
@@ -53,30 +46,40 @@
 
 ---
 
-## 4. Core Markdown Syntax
+## 3. Core Markdown Syntax
 
 - Headings
 > [!NOTE]
-> What could go wrong?
+> Always include a space after # — without it, the heading won't render.
+
+
 - Bold and italic
 > [!NOTE]
-> What could go wrong?
+> Make sure every opening * has a closing one. Mismatched symbols break rendering.
+
+
 - Bullet lists and numbered lists
 > [!NOTE]
-> What could go wrong?
+> Keep indentation consistent. Uneven spacing breaks nested lists.
+
+
 - Links
 > [!NOTE]
-> What could go wrong?
+> Don't swap the brackets and parentheses — text goes in [], the URL goes in ().
+
+
 - Images
 > [!NOTE]
-> What could go wrong?
+> Don't forget the ! at the start. Without it, the image renders as a broken link instead.
+
+
 - Blockquotes
 > [!NOTE]
-> What could go wrong?
+> Include a space after >. Some parsers won't render the block without it.
 
 ---
 
-## 5. The Markdown Workflow
+## 4. The Markdown Workflow
 
 - Writing in plain text
 - Previewing your document
@@ -85,11 +88,11 @@
 
 ---
 
-## 6. Next Steps
+## 5. Next Steps
 
 - Recommended tutorials
 - Where to practice
-- Connecting Markdown to the "real world" 
+- Connecting Markdown to real-world technical writing roles
 
 ---
 
