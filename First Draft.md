@@ -224,11 +224,13 @@ Congratulations! You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
+- [Google Developers](https://developers.google.com/tech-writing/overview) — Most basic comprehension for starting from scratch. 
+  
 - [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. 
 
-- [CommonMark](https://commonmark.org/help/) — interactive tutorial with instant feedback. Takes about 20 minutes. Best starting point.
+- [CommonMark](https://commonmark.org/help/) — Print it or keep it open.
   
-- [GitHub Cheatsheet](https://commonmark.org/help/) - Print it or keep it open.
+
 
 ### Where to practice
 
