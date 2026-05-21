@@ -33,32 +33,28 @@ If you’ve ever used Word or Google docs, you've probably encountered a situati
 
 #### You stop fighting formatting
 
-If you open a Word document that someone else created, you’ll find spacing that doesn’t look right, awkward headline design, or you’ll run into situations like pasting a paragraph from a different document and have the font being different, line spacing is off, and you’ll end up to spend an hour fixing it while, with Markdown, you could do it instantly. 
-To simplify this, what makes Word’s formatting rules frustrating is that the format is hidden from you. 
-Markdown eliminates this entirely. There’s only one way to create headings, bold texts, or lists. 
-Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main take away from this is that Markdown will put you back where your mental energy should be: on writing. 
+In Word, formatting is hidden from you. You can paste from another document and you'll find that the font changes, spacing is off, and you end up spending more time fixing it than writing it. Markdown eliminates this entirely. There’s only one way to create headings, bold texts, or lists. When something is wrong, you know excactly what it is and how to fix it. Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main take away from this is that Markdown will put you back where your mental energy should be: on writing. 
 
 ---
 
 #### Your files outlast any app
 
-Over time, Microsoft changes .docx format. This means that eventually the version of Word you used to create a file is no longer supported. What happens next is that you try to open in a computer with a different version of Word and the layout shifts, making the fonts and table of contents wrong. You are left with a sloppy document that you spent hours of work formatting.
+Over time, Microsoft updates .docx format. Eventually the version of Word used to create a file stops being fully supported. When you open it on a different computer and the layout shifts, making the fonts and table of contents wrong. 
+
 Markdown files are immune to this. It is a plain text that has, and will always be, readable on every computer, no matter the device or software that you’re using. That's a guarantee no .docx file can make.
 
 ---
 
 #### It works everywhere technical writers work
 
-One practical piece of information is that, in technical writing, your content is never going to live in one place. GitHub, Confluence, Read the Docs, and GitBook, are all platforms where you can showcase your work. And they all accept Markdown directly. 
-This means that when writing is done in Markdown, it requires no reformatting. The file you draft is the file you publish. 
+In technical writing, your content tends to live in different platforms, such as GitHub, Confluence, Read the Docs, and GitBook. These all accept Markdown directly. You write it once, and it renders immediately without conversions or reformatting. The file you draft is the file you publish. 
 
 ---
 
 #### It's the industry standard
 
-For the tech industry, Markdown is the default writing format to this day. 
-The overwhelming majority of platforms, such as GitHub, developer tools, CLI documentation, README files, release notes, changelog entries — are all written in Markdown. 
-The point that I’m trying to make is that Markdown matters for writers because it is recognized and expected. When it comes to entering the tech industry, documentation written in clean Markdown shows that you understand the environment you're working in. 
+
+Mardown is the default writing format this days accorss the tech industry. The majority of platforms, GitHub, developer tools, README files, release notes, API documentation, are all written in Markdown. Documentation written in clean, well structured Markdown signals that you understand the environment you're working in. This should matter to all technical writers. 
 
 ---
 
@@ -250,11 +246,9 @@ Once you have polished accounts, and experience with practicing Markdown, it’s
 
 ## About the Author
 
-I showcased my interest in writing and content creating by completing my bachelor’s degree in English and Cinema and Media Studies. After that, I was left with the question, “How am I going to apply these skills in the real world?” 
+I completed my bachelor's degree in English and Cinema and Media studies. After that, I spent a while wondering how to apply those skills in the real world. Tehcnincal writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
 
-Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
-
-The most practical step for me to start with was learning about Markdown. For writers who are in the same position as me, through this article, I’ve demonstrated that I can write _in_ Markdown, write _about_ Markdown, and do this while presenting it in a clear, structured, and easy way to follow. 
+My first step was learning Markdown. For writers who are in the same position as me, through this article, I’ve demonstrated that I can write _in_ Markdown, write _about_ Markdown, and do this while presenting it in a clear, structured, and easy way to follow. 
 
 ---
 
