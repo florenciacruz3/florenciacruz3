@@ -27,13 +27,13 @@
 
 ## 1. Why Writers Should Care About Markdown
 
-If you’ve ever used Word or Google docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
+If you’ve ever used Word or Google Docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
 
 ---
 
 #### You stop fighting formatting
 
-In Word, formatting is hidden from you. You can paste from another document and you'll find that the font changes, spacing is off, and you end up spending more time fixing it than writing it. Markdown eliminates this entirely. There’s only one way to create headings, bold texts, or lists. When something is wrong, you know exactly what it is and how to fix it. Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main take away from this is that Markdown will put you back where your mental energy should be: on writing. 
+In Word, formatting is hidden from you. You can paste from another document and you'll find that the font changes, spacing is off, and you end up spending more time fixing it than writing it. Markdown eliminates this entirely. There’s only one way to create headings, bold text, or lists. When something is wrong, you know exactly what it is and how to fix it. Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main takeaway from this is that Markdown will put you back where your mental energy should be: on writing. 
 
 ---
 
@@ -54,7 +54,7 @@ In technical writing, your content tends to live in different platforms, such as
 #### It's the industry standard
 
 
-Markdown is the default writing format these days across the tech industry. The majority of platforms, GitHub, developer tools, README files, release notes, API documentation, are all written in Markdown. Documentation written in clean, well structured Markdown signals that you understand the environment you're working in. 
+Markdown is the default writing format these days across the tech industry. The majority of platforms, GitHub, developer tools, README files, release notes, API documentation, are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. 
 
 ---
 
@@ -200,7 +200,7 @@ When you use Markdown, you get to write in plain text. There’s no font, toolba
 
 **2. Preview your document**
 
-Your screen will look a lot more different while writing in plain text compared to the finished result. However, opening the preview pane alongside your text helps you catch mistakes early, before they become bigger problems.
+Your screen will look quite different while writing in plain text compared to the finished result. However, opening the preview pane alongside your text helps you catch mistakes early, before they become bigger problems.
 
 **3. Use AI as an editing tool**
 
@@ -218,13 +218,13 @@ You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
-- [Google Developers](https://developers.google.com/tech-writing/overview) — Most basic comprehension for starting from scratch. 
+- [Google Developers](https://commonmark.org/help/) — Cointains links and basic information that will help you get started. 
   
 - [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. 
 
 - [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. Best starting point.
 
-- [Markdown Cheatsheet](https://commonmark.org/help/) — Not a course, just the cheat sheet she will bookmark and use every day. Print it or keep it open
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — Not a course, just a cheat sheet to use day by day. Print it or keep it open
 
 ### Where to practice
 
@@ -232,15 +232,7 @@ There are two useful things I did to build real Markdown fluency:
 
 -	The first was using GitHub. I created a repository and started writing directly in `.md` 
 
--	The second was, based off a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
-
-### Connecting Markdown to real-world technical writing roles
-
-The fastest way to signal Markdown fluency to hiring managers is to write publicly — on GitHub, a personal docs site, or a platform like Dev.to.
-
-Make sure your GitHub profile, LinkedIn, and Upwork are up to date and link to your published work.
-
-Once you have polished accounts, and experience with practicing Markdown, it’s time to publish some of that work in your platform and showcase your qualifications.  
+-	The second was, based on a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
 
 ---
 
@@ -248,7 +240,7 @@ Once you have polished accounts, and experience with practicing Markdown, it’s
 
 I completed my bachelor's degree in English and Cinema and Media studies. After that, I spent a while wondering how to apply those skills in the real world. Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
 
-My first step was learning Markdown. For writers who are in the same position as me, through this article, I’ve demonstrated that I can write _in_ Markdown, write _about_ Markdown, and do this while presenting it in a clear, structured, and easy way to follow. 
+My first step was learning Markdown. 
 
 ---
 
