@@ -41,7 +41,7 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
-A .docx file is different. It requires software that knows how to prase it. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you may come accross shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
+A .docx file is different. It requires software that knows how to parse it. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you may come across shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
 
 The main advantage that Markdown gives you is durability. 
 
@@ -56,7 +56,7 @@ In technical writing, your content tends to live in different platforms, such as
 #### It's the industry standard
 
 
-Markdown is the default writing format these days across the tech industry. The majority of platforms, GitHub, developer tools, README files, release notes, API documentation, are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. 
+Markdown is the default writing format these days across the tech industry. The majority of platforms — GitHub, developer tools, README files, release notes, API documentation — are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. 
 
 ---
 
@@ -95,7 +95,7 @@ Markdown formatting can feel like a whole new universe, but you're not starting 
 ### What you'll need to learn from scratch
 
 - The syntax symbols: `#`, `**`, `*`, `-`, `[`, `](`, `!`
-- Editing without using a tool bar. 
+- Editing without using a toolbar 
 - Previewing your work: always double check your rendered output separately from your raw text
 
 ---
@@ -232,9 +232,9 @@ You've covered the foundations. Here's where to go from here:
 
 There are two useful things I did to build real Markdown fluency: 
 
--	First, I used GitHub. I created a repository and started writing directly in `.md`. 
+-	First, I rewrote a real webpage in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
 
--	Second, based on a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
+-	Second, I used GitHub. I created a repository and started writing directly in `.md`. 
 
 ---
 
@@ -246,4 +246,4 @@ My first step was learning Markdown.
 
 ---
 
-*Last updated: 2026*
+*Last updated: May 2026*
