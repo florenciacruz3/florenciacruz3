@@ -43,6 +43,8 @@ A Markdown file is plain text. You can open it in Notepad, a browser, or any bas
 
 A .docx file is different. It requires software that knows how to parse it. Open the same .docx in Word, Google Docs, and LibreOffice and you may come across shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
 
+The problem isn't which app you use — it's that .docx files depend on the app to look right. Markdown doesn't.
+
 ---
 
 #### It works everywhere technical writers work
