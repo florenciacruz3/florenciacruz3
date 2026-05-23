@@ -39,9 +39,11 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 #### Your files outlast any app
 
-Over time, Microsoft updates .docx format. Eventually the version of Word used to create a file stops being fully supported. When you open it on a different computer, the layout shifts, making the fonts and table of contents wrong. 
+A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
-Markdown files are immune to this. It is a plain text that has, and will always be, readable on every computer, no matter the device or software that you’re using. That's a guarantee no .docx file can make.
+A .docx file is different. It requires software that knows how to prase. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you could come accross with shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
+
+The main advantage that Markdown gives you is durability. 
 
 ---
 
