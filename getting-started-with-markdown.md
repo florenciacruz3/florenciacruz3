@@ -27,7 +27,7 @@
 
 ## 1. Why Writers Should Care About Markdown
 
-If you’ve ever used Word or Google Docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and that after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
+If you’ve ever used Word or Google Docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout that fell apart after pasting. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
 
 ---
 
@@ -41,7 +41,7 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
-A .docx file is different. It requires software that knows how to parse it. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you may come across shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
+A .docx file is different. It requires software that knows how to parse it. Open the same .docx in Word, Google Docs, and LibreOffice and you may come across shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
 
 The main advantage that Markdown gives you is durability. 
 
@@ -232,9 +232,9 @@ You've covered the foundations. Here's where to go from here:
 
 There are two useful things I did to build real Markdown fluency: 
 
--	First, I rewrote a real webpage in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
+- First, I used GitHub. I created a repository and started writing directly in .md.
 
--	Second, I used GitHub. I created a repository and started writing directly in `.md`. 
+- Second, I rewrote a real webpage in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require.
 
 ---
 
