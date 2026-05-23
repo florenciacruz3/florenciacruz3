@@ -27,7 +27,7 @@
 
 ## 1. Why Writers Should Care About Markdown
 
-If you’ve ever used Word or Google Docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
+If you’ve ever used Word or Google Docs, you've probably encountered a situation where you spent 20 minutes, trying to fix a heading that won’t cooperate, or designing a whole layout for your article and that after pasting fell apart. Markdown works differently. The formatting is right there in the text, plain as day. And once you understand why that matters, it's hard to go back.
 
 ---
 
@@ -41,7 +41,7 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
-A .docx file is different. It requires software that knows how to prase. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you could come accross with shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
+A .docx file is different. It requires software that knows how to prase it. You will see that if you open the same .docx in Word, Google Docs, and LibreOffice, you may come accross shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
 
 The main advantage that Markdown gives you is durability. 
 
@@ -220,27 +220,27 @@ You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
-- [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Cointains links and basic information that will help you get started. 
+- [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. 
   
 - [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. 
 
 - [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. Best starting point.
 
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — Not a course, just a cheat sheet to use day by day. Print it or keep it open
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — Not a course, just a cheat sheet to use day by day. Print it or keep it open.
 
 ### Where to practice
 
 There are two useful things I did to build real Markdown fluency: 
 
--	The first was using GitHub. I created a repository and started writing directly in `.md` 
+-	First, I used GitHub. I created a repository and started writing directly in `.md`. 
 
--	The second was, based on a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
+-	Second, based on a real webpage, rewriting it in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. 
 
 ---
 
 ## About the Author
 
-I completed my bachelor's degree in English and Cinema and Media studies. After that, I spent a while wondering how to apply those skills in the real world. Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
+I completed my bachelor's degree in English and Cinema and Media Studies. After that, I spent a while wondering how to apply those skills in the real world. Technical writing was the answer. It sits at the intersection of clear communication and the tools people actually use.
 
 My first step was learning Markdown. 
 
