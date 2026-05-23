@@ -37,7 +37,7 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 ---
 
-#### Your files outlast any app
+#### Your formatting stays consistent across every app
 
 A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
