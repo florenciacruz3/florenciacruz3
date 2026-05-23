@@ -21,7 +21,7 @@
 - Writing README files for software projects
 - Advanced Markdown tutorials or concepts
 
-> ⏱ Estimated reading time: 15 minutes
+> ⏱ Estimated reading time: 10 minutes
 
 ---
 
