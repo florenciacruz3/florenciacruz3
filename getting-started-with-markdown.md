@@ -33,7 +33,9 @@ If you’ve ever used Word or Google Docs, you've probably encountered a situati
 
 #### You stop fighting formatting
 
-In Word, formatting is hidden from you. You can paste from another document and you'll find that the font changes, spacing is off, and you end up spending more time fixing it than writing it. Markdown eliminates this entirely. There’s only one way to create headings, bold text, or lists. When something is wrong, you know exactly what it is and how to fix it. Writing itself is hard enough but having to deal with formatting at the same time is just not practical. The main takeaway from this is that Markdown will put you back where your mental energy should be: on writing. 
+In Word, formatting is hidden from you. You can paste from another document and you'll find that the font changes, spacing is off, and you end up spending more time fixing it than writing it. Markdown eliminates this entirely. There’s only one way to create headings, bold text, or lists. When something is wrong, you know exactly what it is and how to fix it. Writing itself is hard enough but having to deal with formatting at the same time is just not practical. 
+
+The main takeaway from this is that Markdown will put you back where your mental energy should be: on writing. 
 
 ---
 
@@ -41,28 +43,22 @@ In Word, formatting is hidden from you. You can paste from another document and 
 
 A Markdown file is plain text. You can open it in Notepad, a browser, or any basic text editor — with no software dependency at all. 
 
-A .docx file is different. It requires software that knows how to parse it. Open the same .docx in Word, Google Docs, and LibreOffice and you may come across shifted layouts, inconsistent fonts, broken tables. Even though the content stays the same, the rendering depends on the app reading it. 
+A .docx file is different. It requires software that knows how to parse it. Open the same .docx in Word, Google Docs, and LibreOffice and you may come across shifted layouts, inconsistent fonts, broken tables. The content stays the same. The rendering depends on the app reading it. 
 
 The problem isn't which app you use — it's that .docx files depend on the app to look right. Markdown doesn't.
 
 ---
 
-#### It works everywhere technical writers work
-
-In technical writing, your content tends to live in different platforms, such as GitHub, Confluence, Read the Docs, and GitBook. These all accept Markdown directly. You write it once, and it renders immediately without conversions or reformatting. The file you draft is the file you publish. 
-
----
-
-#### It's the industry standard
+#### The tech industry already speaks Markdown
 
 
-Markdown is the default writing format these days across the tech industry. The majority of platforms — GitHub, developer tools, README files, release notes, API documentation — are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. 
+Markdown is the default writing format these days across the tech industry. The majority of platforms — GitHub, developer tools, README files, release notes, API documentation — are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. It's not just a useful skill. It's the expected one.
 
 ---
 
 ## 2. Comparing Markdown to What You Already Know
 
-Markdown formatting can feel like a whole new universe, but you're not starting from zero. Heading levels, emphasis, and lists are identical at the *thinking* level. You'll only need to learn some method changes. 
+Markdown formatting can feel like a whole new universe, but you're not starting from zero. Heading levels, emphasis, and lists are identical at the *thinking* level. The concepts are identical. Only the symbols are new.
 
 ### Word vs. Markdown
 
