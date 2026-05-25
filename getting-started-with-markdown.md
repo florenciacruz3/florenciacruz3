@@ -51,8 +51,10 @@ The problem isn't which app you use — it's that .docx files depend on the app 
 
 #### The tech industry already speaks Markdown
 
+In technical writing, your content lives across multiple platforms — GitHub, Confluence, Read the Docs, GitBook. Every one of these accepts Markdown directly. You write it once and it renders immediately, without conversions 
+or reformatting.
 
-Markdown is the default writing format these days across the tech industry. The majority of platforms — GitHub, developer tools, README files, release notes, API documentation — are all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. It's not just a useful skill. It's the expected one.
+Markdown is the default writing format across the tech industry. README files, release notes, API documentation, developer tools — all written in Markdown. Documentation written in clean, well-structured Markdown signals that you understand the environment you're working in. It's not just a useful skill. It's the expected one.
 
 ---
 
