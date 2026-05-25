@@ -190,7 +190,10 @@ Add `>` before a line to turn it into a blockquote.
 ## 4. The Markdown Workflow
 
 In Word or Google Docs, writing and formatting happen at the same time. You keep switching back and forth between typing a sentence, then clicking a menu, then adjusting a heading, then getting back to the sentence. 
+
 Markdown, however, separates writing from formatting, making everything in the text flow better. 
+
+Here is how that separation works in practice.
 
 **1. Write in plain text**
 
