@@ -58,7 +58,7 @@ Markdown is the default writing format these days across the tech industry. The 
 
 ## 2. Comparing Markdown to What You Already Know
 
-Markdown formatting can feel like a whole new universe, but you're not starting from zero. Heading levels, emphasis, and lists are identical at the *thinking* level. The concepts are identical. Only the symbols are new.
+Markdown formatting can feel like a whole new universe — but you're not starting from zero. Heading levels, emphasis, and lists are identical at the *thinking* level. The concepts are identical. Only the symbols are new.
 
 ### Word vs. Markdown
 
