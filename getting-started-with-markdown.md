@@ -245,6 +245,10 @@ I completed my bachelor's degree in English and Cinema and Media Studies. After 
 
 My first step was learning Markdown. 
 
+**Connect:**
+[LinkedIn](https://www.linkedin.com/in/florencia-cruz-assandri) · 
+[Upwork](https://www.upwork.com/freelancers/~01be3448096dd46eac)
+
 ---
 
 *Last updated: May 2026*
