@@ -221,21 +221,41 @@ You've covered the foundations. Here's where to go from here:
 
 ### Recommended tutorials
 
-- [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. 
+- [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. This was probably the easiest most elemental site in this list. It's easy to comprehend, not heavy information at all, and you can do this in less than a week. 
   
-- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. 
+- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although I wish I've had an article like this one to read about why Markdown overpowers Word before jumping in to syntax, I found these activities to be extremely useful and easy to do. It only took me a little bit less than an hour, and I was able to comprehend basic Markdown syntax. 
 
-- [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. Best starting point.
+- [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. Best starting point. Having this aditional tutorial to do after the previous one was extremely useful because it covered everything extra that the previous one didn't and by doing this I was able to also go back and review what I had learned previously. 
 
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — Not a course, just a cheat sheet to use day by day. Print it or keep it open.
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) — Not a course, just a cheat sheet to use day by day. Print it or keep it open. This cheatsheet continues to be useful to this day. Once you are done learning tutorials and you are faced with having to work on a Markdown project on your own, the quickest way to remember how to do syntax is not searching it online, it's having this cheatsheet opened in a different tab. 
+
+- [GitHub Guide](https://github.com/git-guides) — Introduction to GitHub. Takes 20 minutes to read. If you want to learn about GitHub and have a quick visualization of what it is, I recommend reading this article. Good for orientation, but not sufficient on its own. Treat it as a first look, not a complete resource.
+  
+- [GitHub QuickStart](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Deep guide into everything you'll need to learn before using GitHub. This is extensive, long material. Can take a couple of days to read through it — but don't skip it. This guide contains everything you need to lear about GitHub. I wouldn't have known where to begin without it. 
+
+- [FreeCodeCamp's Git & GitHub full course](https://www.youtube.com/watch?v=RGOj5yH7evk) — 1 hour YouTube video. Watch this video before the branching activity below. If you're more of visual — sitting back and listening — learner, this video is for you. It's relatively short and easy to follow.
+
+- [Learning Branching](https://learngitbranching.js.org) — Interactive coding activity. It takes about 2 hours to complete. This one was the real challenege. Don't attempt it without completing the resources above. It's level based, starting from simple and getting progressively harder. I managed to get up to the last level when I did this, but my recommendation is that if you get stuck before the end, move on. The goal is understanding, not completion. 
 
 ### Where to practice
 
-There are two useful things I did to build real Markdown fluency: 
+There are three useful things I did to build real Markdown fluency: 
 
-- First, I used GitHub. I created a repository and started writing directly in .md.
+- **First, I set up my GitHub profile and first repository.** While working with GitHub QuickStart simultaneously, I followed each step as I was reading it. I created a GitHub profile, a repository, and a README file. 
 
+  Once you've absorved all of the information that was listed on the previous section, navegating through GitHub felt managable. 
+
+  After going through all of the readings and tutorials, having my GitHub profile created, an empty repository, and Readme file, I was ready to move on to step 2. 
+
+> [!TIP]
+> The first time that I came into contact with GitHub, I didn't know why the preview page wasn't working. I had to Google it. It turns out that in order to do Markdown syntax on your GitHub, your file must end in `.md` for GitHub to recognize it as Markdown. Name your files accordingly from the start.
+  
 - Second, I rewrote a real webpage in Markdown from scratch using only Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require.
+I decided to pick one of the pages from Google Developer's course, and re-create it. Once you've absorved all of the information that I've given you, doing this step is the real test to your knowledge.
+The purpose of this activity is to get you to practice your fluency on Markdown syntax. If you still don't feel confident enough after doing this, I would recommend doing several of them. 
+
+> [!TIP]
+> Something to keep in mind is that there are many apps for writing in Markdown. I made the mistake to you one of those, and once I wrote it and turned it in, it turns out there were a lot of broken links that I weren't visible to me at first. I recommend writing your website page directly in GitHub. 
 
 ---
 
