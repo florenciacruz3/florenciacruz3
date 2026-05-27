@@ -223,7 +223,7 @@ You've covered the foundations. Here's where to go from here:
 
 - [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. It's easy to comprehend, not heavy on information, and completable in less than a week. 
   
-- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had read an article like this one to understand why Markdown is important, I found these activities to be extremely useful and easy to do. It only took me a little bit less than an hour, and I was able to comprehend basic Markdown syntax. 
+- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had been explained why Markdown is a better tool than Word before stepping into syntax, I found these activities to be extremely useful and easy to do. It only took me a little bit less than an hour, and I was able to comprehend basic Markdown syntax. 
 
 - [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. It fills the gaps, and the repetition made the new material stick. Do this one right after Markdown Tutorial.
 
