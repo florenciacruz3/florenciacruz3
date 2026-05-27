@@ -223,7 +223,7 @@ You've covered the foundations. Here's where to go from here:
 
 - [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. It's easy to comprehend, not heavy on information, and completable in less than a week. 
   
-- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had been explained why Markdown is a better tool than Word before stepping into syntax, I found these activities to be extremely useful and easy to do. This is the best way to comprehend basic Markdown syntax in less than an hour. 
+- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had understood why Markdown is a better tool than Word before stepping into syntax, I found these activities to be extremely useful and easy to do. This is the best way to comprehend basic Markdown syntax in less than an hour. 
 
 - [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. It fills the gaps, and the repetition made the new material stick. Do this one right after Markdown Tutorial.
 
@@ -254,12 +254,12 @@ Once you've absorbed all the information that was listed on the previous section
 
 I decided to pick one of the pages from Google Developer's course and re-create it. This is the real test of your knowledge. 
 
-I will get you to practice your fluency on Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require.
+It will get you to practice your fluency on Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require.
 
 If one page doesn't feel like enough, do another.
 
 > [!TIP]
-> There are many Markdown apps out there but write directly in GitHub instead. Once I wrote my first Markdown practice page, it turns out there were broken links that I weren't visible to me until I turned it in. After that, everything clicked. 
+> There are many Markdown apps out there but write directly in GitHub instead. Once I wrote my first Markdown practice page, it turns out there were broken links that weren't visible to me until I turned it in. After that, everything clicked. 
 
 - **Third, I wrote my first piece on GitHub from scratch.**
 
@@ -269,10 +269,10 @@ When I wrote this article, I had complete freedom. You're not just copy-pasting 
 
 I started with an outline and wrote a first draft. 
 
-From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. At this point nobody knows this pull request exists. Remember to tag whoever you want them to see you in the comments or sent the PR link directly. 
+From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. At this point nobody knows this pull request exists. Tag the person you want to review it in the comments, or send them the URL directly.
 
 > [!TIP]
-> In order to create a pull request, you will need to have changes made into your draft. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
+> You need existing changes in your branch before GitHub will let you open one. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
 
 Once you feel confident in your piece, be ready to defend it.
 
