@@ -223,7 +223,7 @@ You've covered the foundations. Here's where to go from here:
 
 - [Google Developers](https://developers.google.com/tech-writing/one/markdown) — Contains links and basic information that will help you get started. It's easy to comprehend, not heavy on information, and completable in less than a week. 
   
-- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had been explained why Markdown is a better tool than Word before stepping into syntax, I found these activities to be extremely useful and easy to do. It only took me a little bit less than an hour, and I was able to comprehend basic Markdown syntax. 
+- [Markdown Tutorial](https://www.markdowntutorial.com) — Beginner-friendly, step-by-step lessons, completely free. Takes 30-45 minutes. Although, I wish I had been explained why Markdown is a better tool than Word before stepping into syntax, I found these activities to be extremely useful and easy to do. This is the best way to comprehend basic Markdown syntax in less than an hour. 
 
 - [CommonMark](https://commonmark.org/help/) — The official interactive tutorial. Takes about 20 minutes. It fills the gaps, and the repetition made the new material stick. Do this one right after Markdown Tutorial.
 
@@ -265,16 +265,16 @@ If one page doesn't feel like enough, do another.
 
 This is where actual writing comes in. 
 
-The biggest advantage here is that you have complete freedom. You're not just copy-pasting any information and design from any website. You can add tables, lists, blockquotes, headings, and bold text, as you please. 
+When I wrote this article I had complete freedom. You're not just copy-pasting any information and design from any website. You can add tables, lists, blockquotes, headings, and bold text, as you please. 
 
-Start with your outline and then, your first draft. 
+I started with an outline, and wrote a first draft. 
 
 From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. 
 
-And once you feel confident enough about your piece, be ready to defend your own ideas and decisions. 
-
 > [!TIP]
-> Always back up your work. I once renamed a file, hit commit, and when I tried to open it, it would give me an error. I had to copy all my code and paste it into a new file. 
+> In order to create a pull request you will need to have changes made into your draft. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
+
+Once you feel confident in your piece, be ready to defend it.
 
 ---
 
