@@ -269,7 +269,7 @@ When I wrote this article, I had complete freedom. You're not just copy-pasting 
 
 I started with an outline and wrote a first draft. 
 
-From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. At this point nobody knows this pull request exists. Tag the person you want to review it in the comments, or send them the URL directly.
+From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. At this point nobody knows this pull request exists. Tag the person you want to review it in the comments or send them the URL directly.
 
 > [!TIP]
 > You need existing changes in your branch before GitHub will let you open one. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
