@@ -245,10 +245,10 @@ There are three useful things I did to build real Markdown fluency:
 
 While working with GitHub QuickStart simultaneously, I followed each step as I was reading it. I created a GitHub profile, a repository, and a README file. 
 
-Once you've absorbed all of the information that was listed on the previous section, navigating through GitHub felt manageable. 
+Once you've absorbed all the information that was listed on the previous section, navigating through GitHub felt manageable. 
 
 > [!TIP]
-> The first time that I came into contact with GitHub, I didn't know why my Markdown syntax wasn't rendering. I had to Google it. It turns out that in order to do Markdown syntax on your GitHub, your file must end in `.md` for GitHub to recognize it as Markdown. Name your files accordingly from the start.
+> The first time that I came into contact with GitHub, I didn't know why my Markdown syntax wasn't rendering. I had to Google it. It turns out that to do Markdown syntax on your GitHub, your file must end in `.md` for GitHub to recognize it as Markdown. Name your files accordingly from the start.
   
 - **Second, I rewrote a real webpage in Markdown from scratch using only Markdown syntax.**
 
@@ -265,14 +265,14 @@ If one page doesn't feel like enough, do another.
 
 This is where actual writing comes in. 
 
-When I wrote this article I had complete freedom. You're not just copy-pasting any information and design from any website. You can add tables, lists, blockquotes, headings, and bold text, as you please. 
+When I wrote this article, I had complete freedom. You're not just copy-pasting any information and design from any website. You can add tables, lists, blockquotes, headings, and bold text, as you please. 
 
-I started with an outline, and wrote a first draft. 
+I started with an outline and wrote a first draft. 
 
-From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. 
+From there, the writing process stays the same: proofreading, editing, rewriting, and getting feedback. When you're ready, create a pull request. At this point nobody knows this pull request exists. Remember to tag whoever you want them to see you in the comments or sent the PR link directly. 
 
 > [!TIP]
-> In order to create a pull request you will need to have changes made into your draft. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
+> In order to create a pull request, you will need to have changes made into your draft. Always remember to create your pull request at the beginning of the editing process, I've made that mistake before.  
 
 Once you feel confident in your piece, be ready to defend it.
 
