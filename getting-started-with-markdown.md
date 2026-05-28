@@ -254,12 +254,12 @@ Once you've absorbed all the information that was listed on the previous section
 
 I decided to pick one of the pages from Google Developer's course and re-create it. This is the real test of your knowledge. 
 
-It will get you to practice your fluency on Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require.
+It will get you to practice your fluency on Markdown syntax. It forces you to make real decisions about structure and formatting that tutorials don't require. Doing this activity was when markdown started making sense to me. 
 
 If one page doesn't feel like enough, do another.
 
 > [!TIP]
-> There are many Markdown apps out there but write directly in GitHub instead. Once I wrote my first Markdown practice page, it turns out there were broken links that weren't visible to me until I turned it in. After that, everything clicked. 
+> There are many Markdown apps out there but write directly in GitHub instead. Once I wrote my first Markdown practice page, it turns out there were broken links that weren't visible to me until I turned it in.  
 
 - **Third, I wrote my first piece on GitHub from scratch.**
 
