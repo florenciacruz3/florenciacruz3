@@ -10,7 +10,7 @@
 
 **What you will learn:**
 
-1. [What Is Microsoft Fabric — and Why Does Your Tenant Matter?](#1-what-is-microsoft-fabric-and-why-does-your-tenant-matter)
+1. [What Microsoft Fabric Is — and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
 3. [Who It Is For](#3-who-it-is-for)
 4. [What You Get](#4-what-you-get)
@@ -26,7 +26,7 @@
 
 ---
 
-## 1. What Is Microsoft Fabric — and Why Does Your Tenant Matter?
+## 1. What Microsoft Fabric Is— and Why Your Tenant Matters
 
 - All-in-one data platform concept
 - Brief explanation of what a tenant is and what lives in it
