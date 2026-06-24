@@ -1,12 +1,13 @@
 # Getting Started with Tenant Scan
-## The hidden risks in your Microsoft Fabric tenant — and how to find them before they find you
+## The Hidden Risks in your Microsoft Fabric tenant — and how to find them before they find you
 
 ---
 
 ## Overview
 
-- Who this article is for:
-  * This article is intended for enterprise teams managing 50+ workspaces and planning a move to Fabric
+**Who this article is for:**
+
+This article is intended for enterprise teams managing 50+ workspaces and planning a move to Fabric
 
 **What you will learn:**
 
