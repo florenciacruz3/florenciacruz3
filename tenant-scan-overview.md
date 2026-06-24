@@ -29,9 +29,9 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 1. What Microsoft Fabric Is— and Why Your Tenant Matters
 
-- All-in-one data platform concept
+- All-in-one data platform overview
 - Brief explanation of what a tenant is and what lives in it
-- Orphaned workplaces
+- Orphaned workspaces
   
 ---
 
@@ -62,9 +62,12 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 4. What You Get
 
-- Fabric Readiness Score — 0 to 100 rating
-- Governance and License Audit
-- Prioritized Action Plan
+- **Fabric Readiness Score** — 0 to 100 rating across governance,
+  complexity, and migration readiness
+- **Governance and License Audit** — workspace ownership mapping,
+  orphaned access, license waste, and sensitivity label coverage
+- **Prioritized Action Plan** — your top 5 actions ranked by
+  impact-to-effort ratio, executable within 90 days
 > [!NOTE]
 > The entire intake process runs through a structured 15-minute questionnaire.
 
@@ -85,13 +88,13 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
   and a phased roadmap that got their first 50 workspaces 
   live in Fabric within the quarter.
 
-  ---
+---
 
   ## Get Started
 
-Most organizations discover governance gaps once it's too late
+Most organizations discover governance gaps when it is already too late.
 
-The Tenant Scan gives you a guiding map
+The Tenant Scan gives you a guiding map.
 
 The problems are knowable. The question is whether you find 
 them before they find you.
