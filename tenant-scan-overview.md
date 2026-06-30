@@ -13,10 +13,11 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 1. [What Microsoft Fabric Is — and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
-3. [Who It Is For](#3-who-it-is-for)
-4. [What You Get](#4-what-you-get)
-5. [What Clients Have Found](#5-what-clients-have-found)
-6. [Get Started](#6-get-started)
+3. [Comparing Fabric To Other Services](#3-comparing-fabric-to-other-services)
+4. [Who It Is For](#4-who-it-is-for)
+5. [What You Get](#5-what-you-get)
+6. [What Clients Have Found](#6-what-clients-have-found)
+7. [Get Started](#7-get-started)
 
 **What this article does *not* cover:**
 
@@ -48,7 +49,15 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-## 3. Who It Is For
+## 3. Comparing Fabric To Other Services
+
+- Microsoft Azure SQL Database
+- Microsoft Power BI
+- Microsoft Azure
+
+---
+
+## 4. Who It Is For
 
 - Planning a migration to Microsoft Fabric and need to know 
   what is in your current environment before you commit
@@ -61,7 +70,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-## 4. What You Get
+## 5. What You Get
 
 - **Fabric Readiness Score** — 0 to 100 rating across governance,
   complexity, and migration readiness
@@ -74,7 +83,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-## 5. What Clients Have Found
+## 6. What Clients Have Found
 
 - **30-day remediation** — A mid-market retail company with 200+ 
   workspaces discovered 47 overshared datasets and 12 workspaces 
@@ -91,7 +100,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-## 6. Get Started
+## 7. Get Started
 
 Most organizations discover governance gaps when it is already too late.
 
