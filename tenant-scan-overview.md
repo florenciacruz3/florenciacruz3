@@ -16,6 +16,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 3. [Who It Is For](#3-who-it-is-for)
 4. [What You Get](#4-what-you-get)
 5. [What Clients Have Found](#5-what-clients-have-found)
+6. [Get Started](#6-get-started)
 
 **What this article does *not* cover:**
 
@@ -90,7 +91,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-  ## Get Started
+## 6. Get Started
 
 Most organizations discover governance gaps when it is already too late.
 
@@ -103,3 +104,58 @@ them before they find you.
 Fabric Readiness Report in 3–5 business days.**
 
 [Get Started →](https://www.thepowermates.com/tenant-scan)
+
+## FAQ
+
+### Does PowerMates need access to our tenant to run a scan?
+
+No. Tenant Scan does not require any tenant access. The entire 
+intake process runs through a structured 15-minute questionnaire. 
+Your team never has to grant external access to your environment.
+
+---
+
+### How disruptive is this to our team?
+
+Minimal. Beyond the initial 15-minute questionnaire, your team 
+does not need to be pulled off their regular work. This is not 
+a multi-week audit that requires ongoing internal involvement.
+
+---
+
+### What if we already think we know what's in our tenant?
+
+Most teams underestimate the scope of the problem. The typical 
+findings — 30 to 40 percent workspace sprawl, 25 to 30 percent 
+orphaned access — are discovered precisely because internal teams 
+did not have full visibility into their own environment. That is 
+the value an external, structured assessment provides.
+
+---
+
+### What's the difference between this and Microsoft's built-in admin reporting?
+
+Microsoft's native tools surface raw data — lists of workspaces, 
+licenses, and permissions. Tenant Scan turns that raw data into a 
+scored, prioritized, actionable report. The value is not the data 
+itself, it is the analysis and the ranked top 5 action plan built 
+from it.
+
+---
+
+### Is this only useful right before a migration?
+
+No. While Tenant Scan is especially valuable for teams actively 
+planning a Fabric migration, the same governance issues — 
+workspace sprawl, orphaned access, license waste — are worth 
+identifying for any organization looking to reduce cost and risk, 
+migration or not.
+
+---
+
+### What happens after we receive the report?
+
+You receive your Fabric Readiness Score, a full governance and 
+license audit, and a prioritized action plan covering your top 5 
+recommended actions — each one rated by impact and effort, and 
+designed to be executable within 90 days.
