@@ -11,7 +11,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 **What you will learn:**
 
-1. [What Microsoft Fabric Is — and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
+1. [What Microsoft Fabric Is: Why Your Tenant Matters](#1-what-microsoft-fabric-is-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
 3. [Comparing Fabric To Other Services](#3-comparing-fabric-to-other-services)
 4. [Who It Is For](#4-who-it-is-for)
