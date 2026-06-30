@@ -110,46 +110,38 @@ Fabric Readiness Report in 3–5 business days.**
 ### Does PowerMates need access to our tenant to run a scan?
 
 No. Tenant Scan does not require any tenant access. The entire 
-intake process runs through a structured 15-minute questionnaire. 
-Your team never has to grant external access to your environment.
+intake process runs through a 15-minute questionnaire. 
+There's no need for external access to your environment.
 
 ---
 
 ### How disruptive is this to our team?
 
 Minimal. Beyond the initial 15-minute questionnaire, your team 
-does not need to be pulled off their regular work. This is not 
-a multi-week audit that requires ongoing internal involvement.
+will not need to be pulled off their regular work. This does not require ongoing internal involement.
 
 ---
 
 ### What if we already think we know what's in our tenant?
 
-Most teams underestimate the scope of the problem. The typical 
-findings — 30 to 40 percent workspace sprawl, 25 to 30 percent 
-orphaned access — are discovered precisely because internal teams 
-did not have full visibility into their own environment. That is 
-the value an external, structured assessment provides.
+Most teams underestimate or try to avoid the problem. There's actual findings — 30 to 40 percent workspace sprawl, 25 to 30 percent 
+orphaned access — which are discovered percisely becuase of lack of visibility into the team's own environment. 
 
 ---
 
 ### What's the difference between this and Microsoft's built-in admin reporting?
 
-Microsoft's native tools surface raw data — lists of workspaces, 
+Microsoft's tools show raw data — lists of workspaces, 
 licenses, and permissions. Tenant Scan turns that raw data into a 
-scored, prioritized, actionable report. The value is not the data 
-itself, it is the analysis and the ranked top 5 action plan built 
+scored, prioritized, actionable report. The solution that a tenant scan will show is not the data itself, it is the analysis and the ranked top 5 action plan built 
 from it.
 
 ---
 
 ### Is this only useful right before a migration?
 
-No. While Tenant Scan is especially valuable for teams actively 
-planning a Fabric migration, the same governance issues — 
-workspace sprawl, orphaned access, license waste — are worth 
-identifying for any organization looking to reduce cost and risk, 
-migration or not.
+No. Whether there's an ongoing migration or not, looking at workspace sprawl, orphaned access, license waste are worth 
+identifying for any organization looking to reduce cost and risk. 
 
 ---
 
