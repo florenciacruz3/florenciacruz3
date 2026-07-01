@@ -44,7 +44,7 @@ Specifically, three things go wrong in almost every large company:
 
 Tenant Scan finds all of this before the migration happens, so companies aren't discovering it mid-move.
 
-[Microsoft defines Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) 
+[Microsoft defines Fabric](https://www.microsoft.com/en-us/microsoft-fabric/resources/data-101/what-is-fabric) 
 as "a unified, AI-powered data platform to simplify data management 
 and analytics — an end-to-end intelligent data platform with a suite 
 of cloud services and tools for every data lifecycle stage: ingestion, 
