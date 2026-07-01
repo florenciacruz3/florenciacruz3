@@ -1,5 +1,5 @@
 # Getting Started with Tenant Scan
-## The Hidden Risks in Your Microsoft Fabric tenant — and How to Find Them Before They find You
+## The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
 
 ---
 
@@ -7,7 +7,7 @@
 
 **Who this article is for:**
 
-This article is intended for enterprise teams managing 50+ workspaces and planning a move to Fabric
+This article is intended for enterprise teams managing 50+ workspaces and planning a move to Fabric.
 
 **What you will learn:**
 
@@ -51,9 +51,14 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 3. Comparing Fabric To Other Services
 
-- Microsoft Azure SQL Database
-- Microsoft Power BI
-- Microsoft Azure
+- **Microsoft Azure SQL Database** — a standalone database that stores and retrieves data — Microsoft Fabric is a complete data platform that stores, moves, transforms, analyzes, and visualizes data, with Azure SQL Database being just one of many sources it can connect to.
+- **Microsoft Power BI** — now lives inside Fabric instead of being a standalone tool. Power BI is the reporting and visualization layer that sits at the end of the data pipeline. 
+- **Microsoft Azure** — the broader cloud platform Fabric 
+  runs on; Fabric is not a replacement for Azure but a 
+  specialized layer built on top of it
+
+> [!NOTE]
+> Azure and Fabric are not competitors or alternatives to each other. They exist at completely different levels.
 
 ---
 
@@ -117,9 +122,11 @@ Fabric Readiness Report in 3–5 business days.**
 
 ---
 
-## About Power Mates
+## About PowerMates
 
-Brief descritption on the background of the company. 
+- When the company was founded.
+- What the owners' credentials are.
+- What PowerMates specializes in.
 
 ---
 
@@ -151,8 +158,8 @@ orphaned access — which are discovered precisely because of lack of visibility
 
 Microsoft's tools show raw data — lists of workspaces, 
 licenses, and permissions. Tenant Scan turns that raw data into a 
-scored, prioritized, actionable report. The solution that a tenant scan will show is not the data itself, it is the analysis and the ranked top 5 action plan built 
-from it.
+scored, prioritized, actionable report. The value is not the data itself — it is the analysis and 
+the ranked top 5 action plan built from it.
 
 ---
 
