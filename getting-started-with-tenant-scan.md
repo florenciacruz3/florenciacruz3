@@ -60,13 +60,19 @@ regular governance, that environment accumulates problems that remains unnoticed
 
 ## 2. How It Works
 
-- Raw Data
-- Data Factory
-- OneLake
-- Data Warehouse
-- Semantic Model
-- Power BI
-- Business Users
+- Raw Data: Raw data is data in its original  — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
+  
+- Data Factory: The system that ingests raw data from various sources, transforms it (cleaning, reshaping, and standardizing it into a usable format), and delivers it to OneLake.
+  
+- OneLake: OneLake is Microsoft's unified, data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
+  
+- Data Warehouse: A structured storage layer that consolidates data from OneLake into a format optimized for reporting and analysis.
+  
+- Semantic Model: A layer that translates technical data into business-friendly language and structure, making it easier for non-technical users to work with.
+
+- Power BI: Power BI is the part of Fabric that turns data into visual reports and dashboards that business users can read and interact with.
+
+- Business Users: A business user is anyone in a company who uses data to make decisions but doesn't build or manage the systems that produce that data.
 
 ---
 
