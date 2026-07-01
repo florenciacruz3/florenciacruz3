@@ -16,7 +16,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 3. [Comparing Fabric To Other Services](#3-comparing-fabric-to-other-services)
 4. [Who It Is For](#4-who-it-is-for)
 5. [What You Get](#5-what-you-get)
-6. [What Clients Have Found](#6-what-clients-have-found)
+6. [Expected Outcomes](#6-expected-outcomes)
 7. [Get Started](#7-get-started)
 
 **What this article does *not* cover:**
@@ -78,11 +78,11 @@ regular governance, that environment accumulates problems that remains unnoticed
 
 ## 3. Comparing Fabric To Other Services
 
-- **Microsoft Azure SQL Database** — a standalone database that stores and retrieves data — Microsoft Fabric is a complete data platform that stores, moves, transforms, analyzes, and visualizes data, with Azure SQL Database being just one of many sources it can connect to.
-- **Microsoft Power BI** — now lives inside Fabric instead of being a standalone tool. Power BI is the reporting and visualization layer that sits at the end of the data pipeline. 
-- **Microsoft Azure** — the broader cloud platform Fabric 
-  runs on; Fabric is not a replacement for Azure but a 
-  specialized layer built on top of it
+- **Microsoft Azure SQL Database** — a standalone, fully managed relational database (PaaS) optimized for transactional workloads like order processing and inventory systems. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data — with Azure SQL Database being just one of many sources it can connect to.
+  
+- **Microsoft Power BI** — the reporting and visualization layer that turns data into charts, graphs, and dashboards for business users, without requiring code or database knowledge. Rather than standing alone, Power BI now lives inside Fabric as the final step in the pipeline — the point where all the data Fabric has gathered, cleaned, and stored finally becomes visible.
+  
+- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
 
 > [!NOTE]
 > Azure and Fabric are not competitors or alternatives to each other. They exist at completely different levels.
@@ -91,12 +91,17 @@ regular governance, that environment accumulates problems that remains unnoticed
 
 ## 4. Who It Is For
 
+This article is written for any business user who is:
+
 - Planning a migration to Microsoft Fabric and need to know 
   what is in your current environment before you commit
+  
 - Managing 50 or more workspaces or datasets in an existing 
   Power BI tenant
+  
 - Tired of paying for licenses assigned to inactive users 
   and want to identify where budget is being wasted
+  
 - About to start a migration and cannot afford to discover 
   problems halfway through
 
@@ -104,19 +109,36 @@ regular governance, that environment accumulates problems that remains unnoticed
 
 ## 5. What You Get
 
-- **Fabric Readiness Score** — 0 to 100 rating across governance,
-  complexity, and migration readiness
-- **Governance and License Audit** — workspace ownership mapping,
-  orphaned access, license waste, and sensitivity label coverage
-- **Prioritized Action Plan** — your top 5 actions ranked by
-  impact-to-effort ratio, executable within 90 days
+- **Fabric Readiness Score** — A single, easy-to-understand rating from 0 to 100 that reflects how prepared your organization is to adopt or scale Microsoft Fabric. The score is calculated across three core dimensions:
+
+Governance — how well data access, ownership, and security policies are currently managed.
+
+Complexity — how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
+
+Migration Readiness — how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
+
+This gives leadership a quick, quantifiable benchmark — rather than a vague "you're not ready yet" — so progress can be tracked over time.
+
+- **Governance and License Audit** — Governance and License Audit — A detailed review of how your Fabric (or Azure) environment is actually being used versus how it's documented or assumed to be used. This includes:
+
+Workspace ownership mapping — identifying who actually owns and controls each workspace, closing gaps where ownership is unclear or undocumented
+
+Orphaned access — flagging users or service accounts with lingering access to resources they no longer need (a common security and compliance risk)
+
+License waste — identifying unused or underutilized licenses that are costing money without delivering value
+
+Sensitivity label coverage — checking whether sensitive data (financial records, SSN, etc.) is properly labeled and protected according to your organization's data governance policies
+
+The result is a clear picture of where governance gaps exist and where cost savings are hiding.
+
+- **Prioritized Action Plan** — Rather than handing you a long list of every possible improvement, this narrows the findings down to your top 5 highest-impact actions, ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. Each action is scoped to be realistically completed within a 90-day window, giving your team a focused, achievable roadmap instead of an overwhelming backlog.
   
 > [!NOTE]
 > The entire intake process runs through a structured 15-minute questionnaire.
 
 ---
 
-## 6. What Clients Have Found
+## 6. Expected Outcomes
 
 - **30-day remediation** — A mid-market retail company with 200+ 
   workspaces discovered 47 overshared datasets and 12 workspaces 
@@ -151,9 +173,19 @@ Fabric Readiness Report in 3–5 business days.**
 
 ## About PowerMates
 
-- When the company was founded.
-- What the owners' credentials are.
-- What PowerMates specializes in.
+PowerMates is an enterprise consulting firm focused on Microsoft data and AI platforms, helping organizations reduce governance risk, accelerate AI adoption, and avoid costly missteps when scaling Microsoft Fabric.
+
+The company was founded by two Microsoft MVPs with over 20 years. 
+
+PowerMates operates across three core areas:
+
+Consulting — Eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support, delivered directly by practitioners rather than generic advisory teams.
+
+Content — Deep-dive videos, executive briefings, and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
+
+Community — Conference speaking engagements, open-source tooling, and ongoing knowledge-sharing with the broader Microsoft data community, built on the belief that expertise should scale through accessible, honest content.
+
+The company has built a following of 7,300+ subscribers on YouTube and maintains an active presence across major social platforms, positioning itself as a practitioner-led voice in the Fabric governance and enterprise AI space.
 
 ---
 
