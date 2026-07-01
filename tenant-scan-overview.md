@@ -16,7 +16,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 3. [Comparing Fabric To Other Services](#3-comparing-fabric-to-other-services)
 4. [Who It Is For](#4-who-it-is-for)
 5. [What You Get](#5-what-you-get)
-6. [What Clients Have Found](#6-what-clients-have-found)
+6. [Expected Outcomes](#6-expected-outcomes)
 7. [Get Started](#7-get-started)
 
 **What this article does *not* cover:**
@@ -89,7 +89,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ---
 
-## 6. What Clients Have Found
+## 6. Expected Outcomes
 
 - **30-day remediation** — A mid-market retail company with 200+ 
   workspaces discovered 47 overshared datasets and 12 workspaces 
