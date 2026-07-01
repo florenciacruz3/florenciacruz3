@@ -13,7 +13,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
-3. [Comparing Fabric To Other Services](#3-comparing-fabric-to-other-services)
+3. [Comparing Fabric to Other Services](#3-comparing-fabric-to-other-services)
 4. [Who It Is For](#4-who-it-is-for)
 5. [What You Get](#5-what-you-get)
 6. [Expected Outcomes](#6-expected-outcomes)
@@ -54,29 +54,42 @@ What this means is that Microsoft Fabric is an all-in-one data platform, a singl
 
 At the center of Fabric is your tenant — your organization's private corner of Microsoft's cloud. Everything the company has built in Power BI and Fabric lives in there: every workspace, every 
 dataset, every report, every permission. Without 
-regular governance, that environment accumulates problems that remains unnoticed until you decided to migrate. 
+regular governance, that environment accumulates problems that remain unnoticed until you decided to migrate. 
+
+Section 2 maps exactly what lives inside that tenant — and 
+how data moves through it from raw source to finished report.
 
 ---
 
 ## 2. How It Works
 
-- Raw Data: Raw data is data in its original  — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
-  
-- Data Factory: The system that ingests raw data from various sources, transforms it (cleaning, reshaping, and standardizing it into a usable format), and delivers it to OneLake.
-  
-- OneLake: OneLake is Microsoft's unified, data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
-  
-- Data Warehouse: A structured storage layer that consolidates data from OneLake into a format optimized for reporting and analysis.
-  
-- Semantic Model: A layer that translates technical data into business-friendly language and structure, making it easier for non-technical users to work with.
+Tenant Scan audits the environment that your data moves 
+through. Here is how that environment works, from the moment 
+raw data enters the system to the moment a business user reads 
+a report.
 
-- Power BI: Power BI is the part of Fabric that turns data into visual reports and dashboards that business users can read and interact with.
+- **Raw Data** — Raw data is data in its original state — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
+  
+- **Data Factory** — The system that ingests raw data from various sources, transforms it (cleaning, reshaping, and standardizing it into a usable format), and delivers it to OneLake.
+  
+- **OneLake** — OneLake is Microsoft's unified, data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
+  
+- **Data Warehouse** — A structured storage layer that consolidates data from OneLake into a format optimized for reporting and analysis.
+  
+- **Semantic Model** — A layer that translates technical data into business-friendly language and structure, making it easier for non-technical users to work with.
 
-- Business Users: A business user is anyone in a company who uses data to make decisions but doesn't build or manage the systems that produce that data.
+- **Power BI** — Power BI is the part of Fabric that turns data into visual reports and dashboards that business users can read and interact with.
+
+- **Business Users** — A business user is anyone in a company who uses data to make decisions but doesn't build or manage the systems that produce that data.
+
+Tenant Scan examines this entire environment — identifying 
+where ownership has lapsed, where access has drifted, and 
+where the pipeline has accumulated problems that will slow 
+down or block a migration.
 
 ---
 
-## 3. Comparing Fabric To Other Services
+## 3. Comparing Fabric to Other Services
 
 - **Microsoft Azure SQL Database** — a standalone, fully managed relational database (PaaS) optimized for transactional workloads like order processing and inventory systems. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data — with Azure SQL Database being just one of many sources it can connect to.
   
@@ -91,9 +104,9 @@ regular governance, that environment accumulates problems that remains unnoticed
 
 ## 4. Who It Is For
 
-This article is written for any business user who is:
+Tenant Scan is designed for you if you are:
 
-- Planning a migration to Microsoft Fabric and need to know 
+- Planning a migration to Microsoft Fabric and needs to know 
   what is in your current environment before you commit
   
 - Managing 50 or more workspaces or datasets in an existing 
@@ -111,23 +124,22 @@ This article is written for any business user who is:
 
 - **Fabric Readiness Score** — A single, easy-to-understand rating from 0 to 100 that reflects how prepared your organization is to adopt or scale Microsoft Fabric. The score is calculated across three core dimensions:
 
-Governance — how well data access, ownership, and security policies are currently managed.
-
-Complexity — how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
-
-Migration Readiness — how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
+  - **Governance** — how well data access, ownership, and security policies are currently managed.
+  - **Complexity** —  how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
+  - **Migration Readiness** —  how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
 
 This gives leadership a quick, quantifiable benchmark — rather than a vague "you're not ready yet" — so progress can be tracked over time.
 
-- **Governance and License Audit** — Governance and License Audit — A detailed review of how your Fabric (or Azure) environment is actually being used versus how it's documented or assumed to be used. This includes:
+- **Governance and License Audit** — A detailed review of how your Fabric (or Azure) environment is actually being used versus how it's documented or assumed to be used. This includes:
 
-Workspace ownership mapping — identifying who actually owns and controls each workspace, closing gaps where ownership is unclear or undocumented
-
-Orphaned access — flagging users or service accounts with lingering access to resources they no longer need (a common security and compliance risk)
-
-License waste — identifying unused or underutilized licenses that are costing money without delivering value
-
-Sensitivity label coverage — checking whether sensitive data (financial records, SSN, etc.) is properly labeled and protected according to your organization's data governance policies
+  - **Workspace ownership mapping** — identifying who owns 
+    and controls each workspace
+  - **Orphaned access** — flagging users with access they 
+    no longer need
+  - **License waste** — identifying unused licenses costing 
+    money without delivering value
+  - **Sensitivity label coverage** — checking whether 
+    sensitive data is properly labeled and protected
 
 The result is a clear picture of where governance gaps exist and where cost savings are hiding.
 
@@ -159,7 +171,7 @@ The result is a clear picture of where governance gaps exist and where cost savi
 
 Most organizations discover governance gaps when it is already too late.
 
-The Tenant Scan gives you a guiding map.
+The Tenant Scan gives you the map before you move.
 
 The problems are knowable. The question is whether you find 
 them before they find you.
@@ -175,15 +187,16 @@ Fabric Readiness Report in 3–5 business days.**
 
 PowerMates is an enterprise consulting firm focused on Microsoft data and AI platforms, helping organizations reduce governance risk, accelerate AI adoption, and avoid costly missteps when scaling Microsoft Fabric.
 
-The company was founded by two Microsoft MVPs with over 20 years. 
+The company was founded by two Microsoft MVPs with over 20 years of combined experience in Microsoft data and 
+AI platforms.
 
 PowerMates operates across three core areas:
 
-Consulting — Eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support, delivered directly by practitioners rather than generic advisory teams.
+- **Consulting** — Eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support, delivered directly by practitioners rather than generic advisory teams.
 
-Content — Deep-dive videos, executive briefings, and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
+- **Content** — Deep-dive videos, executive briefings, and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
 
-Community — Conference speaking engagements, open-source tooling, and ongoing knowledge-sharing with the broader Microsoft data community, built on the belief that expertise should scale through accessible, honest content.
+- **Community** — Conference speaking engagements, open-source tooling, and ongoing knowledge-sharing with the broader Microsoft data community, built on the belief that expertise should scale through accessible, honest content.
 
 The company has built a following of 7,300+ subscribers on YouTube and maintains an active presence across major social platforms, positioning itself as a practitioner-led voice in the Fabric governance and enterprise AI space.
 
@@ -208,8 +221,10 @@ will not need to be pulled off their regular work. This does not require ongoing
 
 ### What if we already think we know what's in our tenant?
 
-Most teams underestimate the scope of the problem. The typical findings are — 30 to 40 percent workspace sprawl, 25 to 30 percent 
-orphaned access — which are discovered precisely because of lack of visibility into the team's own environment. 
+Most teams underestimate the scope of the problem. The typical findings — 30 to 40 percent workspace sprawl 
+and 25 to 30 percent orphaned access — are discovered 
+precisely because teams lack visibility into their own 
+environment.
 
 ---
 
