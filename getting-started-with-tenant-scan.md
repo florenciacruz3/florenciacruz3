@@ -31,10 +31,31 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 1. What Microsoft Fabric Is and Why Your Tenant Matters
 
-- All-in-one data platform overview
-- Brief explanation of what a tenant is and what lives in it
-- Orphaned workspaces
-  
+There's a moment every data leader fears. The Microsoft Fabric migration is approved, timeline set, and then the project fails.
+
+Here's why that happens: 
+
+Companies let their data environments get messy over years, and when they try to move to Fabric, the mess slows everything down or causes costly surprises.
+
+Specifically, three things go wrong in almost every large company:
+1.	Teams create workspaces and forget about them (sprawl).
+2.	People leave the company but their access to data doesn't get removed (orphaned access — this is a security risk).
+3.	The company keeps paying for software licenses for people who no longer use them (waste).
+
+Tenant Scan finds all of this before the migration happens, so companies aren't discovering it mid-move.
+
+[Microsoft defines Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) 
+as "a unified, AI-powered data platform to simplify data management 
+and analytics — an end-to-end intelligent data platform with a suite 
+of cloud services and tools for every data lifecycle stage: ingestion, 
+preparation, storage, analysis, and visualization."
+
+What this means is that Microsoft Fabric is an all-in-one data platform, a single workspace where data is stored, organized, analyzed, and turned into reports. 
+
+At the center of Fabric is your tenant — your organization's private corner of Microsoft's cloud. Everything the company has built in Power BI and Fabric lives in there: every workspace, every 
+dataset, every report, every permission. Without 
+regular governance, that environment accumulates problems that remains unnoticed until you decided to migrate. 
+
 ---
 
 ## 2. How It Works
