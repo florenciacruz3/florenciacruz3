@@ -115,6 +115,14 @@ Fabric Readiness Report in 3–5 business days.**
 
 [Get Started →](https://www.thepowermates.com/tenant-scan)
 
+---
+
+## About Power Mates
+
+Brief descritption on the background of the company. 
+
+---
+
 ## FAQ
 
 ### Does PowerMates need access to our tenant to run a scan?
