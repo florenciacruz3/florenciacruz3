@@ -128,22 +128,22 @@ Tenant Scan is designed for you if you are:
   - **Complexity** —  how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
   - **Migration Readiness** —  how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
 
-This gives leadership a quick, quantifiable benchmark — rather than a vague "you're not ready yet" — so progress can be tracked over time.
+Rather than a vague "you're not ready yet," this gives leadership a percise, quantfiable benchmark, so pro so progress can be tracked over time.
 
 - **Governance and License Audit** — A detailed review of how your Fabric (or Azure) environment is actually being used versus how it's documented or assumed to be used. This includes:
 
   - **Workspace ownership mapping** — identifying who owns 
     and controls each workspace
-  - **Orphaned access** — flagging users with access they 
+  - **Orphaned access** — users with access they 
     no longer need
   - **License waste** — identifying unused licenses costing 
-    money without delivering value
+    money without being used
   - **Sensitivity label coverage** — checking whether 
     sensitive data is properly labeled and protected
 
 The result is a clear picture of where governance gaps exist and where cost savings are hiding.
 
-- **Prioritized Action Plan** — Rather than handing you a long list of every possible improvement, this narrows the findings down to your top 5 highest-impact actions, ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. Each action is scoped to be realistically completed within a 90-day window, giving your team a focused, achievable roadmap instead of an overwhelming backlog.
+- **Prioritized Action Plan** — Rather than handing you a long list of every possible improvement, this narrows the findings down to your top 5 highest-impact actions, ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. Each action is scoped to be realistically completed within a 90-day window, giving your team a focused, achievable roadmap.
   
 > [!NOTE]
 > The entire intake process runs through a structured 15-minute questionnaire.
@@ -192,9 +192,9 @@ AI platforms.
 
 PowerMates operates across three core areas:
 
-- **Consulting** — Eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support, delivered directly by practitioners rather than generic advisory teams.
+- **Consulting** — Delivered directly by practitioners, PowerMates introduces eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support. 
 
-- **Content** — Deep-dive videos, executive briefings, and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
+- **Content** — Deep-dive videos and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
 
 - **Community** — Conference speaking engagements, open-source tooling, and ongoing knowledge-sharing with the broader Microsoft data community, built on the belief that expertise should scale through accessible, honest content.
 
