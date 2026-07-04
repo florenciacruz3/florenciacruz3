@@ -63,10 +63,7 @@ how data moves through it from raw source to finished report.
 
 ## 2. How It Works
 
-Tenant Scan audits the environment that your data moves 
-through. Here is how that environment works, from the moment 
-raw data enters the system to the moment a business user reads 
-a report.
+During a tenant scan the environment that your data moves through goes through a specific process. Here is how that environment works, from the moment raw data enters the system to the moment a business user reads a report.
 
 - **Raw Data** — Raw data is data in its original state — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
   
@@ -82,20 +79,17 @@ a report.
 
 - **Business Users** — A business user is anyone in a company who uses data to make decisions but doesn't build or manage the systems that produce that data.
 
-Tenant Scan examines this entire environment — identifying 
-where ownership has lapsed, where access has drifted, and 
-where the pipeline has accumulated problems that will slow 
-down or block a migration.
+Tenant Scan examines this entire environment — identifying accumulated problems that will slow down or block a migration.
 
 ---
 
 ## 3. Comparing Fabric to Other Services
 
-- **Microsoft Azure SQL Database** — a standalone, fully managed relational database (PaaS) optimized for transactional workloads like order processing and inventory systems. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data — with Azure SQL Database being just one of many sources it can connect to.
+- **Microsoft Azure SQL Database** — think of it as a standalone, fully managed relational tool (PaaS) that lives in Microsoft Azure — a broader cloud platform. It exists independently of Fabric. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data. Fabric does not contain Azure SQL Database. Instead Fabric can connect to Azure SQL Database as one of many external data sources.
   
-- **Microsoft Power BI** — the reporting and visualization layer that turns data into charts, graphs, and dashboards for business users, without requiring code or database knowledge. Rather than standing alone, Power BI now lives inside Fabric as the final step in the pipeline — the point where all the data Fabric has gathered, cleaned, and stored finally becomes visible.
+- **Microsoft Power BI** — lives inside Fabric as the final step in the pipline. It's in charg of turning data into charts, graphs, and dashboard meant to be read by business users. Once all the data is gathered, clean, and stored, Power BI is what becomes visible. 
   
-- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
+- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Azure is the cloude that everything runs on. Fabric is a specific data platform that runs on Azure. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
 
 > [!NOTE]
 > Azure and Fabric are not competitors or alternatives to each other. They exist at completely different levels.
