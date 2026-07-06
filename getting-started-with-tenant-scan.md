@@ -31,9 +31,9 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 1. What Microsoft Fabric Is and Why Your Tenant Matters
 
-There's a moment every data leader fears. The Microsoft Fabric migration is approved, timeline set, and then the project fails.
+There is a moment every data leader fears. The Microsoft Fabric migration is approved, timeline is set, and then the project fails.
 
-Here's why that happens: 
+Here is why that happens: 
 
 Companies let their data environments get messy over years, and when they try to move to Fabric, the mess slows everything down or causes costly surprises.
 
@@ -42,7 +42,7 @@ Specifically, three things go wrong in almost every large company:
 2.	People leave the company but their access to data doesn't get removed (orphaned access — this is a security risk).
 3.	The company keeps paying for software licenses for people who no longer use them (waste).
 
-Tenant Scan finds all of this before the migration happens, so companies aren't discovering it mid-move.
+Tenant Scan finds all of this before the migration happens, so companies are not discovering it mid-move.
 
 [Microsoft defines Fabric](https://www.microsoft.com/en-us/microsoft-fabric/resources/data-101/what-is-fabric) 
 as "a unified, AI-powered data platform to simplify data management 
@@ -52,9 +52,9 @@ preparation, storage, analysis, and visualization."
 
 What this means is that Microsoft Fabric is an all-in-one data platform, a single workspace where data is stored, organized, analyzed, and turned into reports. 
 
-At the center of Fabric is your tenant — your organization's private corner of Microsoft's cloud. Everything the company has built in Power BI and Fabric lives in there: every workspace, every 
+At the center of Fabric is your tenant — your organization's private corner of Microsoft's cloud. Everything the company has built in Power BI and Fabric lives there: every workspace, every 
 dataset, every report, every permission. Without 
-regular governance, that environment accumulates problems that remain unnoticed until you decided to migrate. 
+regular governance, that environment accumulates problems that remain unnoticed until you decide to migrate. 
 
 Section 2 maps exactly what lives inside that tenant — and 
 how data moves through it from raw source to finished report.
@@ -63,13 +63,13 @@ how data moves through it from raw source to finished report.
 
 ## 2. How It Works
 
-During a tenant scan the environment that your data moves through goes through a specific process. Here is how that environment works, from the moment raw data enters the system to the moment a business user reads a report.
+During a tenant scan the environment that your data moves through goes through a specific review process. Here is how that environment works, from the moment raw data enters the system to the moment a business user reads a report.
 
 - **Raw Data** — Raw data is data in its original state — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
   
 - **Data Factory** — The system that ingests raw data from various sources, transforms it (cleaning, reshaping, and standardizing it into a usable format), and delivers it to OneLake.
   
-- **OneLake** — OneLake is Microsoft's unified, data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
+- **OneLake** — Microsoft's unified data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
   
 - **Data Warehouse** — A structured storage layer that consolidates data from OneLake into a format optimized for reporting and analysis.
   
@@ -77,7 +77,7 @@ During a tenant scan the environment that your data moves through goes through a
 
 - **Power BI** — Power BI is the part of Fabric that turns data into visual reports and dashboards that business users can read and interact with.
 
-- **Business Users** — A business user is anyone in a company who uses data to make decisions but doesn't build or manage the systems that produce that data.
+- **Business Users** — Anyone in a company who uses data to make decisions but does not build or manage the systems that produce that data.
 
 Tenant Scan examines this entire environment — identifying accumulated problems that will slow down or block a migration.
 
@@ -85,11 +85,11 @@ Tenant Scan examines this entire environment — identifying accumulated problem
 
 ## 3. Comparing Fabric to Other Services
 
-- **Microsoft Azure SQL Database** — think of it as a standalone, fully managed relational tool (PaaS) that lives in Microsoft Azure — a broader cloud platform. It exists independently of Fabric. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data. Fabric does not contain Azure SQL Database. Instead Fabric can connect to Azure SQL Database as one of many external data sources.
+- **Microsoft Azure SQL Database** — think of it as a standalone, fully managed relational tool (PaaS) that lives in Microsoft Azure — a broader cloud platform. It exists independently of Fabric. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data. Fabric does not contain Azure SQL Database. Instead, Fabric can connect to Azure SQL Database as one of many external data sources.
   
-- **Microsoft Power BI** — lives inside Fabric as the final step in the pipline. It's in charg of turning data into charts, graphs, and dashboard meant to be read by business users. Once all the data is gathered, clean, and stored, Power BI is what becomes visible. 
+- **Microsoft Power BI** — lives inside Fabric as the final step in the pipeline. It is responsible for turning data into charts, graphs, and dashboard meant to be read by business users. Once all the data is gathered, cleaned, and stored, Power BI is what becomes visible. 
   
-- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Azure is the cloude that everything runs on. Fabric is a specific data platform that runs on Azure. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
+- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Azure is the cloud that everything runs on. Fabric is a specific data platform that runs on Azure. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
 
 > [!NOTE]
 > Azure and Fabric are not competitors or alternatives to each other. They exist at completely different levels.
@@ -100,7 +100,7 @@ Tenant Scan examines this entire environment — identifying accumulated problem
 
 Tenant Scan is designed for you if you are:
 
-- Planning a migration to Microsoft Fabric and needs to know 
+- Planning a migration to Microsoft Fabric and need to know 
   what is in your current environment before you commit
   
 - Managing 50 or more workspaces or datasets in an existing 
@@ -116,28 +116,28 @@ Tenant Scan is designed for you if you are:
 
 ## 5. What You Get
 
-- **Fabric Readiness Score** — A single, easy-to-understand rating from 0 to 100 that reflects how prepared your organization is to adopt or scale Microsoft Fabric. The score is calculated across three core dimensions:
+- **Fabric Readiness Score** — A rating from 0 to 100 that reflects how prepared your organization is to migrate to Microsoft Fabric. This score is calculated based on three factors: 
 
   - **Governance** — how well data access, ownership, and security policies are currently managed.
   - **Complexity** —  how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
   - **Migration Readiness** —  how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
 
-Rather than a vague "you're not ready yet," this gives leadership a percise, quantfiable benchmark, so pro so progress can be tracked over time.
+This rating provides precise documentation that can be helpful for tracking progress over time, instead of a vague "you're not ready yet." 
 
-- **Governance and License Audit** — A detailed review of how your Fabric (or Azure) environment is actually being used versus how it's documented or assumed to be used. This includes:
+- **Governance and License Audit** — It provides detailed information on how your Fabric or Azure environment is being used, compared to how you assume it is being used. This includes:
 
   - **Workspace ownership mapping** — identifying who owns 
     and controls each workspace
   - **Orphaned access** — users with access they 
     no longer need
   - **License waste** — identifying unused licenses costing 
-    money without being used
+    money without delivering value
   - **Sensitivity label coverage** — checking whether 
     sensitive data is properly labeled and protected
 
 The result is a clear picture of where governance gaps exist and where cost savings are hiding.
 
-- **Prioritized Action Plan** — Rather than handing you a long list of every possible improvement, this narrows the findings down to your top 5 highest-impact actions, ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. Each action is scoped to be realistically completed within a 90-day window, giving your team a focused, achievable roadmap.
+- **Prioritized Action Plan** — After running the Tenant Scan, it provides a list of top 5 highest-impact actions to take, which are ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. These actions should realistically be completed within a 90-day window. 
   
 > [!NOTE]
 > The entire intake process runs through a structured 15-minute questionnaire.
@@ -148,7 +148,7 @@ The result is a clear picture of where governance gaps exist and where cost savi
 
 - **30-day remediation** — A mid-market retail company with 200+ 
   workspaces discovered 47 overshared datasets and 12 workspaces 
-  with no owner. Everything resolved within a month.
+  with no owner. Everything was resolved within a month.
 
 - **$180,000 saved annually** — A financial services firm 
   identified unused licenses and underutilized Premium capacity 
@@ -179,14 +179,11 @@ Fabric Readiness Report in 3–5 business days.**
 
 ## About PowerMates
 
-PowerMates is an enterprise consulting firm focused on Microsoft data and AI platforms, helping organizations reduce governance risk, accelerate AI adoption, and avoid costly missteps when scaling Microsoft Fabric.
+Founded by two Microsoft MVPs with over 20 years of experience of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
 
-The company was founded by two Microsoft MVPs with over 20 years of combined experience in Microsoft data and 
-AI platforms.
+PowerMates operates within these three core areas: 
 
-PowerMates operates across three core areas:
-
-- **Consulting** — Delivered directly by practitioners, PowerMates introduces eight specialized Fabric service offerings, ranging from governance audits to full architecture design and migration support. 
+- **Consulting** — Eight specialized service offerings, ranging from governance audits to full architecture design and migration support. 
 
 - **Content** — Deep-dive videos and technical walkthroughs covering Fabric governance, migration strategy, and AI adoption, published across YouTube, LinkedIn, TikTok, and other platforms to help enterprise teams make faster, more informed infrastructure decisions.
 
@@ -202,7 +199,7 @@ The company has built a following of 7,300+ subscribers on YouTube and maintains
 
 No. Tenant Scan does not require any tenant access. The entire 
 intake process runs through a 15-minute questionnaire. 
-There's no need for external access to your environment.
+There is no need for external access to your environment.
 
 ---
 
@@ -215,8 +212,7 @@ will not need to be pulled off their regular work. This does not require ongoing
 
 ### What if we already think we know what's in our tenant?
 
-Most teams underestimate the scope of the problem. The typical findings — 30 to 40 percent workspace sprawl 
-and 25 to 30 percent orphaned access — are discovered 
+Problems in the environment happen because most teams underestimate the scope of the problem. Typical findings — 30 to 40 percent workspace sprawl and 25 to 30 percent orphaned access — are discovered 
 precisely because teams lack visibility into their own 
 environment.
 
@@ -224,10 +220,10 @@ environment.
 
 ### What's the difference between this and Microsoft's built-in admin reporting?
 
-Microsoft's tools show raw data — lists of workspaces, 
-licenses, and permissions. Tenant Scan turns that raw data into a 
-scored, prioritized, actionable report. The value is not the data itself — it is the analysis and 
-the ranked top 5 action plan built from it.
+Microsoft's tools report raw data. Tenant Scan turns that data 
+into an actionable report — specifically, a ranked top 5 action 
+plan built from the findings, rather than a list of numbers with 
+no clear next step.
 
 ---
 
