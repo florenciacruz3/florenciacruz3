@@ -1,5 +1,4 @@
-# Getting Started with Tenant Scan
-## The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
+# The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
 
 ---
 
@@ -65,19 +64,37 @@ how data moves through it from raw source to finished report.
 
 During a tenant scan the environment that your data moves through goes through a specific review process. Here is how that environment works, from the moment raw data enters the system to the moment a business user reads a report.
 
-- **Raw Data** — Raw data is data in its original state — exactly as it came out of the system — without any processing, cleaning, transformation, or analysis applied to it.
-  
-- **Data Factory** — The system that ingests raw data from various sources, transforms it (cleaning, reshaping, and standardizing it into a usable format), and delivers it to OneLake.
-  
-- **OneLake** — Microsoft's unified data storage layer built into Microsoft Fabric. OneLake acts as a single, centralized repository where all data is stored so that different teams and tools can access the same data without duplicating or moving it around.
-  
-- **Data Warehouse** — A structured storage layer that consolidates data from OneLake into a format optimized for reporting and analysis.
-  
-- **Semantic Model** — A layer that translates technical data into business-friendly language and structure, making it easier for non-technical users to work with.
+1. **Capacity governance** — whether compute resources are 
+   correctly sized and allocated
+2. **Workspace sprawl and lifecycle** — unowned, inactive, 
+   or redundant workspaces accumulating over time
+3. **OneLake security** — row-level and column-level security 
+   configurations across lakehouses and datasets
+4. **Sensitivity labels and DLP** — whether sensitive data is 
+   classified and protected according to your organization's 
+   policies
+5. **Semantic model hygiene** — stale, duplicated, or 
+   undocumented models creating reporting inconsistencies
+6. **Data lineage** — visibility into where data comes from 
+   and how it flows through the environment
+7. **Identity and connections** — service accounts, external 
+   connections, and access permissions that have drifted from 
+   their original intent
+8. **Domains** — whether workspaces and assets are correctly 
+   organized and governed by domain
+9. **Deployment and source control** — whether pipelines and 
+   reports are version-controlled and deployed consistently
+10. **Monitoring and cost accountability** — whether usage, 
+    performance, and spend are visible and assigned to owners
 
-- **Power BI** — Power BI is the part of Fabric that turns data into visual reports and dashboards that business users can read and interact with.
+**The process:**
 
-- **Business Users** — Anyone in a company who uses data to make decisions but does not build or manage the systems that produce that data.
+1. **Intake** — complete a structured questionnaire covering 
+   your environment and migration goals
+2. **Scan** — PowerMates performs a read-only enumeration of 
+   your tenant, at the depth your tier allows
+3. **Report** — receive your scored Fabric Readiness Report 
+   in 3–5 business days
 
 Tenant Scan examines this entire environment — identifying accumulated problems that will slow down or block a migration.
 
@@ -116,35 +133,41 @@ Tenant Scan is designed for you if you are:
 
 ## 5. What You Get
 
-- **Fabric Readiness Score** — A rating from 0 to 100 that reflects how prepared your organization is to migrate to Microsoft Fabric. This score is calculated based on three factors: 
+Every Tenant Scan engagement delivers three outputs:
 
-  - **Governance** — how well data access, ownership, and security policies are currently managed.
-  - **Complexity** —  how many systems, workspaces, and data sources are involved, and how tangled those dependencies are.
-  - **Migration Readiness** —  how much work would be required to move existing workloads (like Azure SQL Database or Power BI reports) into Fabric without disruption.
+- **Executive Summary with RAG Rating** — a Red / Amber / 
+  Green status that gives leadership an immediate read on 
+  migration readiness without requiring technical context.
 
-This rating provides precise documentation that can be helpful for tracking progress over time, instead of a vague "you're not ready yet." 
+- **10-Point Governance Scorecard** — a finding for each of 
+  the ten governance failure points examined, ranked by 
+  impact and effort so your team knows what to address first.
 
-- **Governance and License Audit** — It provides detailed information on how your Fabric or Azure environment is being used, compared to how you assume it is being used. This includes:
+- **Now / Next / Later Remediation Roadmap** — a structured 
+  action plan that sequences your top findings into an 
+  executable 90-day window, rather than an overwhelming 
+  backlog.
 
-  - **Workspace ownership mapping** — identifying who owns 
-    and controls each workspace
-  - **Orphaned access** — users with access they 
-    no longer need
-  - **License waste** — identifying unused licenses costing 
-    money without delivering value
-  - **Sensitivity label coverage** — checking whether 
-    sensitive data is properly labeled and protected
-
-The result is a clear picture of where governance gaps exist and where cost savings are hiding.
-
-- **Prioritized Action Plan** — After running the Tenant Scan, it provides a list of top 5 highest-impact actions to take, which are ranked by an impact-to-effort ratio — meaning the actions that deliver the most value for the least amount of work come first. These actions should realistically be completed within a 90-day window. 
-  
 > [!NOTE]
-> The entire intake process runs through a structured 15-minute questionnaire.
+> The entire intake process runs through a structured 
+> 15-minute questionnaire. Tenant access — where required 
+> by tier — is read-only and used solely for assessment 
+> purposes. Nothing in your environment is modified.
+
+Tenant Scan is the first step in a four-stage engagement 
+path: **Tenant Scan → Architecture → Build → Govern**. 
+Organizations that complete the scan leave with a clear 
+picture of where they stand and a defined path to where 
+they need to be.
 
 ---
 
 ## 6. Expected Outcomes
+
+> [!NOTE]
+> The scenarios below are illustrative — representative of 
+> what engagements at this scale typically surface based on 
+> the governance failure points Tenant Scan examines.
 
 - **30-day remediation** — Mid-market retail companies with 200+ 
   workspaces are expected to discover 47 overshared datasets and 12 workspaces 
@@ -193,7 +216,7 @@ Fabric Readiness Report in 3–5 business days.**
 
 ## About PowerMates
 
-Founded by two Microsoft MVPs with over 20 years of experience of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
+Founded by two Microsoft MVPs with over 20 years of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
 
 PowerMates operates within these three core areas: 
 
