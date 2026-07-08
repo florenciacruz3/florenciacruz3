@@ -43,20 +43,15 @@ Specifically, three things go wrong in almost every large company:
 
 Tenant Scan finds all of this before the migration happens, so companies are not discovering it mid-move.
 
-[Microsoft defines Fabric](https://www.microsoft.com/en-us/microsoft-fabric/resources/data-101/what-is-fabric) 
-as "a unified, AI-powered data platform to simplify data management 
-and analytics — an end-to-end intelligent data platform with a suite 
-of cloud services and tools for every data lifecycle stage: ingestion, 
-preparation, storage, analysis, and visualization."
+Microsoft Fabric is an all-in-one data platform — a single 
+environment where data is stored, organized, analyzed, and 
+turned into reports. At the center of every Fabric deployment 
+is your tenant — your organization's private corner of 
+Microsoft's cloud, where every workspace, dataset, report, 
+and permission lives.
 
-What this means is that Microsoft Fabric is an all-in-one data platform, a single workspace where data is stored, organized, analyzed, and turned into reports. 
-
-At the center of Fabric is your tenant — your organization's private corner of Microsoft's cloud. Everything the company has built in Power BI and Fabric lives there: every workspace, every 
-dataset, every report, every permission. Without 
-regular governance, that environment accumulates problems that remain unnoticed until you decide to migrate. 
-
-Section 2 maps exactly what lives inside that tenant — and 
-how data moves through it from raw source to finished report.
+Without regular governance, that environment accumulates 
+problems that remain unnoticed until you decide to migrate.
 
 ---
 
@@ -66,25 +61,24 @@ During a tenant scan the environment that your data moves through goes through a
 
 1. **Capacity governance** — whether compute resources are 
    correctly sized and allocated
-2. **Workspace sprawl and lifecycle** — unowned, inactive, 
+2. **Workspace sprawl and lifecycle** — locates all unowned, inactive, 
    or redundant workspaces accumulating over time
-3. **OneLake security** — row-level and column-level security 
-   configurations across lakehouses and datasets
+3. **OneLake security** — making sure row-level and column-level security 
+   configurations across lakehouses and datasets are set up correctly
 4. **Sensitivity labels and DLP** — whether sensitive data is 
    classified and protected according to your organization's 
    policies
-5. **Semantic model hygiene** — stale, duplicated, or 
+5. **Semantic model hygiene** — checks for duplicated, or 
    undocumented models creating reporting inconsistencies
-6. **Data lineage** — visibility into where data comes from 
+6. **Data lineage** — traces where data comes from 
    and how it flows through the environment
-7. **Identity and connections** — service accounts, external 
-   connections, and access permissions that have drifted from 
+7. **Identity and connections** — finds connections such as access permissions that have drifted from 
    their original intent
 8. **Domains** — whether workspaces and assets are correctly 
    organized and governed by domain
 9. **Deployment and source control** — whether pipelines and 
    reports are version-controlled and deployed consistently
-10. **Monitoring and cost accountability** — whether usage, 
+10. **Monitoring and cost accountability** — monitors whether usage, 
     performance, and spend are visible and assigned to owners
 
 **The process:**
@@ -139,9 +133,7 @@ Every Tenant Scan engagement delivers three outputs:
   Green status that gives leadership an immediate read on 
   migration readiness without requiring technical context.
 
-- **10-Point Governance Scorecard** — a finding for each of 
-  the ten governance failure points examined, ranked by 
-  impact and effort so your team knows what to address first.
+- **10-Point Governance Scorecard** — findings that tell you what to address first, ranked by impact and effort. 
 
 - **Now / Next / Later Remediation Roadmap** — a structured 
   action plan that sequences your top findings into an 
