@@ -153,17 +153,22 @@ they need to be.
 > what engagements at this scale typically surface based on 
 > the governance failure points Tenant Scan examines.
 
-- **30-day remediation** — Mid-market retail companies with 200+ 
-  workspaces are expected to discover 47 overshared datasets and 12 workspaces 
-  with no owner. Everything will be resolved within a month.
+- **30-day remediation** — A retail organization with 200+ 
+  workspaces surfaces overshared datasets and workspaces 
+  with no assigned owner. With a ranked action plan in hand, 
+  the team resolves the highest-impact findings within 
+  a month.
 
-- **$180,000 saved annually** — Financial services firms 
-  will identify unused licenses and underutilized Premium capacity 
-  that had been draining budget undetected.
+- **Significant license savings** — A financial services 
+  organization identifies unused licenses and underutilized 
+  Premium capacity that had been draining budget undetected 
+  — costs that were invisible without a structured audit.
 
-- **400 workspaces, migration-ready in one quarter** — Healthcare organizations will receive a scored readiness report 
-  and a phased roadmap that got their first 50 workspaces 
-  live in Fabric within the quarter.
+- **Migration-ready in one quarter** — A healthcare 
+  organization with 400 workspaces receives a scored 
+  readiness report and a phased roadmap. With clear 
+  priorities and a sequenced plan, the first workspaces 
+  go live in Fabric within the quarter.
 
 ---
 
