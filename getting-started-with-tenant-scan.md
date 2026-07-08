@@ -1,4 +1,4 @@
-# The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
+## The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
 
 ---
 
@@ -30,7 +30,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 ## 1. What Microsoft Fabric Is and Why Your Tenant Matters
 
-There is a moment every data leader fears. The Microsoft Fabric migration is approved, timeline is set, and then the project fails.
+There is a moment every data leader fears. The Microsoft Fabric migration is approved, the timeline is set, and then the project fails.
 
 Here is why that happens: 
 
@@ -38,7 +38,7 @@ Companies let their data environments get messy over years, and when they try to
 
 Specifically, three things go wrong in almost every large company:
 1.	Teams create workspaces and forget about them (sprawl).
-2.	People leave the company but their access to data doesn't get removed (orphaned access — this is a security risk).
+2.	People leave the company but their access to data does not get removed (orphaned access — this is a security risk).
 3.	The company keeps paying for software licenses for people who no longer use them (waste).
 
 Tenant Scan finds all of this before the migration happens, so companies are not discovering it mid-move.
@@ -57,28 +57,33 @@ problems that remain unnoticed until you decide to migrate.
 
 ## 2. How It Works
 
-During a tenant scan the environment that your data moves through goes through a specific review process. Here is how that environment works, from the moment raw data enters the system to the moment a business user reads a report.
+During a tenant scan the environment that your data moves through goes through a specific read-only assessment of your Fabric and Power BI environment. Nothing in your tenant is modified
+
+The assessment examines ten governance failure points that 
+consistently block or complicate Fabric migrations:
 
 1. **Capacity governance** — whether compute resources are 
    correctly sized and allocated
-2. **Workspace sprawl and lifecycle** — locates all unowned, inactive, 
-   or redundant workspaces accumulating over time
-3. **OneLake security** — making sure row-level and column-level security 
-   configurations across lakehouses and datasets are set up correctly
-4. **Sensitivity labels and DLP** — whether sensitive data is 
-   classified and protected according to your organization's 
-   policies
-5. **Semantic model hygiene** — checks for duplicated, or 
+2. **Workspace sprawl and lifecycle** — locating all unowned, 
+   inactive, or redundant workspaces accumulating over time
+3. **OneLake security** — whether row-level and column-level 
+   security configurations across lakehouses and datasets 
+   are set up correctly
+4. **Sensitivity labels and DLP** — whether sensitive data 
+   is classified and protected according to your 
+   organization's policies
+5. **Semantic model hygiene** — checking for duplicated or 
    undocumented models creating reporting inconsistencies
-6. **Data lineage** — traces where data comes from 
-   and how it flows through the environment
-7. **Identity and connections** — finds connections such as access permissions that have drifted from 
-   their original intent
+6. **Data lineage** — tracing where data comes from and how 
+   it flows through the environment
+7. **Identity and connections** — finding service accounts 
+   and access permissions that have drifted from their 
+   original intent
 8. **Domains** — whether workspaces and assets are correctly 
    organized and governed by domain
 9. **Deployment and source control** — whether pipelines and 
    reports are version-controlled and deployed consistently
-10. **Monitoring and cost accountability** — monitors whether usage, 
+10. **Monitoring and cost accountability** — whether usage, 
     performance, and spend are visible and assigned to owners
 
 **The process:**
@@ -120,8 +125,8 @@ Every Tenant Scan engagement delivers three outputs:
   Green status that gives leadership an immediate read on 
   migration readiness without requiring technical context.
 
-- **10-Point Governance Scorecard** — findings that tell you what to address first, ranked by impact and effort. 
-
+- **10-Point Governance Scorecard** — findings across all ten governance failure points, ranked by impact and effort.
+  
 - **Now / Next / Later Remediation Roadmap** — a structured 
   action plan that sequences your top findings into an 
   executable 90-day window, rather than an overwhelming 
@@ -202,7 +207,7 @@ Fabric Readiness Report in 3–5 business days.**
 
 Founded by two Microsoft MVPs with over 20 years of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
 
-PowerMates operates within these three core areas: 
+PowerMates operates across three core areas: 
 
 - **Consulting** — Eight specialized service offerings, ranging from governance audits to full architecture design and migration support. 
 
@@ -218,7 +223,8 @@ The company has built a following of 7,300+ subscribers on YouTube and maintains
 
 ### Does PowerMates need access to our tenant to run a scan?
 
-It depends. Tenant Scan does not require any tenant access if you choose the starter tier. The entire intake process will run through a 15-minute questionnaire only. The two next tiers, professional and enterprise do require looking at your tenant in order to run a scan. However, your tenant won't be modify at this stage of the process. 
+It depends. Tenant Scan does not require any tenant access if you choose the starter tier. The entire intake process will run through a 15-minute questionnaire only. The two next tiers, professional and enterprise do require looking at your tenant in order to run a scan. In all cases, nothing in your tenant is written to or 
+modified at any stage. 
 
 ---
 
