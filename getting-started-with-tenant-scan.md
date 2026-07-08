@@ -12,10 +12,10 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
-3. [Comparing Fabric to Other Services](#3-comparing-fabric-to-other-services)
-4. [Who It Is For](#4-who-it-is-for)
-5. [What You Get](#5-what-you-get)
-6. [Expected Outcomes](#6-expected-outcomes)
+3. [Who It Is For](#3-who-it-is-for)
+4. [What You Get](#4-what-you-get)
+5. [Expected Outcomes](#5-expected-outcomes)
+6. [Assessment Tiers](#6-assessment-tiers)
 7. [Get Started](#7-get-started)
 
 **What this article does *not* cover:**
@@ -175,29 +175,34 @@ they need to be.
 
 ---
 
-## 7. Get Started
+## 6. Assessment Tiers
 
-Most organizations discover governance gaps when it is already too late.
-
-The Tenant Scan gives you the map before you move.
-
-The problems are knowable. The question is whether you find 
-them before they find you.
-
----
-
-### Assessment Tiers
+Tenant Scan is available at three levels. The tier you choose 
+determines the depth of the assessment and the level of detail 
+in your results.
 
 | Tier | Price | What It Includes |
 |---|---|---|
-| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Fabric Readiness Score, Governance and License Audit, and Prioritized Action Plan delivered in 3–5 business days. No tenant access required. |
-| **Professional** | $5,000 | Everything in Starter, plus a deeper review conducted with direct tenant access for more detailed findings and a more extensive action plan. |
-| **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — covering the full depth of your environment for organizations with the most complex or large-scale tenant environments. |
+| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, 10-point scorecard, and Now/Next/Later roadmap delivered in 3–5 business days. No tenant access required. |
+| **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric CLI for more detailed findings across all ten governance failure points. |
+| **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage for organizations with the most complex or large-scale tenant environments. |
 
 > [!NOTE]
 > No tenant is modified at any stage of the process. 
 > Tenant access in the Professional and Enterprise tiers 
 > is read-only and used solely for assessment purposes.
+
+---
+
+## 7. Get Started
+
+Most organizations discover governance gaps when it is 
+already too late.
+
+The Tenant Scan gives you the map before you move.
+
+The problems are knowable. The question is whether you find 
+them before they find you.
 
 **Pick a tier. Complete the questionnaire. Get your scored 
 Fabric Readiness Report in 3–5 business days.**
