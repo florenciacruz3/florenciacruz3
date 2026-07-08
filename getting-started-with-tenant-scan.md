@@ -197,9 +197,7 @@ The company has built a following of 7,300+ subscribers on YouTube and maintains
 
 ### Does PowerMates need access to our tenant to run a scan?
 
-No. Tenant Scan does not require any tenant access. The entire 
-intake process runs through a 15-minute questionnaire. 
-There is no need for external access to your environment.
+It depends. Tenant Scan does not require any tenant access if you choose the starter tier. The entire intake process will run through a 15-minute questionnaire only. The two next tiers, professional and enterprise do require looking at your tenant in order to run a scan. However, your tenant won't be modify at this stage of the process. 
 
 ---
 
