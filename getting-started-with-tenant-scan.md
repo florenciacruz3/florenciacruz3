@@ -94,20 +94,7 @@ Tenant Scan examines this entire environment — identifying accumulated problem
 
 ---
 
-## 3. Comparing Fabric to Other Services
-
-- **Microsoft Azure SQL Database** — think of it as a standalone, fully managed relational tool (PaaS) that lives in Microsoft Azure — a broader cloud platform. It exists independently of Fabric. Fabric, by contrast, is a complete data platform that ingests, stores, transforms, analyzes, and visualizes data. Fabric does not contain Azure SQL Database. Instead, Fabric can connect to Azure SQL Database as one of many external data sources.
-  
-- **Microsoft Power BI** — lives inside Fabric as the final step in the pipeline. It is responsible for turning data into charts, graphs, and dashboard meant to be read by business users. Once all the data is gathered, cleaned, and stored, Power BI is what becomes visible. 
-  
-- **Microsoft Azure** — the broader cloud platform, offering 200+ services for computing, storage, networking, AI, and more. Azure is the cloud that everything runs on. Fabric is a specific data platform that runs on Azure. Fabric is not a replacement for Azure, but a specialized layer built on top of it — one Azure product focused entirely on packaging data tools (ingestion, storage, warehousing, reporting) into a single ready-to-use system, instead of requiring you to stitch Azure services together yourself.
-
-> [!NOTE]
-> Azure and Fabric are not competitors or alternatives to each other. They exist at completely different levels.
-
----
-
-## 4. Who It Is For
+## 3. Who It Is For
 
 Tenant Scan is designed for you if you are:
 
@@ -125,7 +112,7 @@ Tenant Scan is designed for you if you are:
 
 ---
 
-## 5. What You Get
+## 4. What You Get
 
 Every Tenant Scan engagement delivers three outputs:
 
@@ -154,7 +141,7 @@ they need to be.
 
 ---
 
-## 6. Expected Outcomes
+## 5. Expected Outcomes
 
 > [!NOTE]
 > The scenarios below are illustrative — representative of 
