@@ -146,16 +146,15 @@ The result is a clear picture of where governance gaps exist and where cost savi
 
 ## 6. Expected Outcomes
 
-- **30-day remediation** — A mid-market retail company with 200+ 
-  workspaces discovered 47 overshared datasets and 12 workspaces 
-  with no owner. Everything was resolved within a month.
+- **30-day remediation** — Mid-market retail companies with 200+ 
+  workspaces are expected to discover 47 overshared datasets and 12 workspaces 
+  with no owner. Everything will be resolved within a month.
 
-- **$180,000 saved annually** — A financial services firm 
-  identified unused licenses and underutilized Premium capacity 
+- **$180,000 saved annually** — Financial services firms 
+  will identify unused licenses and underutilized Premium capacity 
   that had been draining budget undetected.
 
-- **400 workspaces, migration-ready in one quarter** — A 
-  healthcare organization received a scored readiness report 
+- **400 workspaces, migration-ready in one quarter** — Healthcare organizations will receive a scored readiness report 
   and a phased roadmap that got their first 50 workspaces 
   live in Fabric within the quarter.
 
