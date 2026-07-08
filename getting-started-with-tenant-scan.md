@@ -170,6 +170,21 @@ The Tenant Scan gives you the map before you move.
 The problems are knowable. The question is whether you find 
 them before they find you.
 
+---
+
+### Assessment Tiers
+
+| Tier | Price | What It Includes |
+|---|---|---|
+| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Fabric Readiness Score, Governance and License Audit, and Prioritized Action Plan delivered in 3–5 business days. No tenant access required. |
+| **Professional** | $5,000 | Everything in Starter, plus a deeper review conducted with direct tenant access for more detailed findings and a more extensive action plan. |
+| **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — covering the full depth of your environment for organizations with the most complex or large-scale tenant environments. |
+
+> [!NOTE]
+> No tenant is modified at any stage of the process. 
+> Tenant access in the Professional and Enterprise tiers 
+> is read-only and used solely for assessment purposes.
+
 **Pick a tier. Complete the questionnaire. Get your scored 
 Fabric Readiness Report in 3–5 business days.**
 
