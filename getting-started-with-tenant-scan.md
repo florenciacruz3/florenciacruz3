@@ -8,7 +8,7 @@
 
 This article is intended for enterprise teams managing 50+ workspaces and planning a move to Fabric.
 
-**What you will learn:**
+**What you will learn** — click any section to jump directly to it:
 
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [How It Works](#2-how-it-works)
@@ -69,7 +69,7 @@ consistently block or complicate Fabric migrations:
 3. **OneLake security** — whether row-level and column-level 
    security configurations across lakehouses and datasets 
    are set up correctly
-4. **Sensitivity labels and DLP** — whether sensitive data 
+4. **Sensitivity labels and Data Loss Prevention (DLP)** — whether sensitive data 
    is classified and protected according to your 
    organization's policies
 5. **Semantic model hygiene** — checking for duplicated or 
@@ -121,13 +121,13 @@ Tenant Scan is designed for you if you are:
 
 Every Tenant Scan engagement delivers three outputs:
 
-- **Executive Summary with RAG Rating** — a Red / Amber / 
-  Green status that gives leadership an immediate read on 
+**Executive Summary with RAG Rating** — a Red, Amber, and 
+Green (RAG) status that gives leadership an immediate read on 
   migration readiness without requiring technical context.
 
 - **10-Point Governance Scorecard** — findings across all ten governance failure points, ranked by impact and effort.
   
-- **Now / Next / Later Remediation Roadmap** — a structured 
+- **Now, Next, and Later Remediation Roadmap** — a structured 
   action plan that sequences your top findings into an 
   executable 90-day window, rather than an overwhelming 
   backlog.
@@ -138,8 +138,13 @@ Every Tenant Scan engagement delivers three outputs:
 > by tier — is read-only and used solely for assessment 
 > purposes. Nothing in your environment is modified.
 
-Tenant Scan is the first step in a four-stage engagement 
-path: **Tenant Scan → Architecture → Build → Govern**. 
+Tenant Scan is the first step in a four-stage path:
+
+1. Tenant Scan
+2. Architecture
+3. Build
+4. Govern
+
 Organizations that complete the scan leave with a clear 
 picture of where they stand and a defined path to where 
 they need to be.
@@ -178,14 +183,18 @@ Tenant Scan is available at three levels. The tier you choose
 determines the depth of the assessment and the level of detail 
 in your results.
 
+*Table: Comparison of three Tenant Scan assessment tiers — 
+Starter at $2,500, Professional at $5,000, and Enterprise 
+at $7,500 — showing price and what is included at each level.*
+
 | Tier | Price | What It Includes |
 |---|---|---|
-| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, 10-point scorecard, and Now/Next/Later roadmap delivered in 3–5 business days. No tenant access required. |
-| **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric CLI for more detailed findings across all ten governance failure points. |
+| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, 10-point scorecard, and Now, Next, and Later roadmap delivered in 3–5 business days. No tenant access required. |
+| **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric Command Line Interface (CLI) for more detailed findings across all ten governance failure points. |
 | **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage for organizations with the most complex or large-scale tenant environments. |
 
-> [!NOTE]
-> No tenant is modified at any stage of the process. 
+> [!TIP]
+> No tenant is modified at any stage of the process.
 > Tenant access in the Professional and Enterprise tiers 
 > is read-only and used solely for assessment purposes.
 
@@ -204,13 +213,13 @@ them before they find you.
 **Pick a tier. Complete the questionnaire. Get your scored 
 Fabric Readiness Report in 3–5 business days.**
 
-[Get Started →](https://www.thepowermates.com/tenant-scan)
+[Start your Tenant Scan assessment at PowerMates](https://www.thepowermates.com/tenant-scan)
 
 ---
 
 ## About PowerMates
 
-Founded by two Microsoft MVPs with over 20 years of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
+Founded by two Microsoft Most Valuable Professionals (MVPs) with over 20 years of combined experience in this area, PowerMates is an enterprise consulting firm that focuses on Microsoft data and AI platforms to help organizations reduce governance risk, accelerate AI adoption, and avoid unnecessary costly missteps when migrating to Microsoft Fabric. 
 
 PowerMates operates across three core areas: 
 
