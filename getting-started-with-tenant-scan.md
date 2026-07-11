@@ -24,7 +24,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 - Microsoft Fabric setup 
 - Advanced Fabric architecture concepts
 
-> ⏱ Estimated reading time: 8 minutes
+> ⏱ Estimated reading time: 9 minutes
 
 ---
 
