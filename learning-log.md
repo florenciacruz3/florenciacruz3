@@ -195,8 +195,6 @@ list would hear a list of blue underlined items with
 no indication they were clickable destinations.
 So, I added a note next to the title, indicating what this colored words mean. 
 
-```
-
 I also found that arrow characters throughout the article 
 — `→` — were being used to show sequences and directions. 
 These are read aloud by screen readers as "right-pointing 
