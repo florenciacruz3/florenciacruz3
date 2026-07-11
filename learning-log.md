@@ -217,8 +217,6 @@ on first use. A screen reader user — or any reader
 unfamiliar with the industry — would encounter:
 To fix this mistake, I spelled out every abbreviation on first use:
 
-```
-
 I also found that "Now / Next / Later" used slash 
 characters which screen readers read as "Now slash Next 
 slash Later." I changed every instance to a comma. 
