@@ -108,14 +108,16 @@ reader scans visually.
 
 ### In My Own Words
 
-I was very interested to hear on my first module about the different levels of success that people with disabilities have been able to accomplish trough accessibility. 
-Making the decision of adding accessibility to your writing can have a bigger impact than you could imagine. 
+I was very interested to hear on my first module about the different levels of success that people with disabilities have been able to accomplish through accessibility.
 
-I thought that the level of detail on what accessibility means was very impactful to me. People generally have certain levels of learning within their senses, listening, visually, kinesthetic learners. 
-I myself have had to deal with ADHD as I was going to school, and I learned that my best skills are visual and kinesthetic learning, so I was able to play that to my favor as I was going to school, and managed to graduate with honors for a bachelor's degree. 
-And I'm sure people use this on day to day basis, people who have a better time listening and like to multitask by listening to an audio book. Or people who have a hard time reading, so they use AI for summaries. 
+Making the decision of adding accessibility to your writing can have a bigger impact than you could imagine.
 
-Learning about accessibility give me a broad idea of how the writing world works, and how impactful our decisions as writers can be. 
+I thought that the level of detail on what accessibility means was very impactful to me. People generally have certain levels of learning within their senses, listening, visually, kinesthetic learners.
+
+I myself have had to deal with ADHD as I was going to school, and I learned that my best skills are visual and kinesthetic learning, so I was able to play that to my favor as I was going to school, and managed to graduate with honors for a bachelor's degree.
+And I'm sure people use this on a day-to-day basis, people who have a better time listening and like to multitask by listening to an audiobook. Or people who have a hard time reading, so they use AI for summaries.
+
+Learning about accessibility gave me a broad idea of how the writing world works, and how impactful our decisions as writers can be.
 
 ---
 
@@ -212,14 +214,8 @@ and any instructions.
 
 **What I found in my article:**
 
-Several abbreviations appeared without being spelled out 
-on first use. A screen reader user — or any reader 
-unfamiliar with the industry — would encounter:
-To fix this mistake, I spelled out every abbreviation on first use:
-
-I also found that "Now / Next / Later" used slash 
-characters which screen readers read as "Now slash Next 
-slash Later." I changed every instance to a comma. 
+Several abbreviations appeared without being spelled out on first use. A screen reader user — or any reader unfamiliar with the industry — would encounter terms like these with no context for what they mean. To fix this, I spelled out every abbreviation on first use, giving the full term followed by the abbreviation in parentheses so both screen reader users and unfamiliar readers have the context they need.
+I also found that "Now / Next / Later" used slash characters, which screen readers read aloud as "Now slash Next slash Later" — turning a simple heading into an awkward, confusing phrase. I changed every instance to a comma-separated list instead, so it reads naturally both visually and aloud.
 
 ---
 
@@ -241,21 +237,15 @@ is rendered.
 
 ### In My Own Words
 
-Changing my persepctive from completing a checklist and asking a set of questions changed how a I felt about entering a new filed of accessibillity. 
+Changing my perspective from completing a checklist and asking a set of questions changed how I felt about entering a new field of accessibility.
 
-At different work positions that I've had before, knowing why we do things in a certain way has always made everything click. 
+At different work positions that I've had before, knowing why we do things in a certain way has always made everything click.
 
-And POUR did that for me
+And POUR did that for me.
 
-The arrow characters were an operability 
-problem. The unexplained abbreviations were an 
-understandability problem. The missing table caption 
-was a perceivability problem. The GitHub-specific 
-callout syntax was a robustness consideration.
+The arrow characters were an operability problem. The unexplained abbreviations were an understandability problem. The missing table caption was a perceivability problem.
 
-I am starting to see accessibility not as something 
-separate from good writing — but as the same thing 
-with a more rigorous standard.
+I am starting to see accessibility not as something separate from good writing — but as the same thing with a more rigorous standard.
 
 ---
 
