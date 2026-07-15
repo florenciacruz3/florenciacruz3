@@ -1,9 +1,11 @@
 # Mini Accessibility Audit
 ## Website: Half Price Books (hpb.com)
 **Auditor:** Florencia Cruz
+
 **Date:** July 2026
-**Tools Used:** WAVE browser extension, Chrome DevTools 
-Lighthouse, keyboard navigation testing
+
+**Tools Used:** WAVE browser extension, Chrome DevTools Lighthouse, keyboard navigation testing
+
 ---
 
 ## Overview
