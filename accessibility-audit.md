@@ -88,3 +88,7 @@ Half Price Books is a bookstore, famous for selling used books at half price. Th
 These are some of the typical issues that tend to show up on almost any large catalog and don't require a redesign to fix. These four findings have one thing in common — they live in shared templates, the footer, the product tile, the search bar. This means that a fix in one place propagates across the whole site. These findings are not a one-off typo, it's a pattern repeated on every page that reuses that component.
 
 The important thing to take from this is: accessibility gaps here are rarely about whether someone can shop for a book online — they're about a mismatch between how the interface was built and how different people actually navigate it, whether that's by touch, by keyboard, or by screen reader. Closing that mismatch wouldn't just clear WCAG checkboxes; it would make search, browsing, and checkout more predictable for every HPB customer, disabled or not.
+
+---
+
+*Last updated: July 2026*
