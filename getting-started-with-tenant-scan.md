@@ -121,7 +121,7 @@ Tenant Scan is designed for you if you are:
 
 Every Tenant Scan engagement delivers three outputs:
 
-**Executive Summary with RAG Rating** — a Red, Amber, and 
+- **Executive Summary with RAG Rating** — a Red, Amber, and 
 Green (RAG) status that gives leadership an immediate read on 
   migration readiness without requiring technical context.
 
