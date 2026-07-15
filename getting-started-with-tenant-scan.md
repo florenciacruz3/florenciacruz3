@@ -11,12 +11,11 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 **What you will learn** — click any section to jump directly to it:
 
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
-2. [How It Works](#2-how-it-works)
-3. [Who It Is For](#3-who-it-is-for)
-4. [What You Get](#4-what-you-get)
-5. [Expected Outcomes](#5-expected-outcomes)
-6. [Assessment Tiers](#6-assessment-tiers)
-7. [Get Started](#7-get-started)
+2. [Who It Is For](#3-who-it-is-for)
+3. [What You Get](#4-what-you-get)
+4. [Expected Outcomes](#5-expected-outcomes)
+5. [Assessment Tiers](#6-assessment-tiers)
+6. [Get Started](#7-get-started)
 
 **What this article does *not* cover:**
 
@@ -55,51 +54,7 @@ problems that remain unnoticed until you decide to migrate.
 
 ---
 
-## 2. How It Works
-
-During a tenant scan the environment that your data moves through goes through a specific read-only assessment of your Fabric and Power BI environment. Nothing in your tenant is modified
-
-The assessment examines ten governance failure points that 
-consistently block or complicate Fabric migrations:
-
-1. **Capacity governance** — whether compute resources are 
-   correctly sized and allocated
-2. **Workspace sprawl and lifecycle** — locating all unowned, 
-   inactive, or redundant workspaces accumulating over time
-3. **OneLake security** — whether row-level and column-level 
-   security configurations across lakehouses and datasets 
-   are set up correctly
-4. **Sensitivity labels and Data Loss Prevention (DLP)** — whether sensitive data 
-   is classified and protected according to your 
-   organization's policies
-5. **Semantic model hygiene** — checking for duplicated or 
-   undocumented models creating reporting inconsistencies
-6. **Data lineage** — tracing where data comes from and how 
-   it flows through the environment
-7. **Identity and connections** — finding service accounts 
-   and access permissions that have drifted from their 
-   original intent
-8. **Domains** — whether workspaces and assets are correctly 
-   organized and governed by domain
-9. **Deployment and source control** — whether pipelines and 
-   reports are version-controlled and deployed consistently
-10. **Monitoring and cost accountability** — whether usage, 
-    performance, and spend are visible and assigned to owners
-
-**The process:**
-
-1. **Intake** — complete a structured questionnaire covering 
-   your environment and migration goals
-2. **Scan** — PowerMates performs a read-only enumeration of 
-   your tenant, at the depth your tier allows
-3. **Report** — receive your scored Fabric Readiness Report 
-   in 3–5 business days
-
-Tenant Scan examines this entire environment — identifying accumulated problems that will slow down or block a migration.
-
----
-
-## 3. Who It Is For
+## 2. Who It Is For
 
 Tenant Scan is designed for you if you are:
 
@@ -117,7 +72,7 @@ Tenant Scan is designed for you if you are:
 
 ---
 
-## 4. What You Get
+## 3. What You Get
 
 Every Tenant Scan engagement delivers three outputs:
 
@@ -148,7 +103,7 @@ they need to be.
 
 ---
 
-## 5. Expected Outcomes
+## 4. Expected Outcomes
 
 > [!NOTE]
 > The scenarios below are illustrative — representative of 
@@ -174,7 +129,7 @@ they need to be.
 
 ---
 
-## 6. Assessment Tiers
+## 5. Assessment Tiers
 
 Tenant Scan is available at three levels. The tier you choose 
 determines the depth of the assessment and the level of detail 
@@ -190,6 +145,14 @@ at $7,500 — showing price and what is included at each level.*
 | **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric Command Line Interface (CLI) for more detailed findings across all ten governance failure points. |
 | **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage for organizations with the most complex or large-scale tenant environments. |
 
+- Starter is built for speed and low commitment. Because it runs entirely on your questionnaire responses, there's nothing to install, connect, or grant access to — which makes it the right starting point if you're still forming a business case internally and need a credible, structured baseline before asking for budget or tenant access approval.
+
+- Professional is where the assessment stops being self-reported and starts being verified. The live Fabric REST API scan means the findings reflect what's actually in your tenant, not just what your team believes is there — a meaningful distinction, since the FAQ later in this article notes that most teams underestimate their own sprawl precisely because they lack this kind of visibility. The AI-powered Governance Score and the 2-hour session with a Microsoft MVP also mean you're not just getting a report — you're getting a working conversation about what it means for your specific environment, which is likely why this is the tier most organizations land on.
+
+- Enterprise is built less for discovery and more for organizations that already know they have a complex problem and need it formally documented. Compliance mapping and ROI modeling matter most to organizations that have to justify the migration to a board, an auditor, or a regulator, not just to their own data team. The second follow-up call and the 30/60/90-day roadmap are less about finding new problems and more about staying accountable to fixing the ones already found.
+  
+The practical decision point is usually this: if you're not yet sure a migration is happening, Starter gives you a defensible answer without spending much or opening any access. If a migration is already approved, Professional is the tier that actually earns its price — the live scan and MVP session convert a report into a plan your team can execute. Enterprise is worth the jump specifically when compliance sign-off, not just internal alignment, is part of what's blocking the migration.
+
 > [!TIP]
 > No tenant is modified at any stage of the process.
 > Tenant access in the Professional and Enterprise tiers 
@@ -197,7 +160,7 @@ at $7,500 — showing price and what is included at each level.*
 
 ---
 
-## 7. Get Started
+## 6. Get Started
 
 Most organizations discover governance gaps when it is 
 already too late.
