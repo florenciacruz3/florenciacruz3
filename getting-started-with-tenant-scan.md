@@ -125,12 +125,9 @@ Every Tenant Scan engagement delivers three outputs:
 Green (RAG) status that gives leadership an immediate read on 
   migration readiness without requiring technical context.
 
-- **10-Point Governance Scorecard** — findings across all ten governance failure points, ranked by impact and effort.
-  
-- **Now, Next, and Later Remediation Roadmap** — a structured 
-  action plan that sequences your top findings into an 
-  executable 90-day window, rather than an overwhelming 
-  backlog.
+- **Governance Findings** — findings across all ten governance failure points, ranked by impact and effort.
+
+- **Ranked Top 5 Action Plan** — your highest-priority findings sequenced into an executable 90-day plan, rather than an overwhelming backlog.
 
 > [!NOTE]
 > The entire intake process runs through a structured 
@@ -189,7 +186,7 @@ at $7,500 — showing price and what is included at each level.*
 
 | Tier | Price | What It Includes |
 |---|---|---|
-| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, 10-point scorecard, and Now, Next, and Later roadmap delivered in 3–5 business days. No tenant access required. |
+| **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, governance findings, and a ranked top 5 action plan delivered in 3–5 business days. No tenant access required. |
 | **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric Command Line Interface (CLI) for more detailed findings across all ten governance failure points. |
 | **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage for organizations with the most complex or large-scale tenant environments. |
 
