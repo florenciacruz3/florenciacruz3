@@ -1,4 +1,4 @@
-# Mini Accessibility Audit
+# Accessibility Audit
 ## Website: Half Price Books (hpb.com)
 **Auditor:** Florencia Cruz
 
