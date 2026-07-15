@@ -32,18 +32,17 @@ Half Price Books is a bookstore, famous for selling used books at half price. Th
 
 - **Fix:** Add aria-label="Half Price Books on Instagram" (and equivalents) to each icon link, or visually-hidden text inside the link.
 
-### 2. Image elements have [alt] attributes that are redundant text
+### 2. Links and images lack accessible, non-redundant names
 
 - **Where:** Site-wide — flagged by Lighthouse across the Books and Music product grids
 
-- **Issue:** Several <a> elements have no discernible accessible name — no visible text, no aria-label, and no meaningful alt text on a wrapped image. Lighthouse also flagged image alt attributes that duplicate the adjacent link text (redundant alt text), which creates noise for screen reader users rather than adding information. In practice this overlaps with the wishlist icon and product-thumbnail links already noted above: a link wrapping only an icon or image with no text, and an unlabeled/duplicated alt, both leave the link's destination or purpose unclear when read out of context.
+- **Issue:** Several `<a>` elements have no discernible accessible name — no visible text, no `aria-label`, and no meaningful `alt` text on a wrapped image. Separately, Lighthouse also flagged cases where an image's `alt` attribute duplicates the adjacent link text — announcing the same name twice rather than adding information. In practice both issues touch the same components already noted in this audit — the wishlist icon and product-thumbnail links — and both leave a link's purpose unclear or noisy when read out of context.
 
 - **WCAG reference:** 4.1.2 Name, Role, Value (A), 2.4.4 Link Purpose (In Context) (A)
 
 - **Severity:** Serious
 
-- **Fix:** Every link needs a discernible name — either visible text inside the link, an aria-label on the <a>, or meaningful alt text on a wrapped image (not alt="", unless the image is truly decorative and the link already has a text name elsewhere).
-Where an image and adjacent text link to the same destination, don't duplicate the text in alt — mark the image alt="" and let the adjacent text carry the accessible name, so screen readers announce it once instead of twice.
+- **Fix:** Every link needs a discernible name — either visible text inside the link, an `aria-label` on the `<a>`, or meaningful `alt` text on a wrapped image (not `alt=""`, unless the image is truly decorative and the link already has a text name elsewhere). Where an image and adjacent text link to the same destination, don't duplicate the text in `alt` — mark the image `alt=""` and let the adjacent text carry the accessible name, so screen readers announce it once instead of twice.
 
 ### 3. Touch targets do not have sufficient size or spacing
 
