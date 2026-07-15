@@ -159,21 +159,21 @@ they need to be.
 > the governance failure points Tenant Scan examines.
 
 - **30-day remediation** — A retail organization with 200+ 
-  workspaces surfaces overshared datasets and workspaces 
+  workspaces is expected to surface overshared datasets and workspaces 
   with no assigned owner. With a ranked action plan in hand, 
-  the team resolves the highest-impact findings within 
+  the team will resolve the highest-impact findings within 
   a month.
 
 - **Significant license savings** — A financial services 
-  organization identifies unused licenses and underutilized 
+  organization could potentially identify unused licenses and underutilized 
   Premium capacity that had been draining budget undetected 
-  — costs that were invisible without a structured audit.
+  — costs that would be invisible without a structured audit.
 
 - **Migration-ready in one quarter** — A healthcare 
-  organization with 400 workspaces receives a scored 
+  organization with 400 workspaces could receive a scored 
   readiness report and a phased roadmap. With clear 
   priorities and a sequenced plan, the first workspaces 
-  go live in Fabric within the quarter.
+  is predicted to go live in Fabric within the quarter.
 
 ---
 
