@@ -11,11 +11,11 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 **What you will learn** — click any section to jump directly to it:
 
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
-2. [Who It Is For](#3-who-it-is-for)
-3. [What You Get](#4-what-you-get)
-4. [Expected Outcomes](#5-expected-outcomes)
-5. [Assessment Tiers](#6-assessment-tiers)
-6. [Get Started](#7-get-started)
+2. [Who It Is For](#2-who-it-is-for)
+3. [What You Get](#3-what-you-get)
+4. [Expected Outcomes](#4-expected-outcomes)
+5. [Assessment Tiers](#5-assessment-tiers)
+6. [Get Started](#6-get-started)
 
 **What this article does *not* cover:**
 
