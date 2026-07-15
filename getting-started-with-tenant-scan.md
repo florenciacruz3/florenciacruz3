@@ -161,7 +161,7 @@ they need to be.
 - **30-day remediation** — A retail organization with 200+ 
   workspaces is expected to surface overshared datasets and workspaces 
   with no assigned owner. With a ranked action plan in hand, 
-  the team will resolve the highest-impact findings within 
+  the team would be resolving the highest-impact findings within 
   a month.
 
 - **Significant license savings** — A financial services 
