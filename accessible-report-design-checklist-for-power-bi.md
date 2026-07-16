@@ -8,14 +8,13 @@
 
 ## Why This Checklist Matters
 
-Power BI reports are committed to WCAG 2.1 standards — the same
-international guidelines that govern web accessibility. That means
-the same principles you apply to a website or document apply here:
-perceivable, operable, understandable, and robust.
+Approximately 15% of the global population lives with some form of disability. This means that in any organization that is large enough to use Power BI, a meaningful percentage of people is affected. When reports created with Power BI are not accessible, some people simply cannot use them.
 
-This checklist covers every category of accessible report design
-so you can verify your report is usable by the widest possible
-audience before publishing.
+A blind employee using a screen reader cannot read a chart with no alt text. A colorblind manager cannot tell the difference between a red and green status indicator if color is the only signal. A user with a motor disability who navigates by keyboard cannot interact with a visual that was never tested without a mouse.
+
+An organization that publishes inaccessible reports is signaling — whether intentionally or not — that some users do not matter. 
+
+The checklist ensures that before a report is published, every person who needs to read it can actually read it.
 
 ---
 
@@ -25,7 +24,7 @@ audience before publishing.
 - [ ] Text and background color contrast ratio is at least 4.5:1
 for all visual titles, axis labels, and data labels
 (WCAG 2.1 Success Criterion 1.4.3)
-- [ ]Text and background contrast in all textboxes meets the
+- [ ] Text and background contrast in all textboxes meets the
 4.5:1 minimum ratio
 - [ ] Color is not the only means of conveying information —
 text, icons, or patterns supplement or replace color coding
@@ -238,7 +237,7 @@ before publishing
 
 ---
 
-Sources
+#### Sources
 
 
 - [Overview of Accessibility in Power BI — Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-overview)
