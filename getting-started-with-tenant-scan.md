@@ -13,7 +13,7 @@ This article is intended for enterprise teams managing 50+ workspaces and planni
 1. [What Microsoft Fabric Is and Why Your Tenant Matters](#1-what-microsoft-fabric-is-and-why-your-tenant-matters)
 2. [Who It Is For](#2-who-it-is-for)
 3. [What You Get](#3-what-you-get)
-4. [Expected Outcomes](#4-expected-outcomes)
+4. [Illustrative Scenarios](#4-illustrative-scenarios)
 5. [Assessment Tiers](#5-assessment-tiers)
 6. [Get Started](#6-get-started)
 
@@ -103,7 +103,7 @@ they need to be.
 
 ---
 
-## 4. Expected Outcomes
+## 4. Illustrative Scenarios
 
 > [!NOTE]
 > The scenarios below are illustrative — representative of 
