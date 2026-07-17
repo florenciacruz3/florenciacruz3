@@ -1,5 +1,4 @@
-# Plain Language Rewrite — Tenant Scan Introduction 
-# and Executive Summary
+# Plain Language Rewrite — Tenant Scan Introduction and Executive Summary
 
 **Course principles applied:**
 - Microsoft Writing Style Guide — Top 10 Tips
