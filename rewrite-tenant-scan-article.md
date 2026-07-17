@@ -93,10 +93,9 @@ they need to be.
 
 ---
 
-## Rewritten Version
+# Rewritten Version
 
-# The Hidden Risks in Your Microsoft Fabric Tenant — and 
-# How to Find Them Before They Find You
+# The Hidden Risks in Your Microsoft Fabric Tenant — and How to Find Them Before They Find You
 
 ---
 
