@@ -257,4 +257,112 @@ I am starting to see accessibility not as something separate from good writing �
 
 ---
 
+## Week 2 — Entry 1: Plain Language and UX Writing
+
+**Date:** July 17, 2026
+**Resources completed:**
+- UX Writing Hub — Free Course (uxwritinghub.com)
+- Microsoft Writing Style Guide (learn.microsoft.com/style-guide)
+
+---
+
+### What I Learned
+
+It was interesting to transition from Accessibility to UX Writing. It made me think about how Accessibility is about making sure everyone can access your content. UX writing is about making sure that content is worth accessing in the first place.
+
+I was also introduced to the idea of content-first design — the concept that you should start with 
+words and build the design around them, not the other way 
+around. That reframing was significant for me. I had always 
+thought of writing as something that fills in a design. 
+This course made me think of writing as the foundation the 
+design is built on.
+
+The Microsoft Writing Style Guide gave me a concrete set of 
+principles to apply immediately. The ones that had the most 
+impact on how I think about writing:
+
+- **Use bigger ideas, fewer words** — shorter is always 
+  better. If a word is not earning its place, cut it.
+- **Write like you speak** — read your text aloud. If it 
+  sounds stiff or formal, rewrite it until it sounds like 
+  a conversation.
+- **Get to the point fast** — lead with what matters most. 
+  Do not make the reader wade through context before 
+  arriving at the point.
+- **Revise weak writing** — cut "there is," "you can," 
+  and passive constructions. Start with verbs instead.
+- **Use contractions** — "doesn't," "you'll," "it's." 
+  They make language sound human.
+- **Speak to the reader directly** — use "you" and "your" 
+  instead of "organizations" and "companies."
+
+---
+
+### What I Applied
+
+**Plain Language Rewrite — Tenant Scan Article**
+
+I applied everything I learned this week to a hands-on 
+activity: rewriting the introduction and executive summary 
+of my Tenant Scan article into plain language, then 
+documenting the before and after side by side as a 
+portfolio piece.
+
+The original opening read:
+
+*"There is a moment every data leader fears. The Microsoft 
+Fabric migration is approved, the timeline is set, and then 
+the project fails."*
+
+The rewritten version reads:
+
+*"Most Fabric migrations fail for the same reason: the 
+environment wasn't ready."*
+
+That is the same idea in a fraction of the words. The 
+original version builds to the point. The rewritten version 
+leads with it — which is exactly what the Microsoft Style 
+Guide means by "get to the point fast."
+
+Other changes I made across the two sections:
+
+- Replaced "organizations" and "companies" with "you" 
+  and "your" throughout — speaking directly to the reader 
+  instead of describing them from a distance
+- Cut "there is" constructions and started sentences with 
+  verbs instead
+- Added contractions — "doesn't," "you'll," "it's" — to 
+  make the language feel more natural
+- Split long sentences into two shorter ones wherever a 
+  single sentence was carrying two ideas
+- Removed modifiers that added length without adding 
+  meaning — "entire," "structured," "engagement"
+- Replaced "a defined path to where they need to be" 
+  with "what to do next" — plain language for the same idea
+
+---
+
+### In My Own Words
+
+What stayed with me most from this week is how close plain 
+language and accessibility actually are.
+
+Last week I leaned about how to remove the barriers that makes content unaccessible to the reader. This week, I learned that without UX writing, content would still be unaccessible to the reader. They go hand by hand. 
+
+I had already applied the concepts of Accessiblity to my Tenant Scan article. But some of it was written to sound professional rather than 
+to be useful. The rewrite did not change what the article 
+says — it changed how easy it is to read. And that 
+difference, I am learning, is the whole job.
+
+---
+
+## Resources
+
+- [UX Writing Hub — Free Course](https://course.uxwritinghub.com/free_course)
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+- [Microsoft Writing Style Guide — Top 10 Tips](https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+- [Tenant Scan Article — Plain Language Rewrite](https://github.com/florenciacruz3/florenciacruz3/blob/main/getting-started-with-tenant-scan.md)
+
+---
+
 *Last updated: July 2026*
