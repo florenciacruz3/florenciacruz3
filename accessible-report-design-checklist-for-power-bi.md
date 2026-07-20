@@ -1,4 +1,4 @@
-# Accessible Report Design Checklist for Power BI
+# Accessible Report Design Checklist
 
 **Author:** Florencia Cruz
 
