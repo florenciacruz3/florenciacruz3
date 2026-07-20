@@ -268,7 +268,7 @@ I am starting to see accessibility not as something separate from good writing �
 
 ### What I Learned
 
-It was interesting to transition from Accessibility to UX Writing. It made me think about how Accessibility is about making sure everyone can access your content. UX writing is about making sure that content is worth accessing in the first place.
+It was interesting to transition from Accessibility to UX Writing. It made me think about how accessibility is about making sure everyone can access your content. UX writing is about making sure that content is worth accessing in the first place.
 
 I was also introduced to the idea of content-first design — the concept that you should start with 
 words and build the design around them, not the other way 
@@ -347,9 +347,9 @@ Other changes I made across the two sections:
 What stayed with me most from this week is how close plain 
 language and accessibility actually are.
 
-Last week I leaned about how to remove the barriers that makes content unaccessible to the reader. This week, I learned that without UX writing, content would still be unaccessible to the reader. They go hand by hand. 
+Last week I learned about how to remove the barriers that make content unaccessible to the reader. This week, I learned that without UX writing, content would still be unaccessible to the reader. They go hand in hand. 
 
-I had already applied the concepts of Accessiblity to my Tenant Scan article. But some of it was written to sound professional rather than 
+I had already applied the concepts of accessiblity to my Tenant Scan article. But some of it was written to sound professional rather than 
 to be useful. The rewrite did not change what the article 
 says — it changed how easy it is to read. And that 
 difference, I am learning, is the whole job.
@@ -365,4 +365,4 @@ difference, I am learning, is the whole job.
 
 ---
 
-*Last updated: July 2026*
+*Last updated: July 20, 2026*
