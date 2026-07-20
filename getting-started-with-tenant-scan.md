@@ -211,8 +211,7 @@ will not need to be pulled off their regular work. This does not require ongoing
 
 ### What if we already think we know what's in our tenant?
 
-Problems in the environment happen because most teams underestimate the scope of the problem. Typical findings — 30 to 40 percent workspace sprawl and 25 to 30 percent orphaned access — are discovered 
-precisely because teams lack visibility into their own 
+Problems in the environment happen because most teams underestimate the scope of the problem. Typical findings could be 30 to 40 percent workspace sprawl and 25 to 30 percent orphaned access precisely because teams lack visibility into their own 
 environment.
 
 ---
