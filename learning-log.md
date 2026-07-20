@@ -365,4 +365,141 @@ difference, I am learning, is the whole job.
 
 ---
 
+## Week 3 — Entry 1: Information Architecture Pass on the 
+## Tenant Scan Article
+
+**Date:** July 20, 2026
+**Resources completed:**
+- W3Cx — Introduction to Web Accessibility: Module 7 
+  (Information Architecture)
+- Applied to: Tenant Scan article — 
+  getting-started-with-tenant-scan.md
+
+---
+
+### What I Learned
+
+Information architecture made me switch my perspective on what accessibility really means. 
+
+I used to think that accessibility meant writing for everyone. However, this exercise helped me see this differently. Accessibility means recognizing your audience, recognizing what they know, and organizing your writing according to that. 
+
+That is a subtle but important distinction. Writing for 
+everyone does not mean writing the same thing for everyone. 
+It means writing in a way that works for each person 
+differently — and information architecture is how you 
+make that happen.
+
+The exercise introduced me to a concept I had never thought 
+about before: writing for two audiences at once. In the 
+Tenant Scan article, those two audiences are a CTO — a 
+Chief Technology Officer, the senior executive who approves 
+the migration budget and owns the business risk — and a 
+Fabric admin, the technical person who will actually run 
+the scan and implement the findings.
+
+The CTO wants to know what the problem is, how to solve it, what it costs, and how it is going to impact the business. The Fabric admin, on the other hand, wants to know how the scan works, what it examines, and what happens to their environment. Neither reader is interested in having to wade through the other's content to find their own. 
+
+Information architecture is what makes it possible for both 
+readers to get what they need from the same document.
+
+---
+
+### What I Applied
+
+**Information Architecture Pass — Tenant Scan Article**
+
+I restructured the Tenant Scan article from the reader's 
+perspective rather than the writer's. The changes I made:
+
+**1. Rewrote the section headings**
+
+The original headings described the content from my 
+perspective as the writer:
+
+- What Microsoft Fabric Is and Why Your Tenant Matters
+- Who It Is For
+- What You Get
+- Illustrative Scenarios
+- Assessment Tiers
+- Get Started
+
+The new headings answer the question the reader is asking 
+at each stage:
+
+- The Problem — Why Fabric Migrations Fail
+- Is This for You?
+- What the Scan Produces
+- What This Looks Like in Practice
+- Choose Your Assessment Tier
+- Get Started
+
+**2. Added a reading guide**
+
+The most significant change I made was adding a reading 
+guide at the top of the article that directs each reader 
+to the sections most relevant to them:
+
+- CTO, VP of Data, or executive sponsor — Sections 
+  1, 4, and 5. Section 3 if you want the deliverable 
+  summary.
+- Fabric admin, data engineer, or IT lead — Sections 
+  3 and 5, then the FAQ for tenant access details.
+- Evaluating for a client or stakeholder — Sections 
+  1, 4, and 5 give you everything you need to present 
+  the case internally.
+
+I had never written for two audiences at the same time 
+before. The reading guide was the tool that made it 
+possible — instead of trying to serve both readers in 
+every section, I let each reader skip what was not for 
+them and go directly to what was.
+
+**3. Added audience labels to each section**
+
+I added a small label at the top of each section 
+identifying who it is most relevant for.
+
+**4. Reorganized the FAQ by reader**
+
+I split the FAQ into two groups — one for executive and 
+business readers and one for technical readers and admins. 
+This way each reader can find their questions without 
+scrolling past questions that do not apply to them.
+
+---
+
+### In My Own Words
+
+Over the past few weeks I have learned about WCAG 
+standards, assistive technologies, plain language, and 
+UX writing. Each one felt like a separate skill. However, what I learned through this exercise is that IA is just another aspect of what accessibility means. For a text to be accessible, we need all components to work: 
+
+- The content needs to be perceivable — screen readers, 
+  alt text, contrast
+- The content needs to be operable — keyboard navigation, 
+  tab order, focus
+- The content needs to be understandable — plain language, 
+  clear headings, no jargon
+- The content needs to be robust — consistent structure, 
+  semantic markup
+- And the content needs to be navigable — information 
+  architecture, reading guides, audience awareness
+
+A document can pass every WCAG checkpoint and still be hard to use if 
+the information is organized in a way that does not 
+match how the reader thinks.
+
+Accessibility is not one thing. It is all of these 
+things working together.
+
+---
+
+## Resources
+
+- [Tenant Scan Article — IA Pass Version](https://github.com/florenciacruz3/florenciacruz3/blob/main/getting-started-with-tenant-scan.md)
+- [W3Cx — Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3-introduction-to-web-accessibility)
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+
+---
+
 *Last updated: July 20, 2026*
