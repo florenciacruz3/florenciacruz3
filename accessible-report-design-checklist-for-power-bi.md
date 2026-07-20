@@ -8,7 +8,7 @@
 
 ## Why This Checklist Matters
 
-Approximately 15% of the global population lives with some form of disability. This means that in any organization that is large enough to use Power BI, a meaningful percentage of people is affected. When reports created with Power BI are not accessible, some people simply cannot use them.
+Approximately 15% of the global population lives with some form of disability. This means that in any organization that is large enough to use Power BI, a meaningful percentage of people are affected. When reports created with Power BI are not accessible, some people simply cannot use them.
 
 A blind employee using a screen reader cannot read a chart with no alt text. A colorblind manager cannot tell the difference between a red and green status indicator if color is the only signal. A user with a motor disability who navigates by keyboard cannot interact with a visual that was never tested without a mouse.
 
