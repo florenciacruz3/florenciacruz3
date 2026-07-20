@@ -13,11 +13,11 @@ including both executive decision makers and technical leads.
 **What you will learn** — select any section to jump 
 directly to it:
 
-1. [The Problem — Why Fabric Migrations Fail](#1-the-problem)
+1. [The Problem — Why Fabric Migrations Fail](#1-the-problem--why-fabric-migrations-fail)
 2. [Is This for You?](#2-is-this-for-you)
 3. [What the Scan Produces](#3-what-the-scan-produces)
-4. [What This Looks Like in Practice](#4-in-practice)
-5. [Choose Your Assessment Tier](#5-assessment-tiers)
+4. [What This Looks Like in Practice](#4-what-this-looks-like-in-practice)
+5. [Choose Your Assessment Tier](#5-choose-your-assessment-tier)
 6. [Get Started](#6-get-started)
 
 **Reading guide:**
