@@ -189,7 +189,7 @@ PowerMates operates across three core areas:
 
 - **Community** — Conference speaking engagements, open-source tooling, and ongoing knowledge-sharing with the broader Microsoft data community, built on the belief that expertise should scale through accessible, honest content.
 
-The company has built a following of 7,300+ subscribers on YouTube and maintains an active presence across major social platforms, positioning itself as a practitioner-led voice in the Fabric governance and enterprise AI space.
+The company maintains an active presence across major social platforms, positioning itself as a practitioner-led voice in the Fabric governance and enterprise AI space.
 
 ---
 
