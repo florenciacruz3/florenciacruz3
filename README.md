@@ -1,39 +1,81 @@
-# Florencia - Portfolio
+# Florencia Cruz — Technical Writer
 
-A collection of technical writing samples by **Florencia Cruz** - a technical writer specializing in accessible documentation for non-technical audiences. 
-
----
-
-## Welcome to Florencia's Writing Collection
-
-I'm a technical writer with a background in English, Cinema Studies, and customer service. I spent years guiding people through complex decisions quickly, clearly, and without frustration. Now, my focus is translating those skills into clear, effective documentation. 
-
-I've completed [Google's Technical Writing One and Two (Google for Developers)](https://developers.google.com/tech-writing/overview) and I'm open to collaborations on:
-  
-- Tutorials and how-to guides (Markdown, Screenshots, Callouts)
-
-- Product Documentation and user manuals
-
-- API reference and getting-started guides
-
-- Editing and proofreading on existing docs
+Accessibility | UX Writing | Plain Language | 
+Information Architecture
 
 ---
 
+## About Me
 
-## About My Projects 
+I am a technical writer with a background in English 
+and Cinema and Media Studies from the University of 
+Washington. I spent years guiding people through 
+complex decisions quickly, clearly, and without 
+frustration — first in customer service, now in 
+documentation.
 
-This repository is a portfolio for my technical work. It includes beginner-friendly guides, how-to documentation, and writing samples. 
+My focus is translating complex subjects into clear, 
+structured content that works for the reader it was 
+written for. I specialize in accessibility, plain 
+language, and information architecture — making sure 
+content is not just technically accurate but genuinely 
+usable by the people who need it.
 
-Most Markdown tutorials assume you already think like a developer.
-This one doesn't. It was written by a writer, for writers —
-with plain language, practical examples, and no unnecessary jargon.
+I am open to collaborations on:
+
+- Accessibility audits and evaluation reports
+- Plain language rewrites and content redesign
+- Technical how-to guides and onboarding documentation
+- UX writing and content design
+- Editing and proofreading on existing documentation
 
 ---
 
-## Contact
-I love turning ideas into creative projects. If you're looking
-for someone to make a complex product accessible to everyday
-readers, please reach out. 
+## Portfolio
 
-[Upwork](https://www.upwork.com/freelancers/~01be3448096dd46eac?mp_source=share) · [LinkedIn](https://www.linkedin.com/in/florencia-cruz-assandri)
+### Accessibility
+
+- [Half Price Books — Accessibility Audit](accessibility/half-price-books-audit.md)
+- [Accessible Report Design Checklist for Power BI](accessibility/power-bi-accessibility-checklist.md)
+- [Store Sales Power BI Report — Accessibility Audit](accessibility/store-sales-power-bi-audit.md)
+
+### UX Writing and Content Design
+
+- [Plain Language Rewrite — Tenant Scan Article](ux-writing/plain-language-rewrite-tenant-scan.md)
+- [Information Architecture Pass — Tenant Scan Article](ux-writing/information-architecture-tenant-scan.md)
+
+### Technical Writing
+
+- [Getting Started with Markdown](technical-writing/getting-started-with-markdown.md)
+- [Getting Started with Tenant Scan](technical-writing/getting-started-with-tenant-scan.md)
+
+---
+
+## Certifications
+
+- W3Cx Introduction to Web Accessibility — edX
+- Microsoft Learn Accessibility Fundamentals
+- Google Technical Writing One and Two
+- Canva Certification
+
+---
+
+## Learning Path
+
+I documented everything I learned across an intensive 
+8-week accessibility and UX writing learning path — 
+weekly entries, exercises, and reflections committed 
+to GitHub as I went.
+
+[View my learning path](my-learning-path/)
+
+---
+
+## Connect
+
+If you are looking for a technical writer who combines 
+accessibility standards, plain language, and structured 
+documentation — my work is on GitHub and I would love 
+to hear from you.
+
+[LinkedIn](https://www.linkedin.com/in/florencia-cruz-assandri) · [Upwork](https://www.upwork.com/freelancers/~01be3448096dd46eac)
