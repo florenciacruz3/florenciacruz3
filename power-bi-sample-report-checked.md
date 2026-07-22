@@ -27,7 +27,7 @@ Fix: You can either add data labels or direct labels to each bubble group, or us
 
 **Finding 2** — Pie chart uses color as the only differentiator
 
-The "This Year Sales by Chain" donut chart distinguishes Fashions Direct from Lindseys using teal and dark grey. Some users may not distinguish these reliably. Percentage labels are present but in order to distingush Fashions Direct from Lindseys, we need to rely on color matching alone.
+The "This Year Sales by Chain" donut chart distinguishes Fashions Direct from Lindseys using teal and dark grey. Some users may not distinguish these reliably. Percentage labels are present but in order to distinguish Fashions Direct from Lindseys, we need to rely on color matching alone.
 
 Checklist reference: Section 1 — Color and Contrast
 Color shouldn't be the only means of conveying information
@@ -55,7 +55,7 @@ Fix: Add descriptive titles to all card visuals — for example "Total This Year
 
 **Finding 4** — Line chart uses color and shape together — partial pass
 
-The chart "Last Year Sales, This Year Sales and Total Sales Variance % by FiscalMonth" uses bars to distingush these. However, they rely on color matching. The bars are grey and teal with no direct labels.
+The chart "Last Year Sales, This Year Sales and Total Sales Variance % by FiscalMonth" uses bars to distinguish these. However, they rely on color matching. The bars are grey and teal with no direct labels.
 
 Checklist reference: Section 1 — Color and Contrast / Section 5 — Markers
 
