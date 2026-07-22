@@ -84,12 +84,6 @@ Green (RAG) status that gives leadership an immediate read on
 
 - **Ranked Top 5 Action Plan** — your highest-priority findings sequenced into an executable 90-day plan, rather than an overwhelming backlog.
 
-> [!NOTE]
-> The entire intake process runs through a structured 
-> 15-minute questionnaire. Tenant access — where required 
-> by tier — is read-only and used solely for assessment 
-> purposes. Nothing in your environment is modified.
-
 Tenant Scan is the first step in a four-stage path:
 
 1. Tenant Scan
