@@ -53,9 +53,14 @@ Fix: Add descriptive titles to all card visuals — for example "Total This Year
 
 ## Page 2 — District Monthly Sales
 
-**Finding 4** — Line chart uses color and shape together — partial pass
+**Finding 4** — Combo chart relies on color matching with no direct labels 
 
-The chart "Last Year Sales, This Year Sales and Total Sales Variance % by FiscalMonth" uses bars to distinguish these. However, they rely on color matching. The bars are grey and teal with no direct labels.
+The chart "Last Year Sales, This Year Sales and Total Sales 
+Variance % by FiscalMonth" uses bars and a line to present 
+multiple series. However, the legend relies on color 
+matching alone — the bars are grey and teal with no direct 
+labels on the series, and no markers on the line to 
+differentiate it visually from the bars.
 
 Checklist reference: Section 1 — Color and Contrast / Section 5 — Markers
 
@@ -97,6 +102,10 @@ Fix: Widen the visual or reduce font size to allow full store names to display, 
 
 The "Total Sales Variance % by FiscalMonth" waterfall-style bar chart uses green for positive variance and red for negative variance. This is the most common color combination in data visualization — and the most problematic for colorblind users. 
 
+**Checklist reference:** Section 1 — Color and Contrast
+*The following color combinations are avoided together in 
+charts or on the same page: Green and red*
+
 Severity: Critical
 
 Fix: Replace red with a blue or orange series for negative variance, or add text labels showing + and — directly on each bar so the sign is conveyed through text, not color alone. 
@@ -123,7 +132,7 @@ Fix: Increase data label font size on the variance chart. Test at 150% and 200% 
 | Missing titles on card visuals | Store Sales Overview | Section 4 — Titles and Labels | Serious |
 | Color-only differentiation on bubble chart | Store Sales Overview | Section 1 — Color and Contrast | Serious |
 | Color-only legend on donut chart | Store Sales Overview | Section 1 — Color and Contrast | Moderate |
-| Color-only legend on combo chart | District Monthly Sales | Section 1 — Color and Contrast / Section 5 — Markers | Moderate |
+| Combo chart relies on color matching with no direct labels | District Monthly Sales | Section 1 — Color and Contrast / Section 5 — Markers | Moderate |
 | Overlapping bubble chart labels | District Monthly Sales | Section 4 — Titles and Labels | Minor |
 | Truncated bar chart store names | District Monthly Sales | Section 4 — Titles and Labels | Minor |
 | Small percentage labels on variance chart | New Stores | Section 4 — Titles and Labels / Section 15 — General Design | Minor |
