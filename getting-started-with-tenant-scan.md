@@ -131,6 +131,8 @@ they need to be.
 
 ## 5. Assessment Tiers
 
+## 5. Assessment Tiers
+
 Tenant Scan is available at three levels. The tier you choose 
 determines the depth of the assessment and the level of detail 
 in your results.
@@ -142,16 +144,48 @@ at $7,500 — showing price and what is included at each level.*
 | Tier | Price | What It Includes |
 |---|---|---|
 | **Starter** | $2,500 | Intake through a 15-minute questionnaire. Executive summary, governance findings, and a ranked top 5 action plan delivered in 3–5 business days. No tenant access required. |
-| **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant via the Fabric Command Line Interface (CLI) for more detailed findings across all ten governance failure points. |
-| **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage for organizations with the most complex or large-scale tenant environments. |
+| **Professional** | $5,000 | Everything in Starter, plus a deeper read-only enumeration of your tenant for more detailed findings across all ten governance failure points. Also includes an AI-powered Governance Score and a 2-hour session with a Microsoft MVP. |
+| **Enterprise** | $7,500 | Everything in Professional, with the most comprehensive scope — full environment coverage, compliance mapping, ROI modeling, a second follow-up call, and a 30/60/90-day roadmap for organizations with the most complex or large-scale tenant environments. |
 
-- Starter is built for speed and low commitment. Because it runs entirely on your questionnaire responses, there's nothing to install, connect, or grant access to — which makes it the right starting point if you're still forming a business case internally and need a credible, structured baseline before asking for budget or tenant access approval.
+- Starter is built for speed and low commitment. Because it 
+  runs entirely on your questionnaire responses, there's 
+  nothing to install, connect, or grant access to — which 
+  makes it the right starting point if you're still forming 
+  a business case internally and need a credible, structured 
+  baseline before asking for budget or tenant access approval.
 
-- Professional is where the assessment stops being self-reported and starts being verified. The live Fabric REST API scan means the findings reflect what's actually in your tenant, not just what your team believes is there — a meaningful distinction, since the FAQ later in this article notes that most teams underestimate their own sprawl precisely because they lack this kind of visibility. The AI-powered Governance Score and the 2-hour session with a Microsoft MVP also mean you're not just getting a report — you're getting a working conversation about what it means for your specific environment, which is likely why this is the tier most organizations land on.
+- Professional is where the assessment stops being 
+  self-reported and starts being verified. The live tenant 
+  scan means the findings reflect what's actually in your 
+  tenant, not just what your team believes is there — a 
+  meaningful distinction, since the FAQ later in this article 
+  notes that most teams underestimate their own sprawl 
+  precisely because they lack this kind of visibility. The 
+  AI-powered Governance Score and the 2-hour session with a 
+  Microsoft MVP also mean you're not just getting a report — 
+  you're getting a working conversation about what it means 
+  for your specific environment, which is likely why this is 
+  the tier most organizations land on.
 
-- Enterprise is built less for discovery and more for organizations that already know they have a complex problem and need it formally documented. Compliance mapping and ROI modeling matter most to organizations that have to justify the migration to a board, an auditor, or a regulator, not just to their own data team. The second follow-up call and the 30/60/90-day roadmap are less about finding new problems and more about staying accountable to fixing the ones already found. 
-  
-The practical decision point is usually this: if you're not yet sure a migration is happening, Starter gives you a defensible answer without spending much or opening any access. If a migration is already approved, Professional is the tier that actually earns its price — the live scan and MVP session convert a report into a plan your team can execute. Enterprise is worth the jump specifically when compliance sign-off, not just internal alignment, is part of what's blocking the migration.
+- Enterprise is built less for discovery and more for 
+  organizations that already know they have a complex problem 
+  and need it formally documented. Compliance mapping and ROI 
+  modeling matter most to organizations that have to justify 
+  the migration to a board, an auditor, or a regulator, not 
+  just to their own data team. The second follow-up call and 
+  the 30/60/90-day roadmap are less about finding new problems 
+  and more about staying accountable to fixing the ones 
+  already found.
+
+The practical decision point is usually this: if you're not 
+yet sure a migration is happening, Starter gives you a 
+defensible answer without spending much or opening any access. 
+If a migration is already approved, Professional is the tier 
+that actually earns its price — the live scan and MVP session 
+convert a report into a plan your team can execute. Enterprise 
+is worth the jump specifically when compliance sign-off, not 
+just internal alignment, is part of what's blocking the 
+migration.
 
 > [!TIP]
 > No tenant is modified at any stage of the process.
