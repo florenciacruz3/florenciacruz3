@@ -131,8 +131,6 @@ they need to be.
 
 ## 5. Assessment Tiers
 
-## 5. Assessment Tiers
-
 Tenant Scan is available at three levels. The tier you choose 
 determines the depth of the assessment and the level of detail 
 in your results.
