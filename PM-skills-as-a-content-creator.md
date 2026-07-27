@@ -24,7 +24,7 @@
 
 ## 1. Why Content Creators Should Care About PM
 
-I started my career change journey as a content creator, then technical writing, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. I was suggested by my mentor to start exploring PM and I didn't know why. I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and started my first certification, [PMI KICKOFF](https://www.pmi.org/kickoff) and it changed my whole perspective of what PM really meant for me as a writer. 
+I started my career change journey as a content creator, then technical writing, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. I was suggested by my mentor to start exploring PM and I didn't know why. I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and it changed my whole perspective of what PM really meant for me as a writer. 
 
 Every content creator has used, at the very least, some of these skills in their work without even knowing about it. 
 
@@ -90,7 +90,7 @@ Now that we've covered the foundations, here's where we go from here:
 
 - [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Very basic and straightforward. Takes only 1 hour to do.
    
-- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This one goes a lot more in depth. It goes deep on what PM is about and touches some of the most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
+- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): It goes deep on what PM is about and touches some of the most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
    
 - [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we begin to understand how to initiate a project and what that entails. Takes about 10 hours to complete too.
   
