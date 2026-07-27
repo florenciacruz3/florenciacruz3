@@ -97,4 +97,4 @@ Now that we've covered the foundations, here's where we go from then:
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*
