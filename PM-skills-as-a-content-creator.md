@@ -10,7 +10,7 @@
 
 1. [Why Content Creators Should Care About PM](#1-why-content-creators-should-care-about-pm)
 2. [Core PM Skills](#2-core-pm-skills)
-3. [Next Steps](#3-next-steps)
+3. [Resources](#3-resources)
 
 **What this article does *not* cover:**
 
@@ -80,7 +80,7 @@ Scope creep is an actual problem that Project Managers have to face day by day. 
 
 ---
 
-## 3. Next Steps
+## 3. Resources
 
 Now that we've covered the foundations, here's where 
 we go from here:
