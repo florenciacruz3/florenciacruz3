@@ -78,7 +78,7 @@ Being in control of your projects is very important. However, you need to always
 
 All of the skills mentioned previously are a recipe for being ready to anticipate any changes that your stakeholders might request without having the whole project fall apart. 
 
-This is exactly why, I like to, for instance, make sure to complete the most time-sensitive tasks right away. 
+This is exactly why I choose, for instance, to make sure to complete the most time-sensitive tasks right away. 
 
 Scope creep is an actual problem that Project Managers have to face day by day. But as long as we follow the recipe, we should be prepared to expect them. 
 
