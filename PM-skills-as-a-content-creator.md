@@ -88,9 +88,9 @@ Now that we've covered the foundations, here's where we go from here:
 
 - [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Very basic and straightforward. Takes only 1 hour to do.
    
-- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): It goes deep on PM's most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
+- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): It goes deep on PM's most important vocabulary and concepts that are essential for getting started on this field.
    
-- [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we begin to understand how to initiate a project and what that entails. Takes about 10 hours to complete too.
+- [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we begin to understand how to initiate a project and what that entails. 
   
 - [Google Project Management Certificate _ Course 5](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Focuses on the Agile methodology, which is also mentioned in Course 1.
   
