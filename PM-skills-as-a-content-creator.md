@@ -88,11 +88,16 @@ Scope creeps are an actual problem that Project Managers have to face day by day
 
 Now that we've covered the foundations, here's where we go from then: 
 
-- [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Very basic and straight forward. Takes only 1 hour to do. 
-- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This one goes a lot more in depth. It goes deep on what PM is about and touches some of the most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough. 
-- [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we beginning to understand how to initiate a project and what that entails. Takes about 10 hours to complete too. 
-- [Google Project Management Certificate _ Course 5](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Focuses on the Agile metodology, which is also mentioned on course 1. 
-- [Read the Scrum Guide](https://scrumguides.org/): Scrum, one of Agile's frameworks covered in the course, will be relevant to your PM research and contains unfiltered definition of every Scrum concept that is only introduced in the course. 
+- [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Very basic and straight forward. Takes only 1 hour to do.
+   
+- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This one goes a lot more in depth. It goes deep on what PM is about and touches some of the most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
+   
+- [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we beginning to understand how to initiate a project and what that entails. Takes about 10 hours to complete too.
+  
+- [Google Project Management Certificate _ Course 5](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Focuses on the Agile metodology, which is also mentioned on course 1.
+  
+- [Read the Scrum Guide](https://scrumguides.org/): Scrum, one of Agile's frameworks covered in the course, will be relevant to your PM research and contains unfiltered definition of every Scrum concept that is only introduced in the course.
+  
 - [PSM I: Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification): This is an exam that contains all of the knowledge that you've gain from following the previous steps. It costs $200 to do, but this will get your foot on the door.
 
 ---
