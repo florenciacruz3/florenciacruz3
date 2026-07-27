@@ -24,7 +24,7 @@
 
 ## 1. Why Content Creators Should Care About PM
 
-I myself started my career change journey as a content creator. Then, I went into technical writing. I decided to expand my skills within my field by learning about accessibility, UX writing, and information architecture. I was suggested by my mentor to start exploring PM and I didn't know why. I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and started my first certification, [PMI KICKOFF](https://www.pmi.org/kickoff) and it changed my whole perspective of what PM really meant for me as a writer. 
+I started my career change journey as a content creator, then technical writing, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. I was suggested by my mentor to start exploring PM and I didn't know why. I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and started my first certification, [PMI KICKOFF](https://www.pmi.org/kickoff) and it changed my whole perspective of what PM really meant for me as a writer. 
 
 Every content creator has used, at the very least, some of these skills in their work without even knowing about it. 
 
