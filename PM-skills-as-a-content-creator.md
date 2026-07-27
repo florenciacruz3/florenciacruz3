@@ -40,9 +40,7 @@ In this section, I'll be listing PM skills that have worked well for me as a con
 
 ### Planning and Analysis Skills
 
-If you've worked as a content creator before, you probably know what it's like being handed multiple projects all at once with deadlines and not knowing where to begin. 
-
-Over the years, I've developed the skill to work with schedules and planning. And, even though I wasn't a PM expert and didn't know about the tools and the systems they use, I found what works best for me. 
+Over the years, I've developed the skill to work with schedules and planning. And, even though I wasn't a PM expert and didn't know about the tools and the systems they use, when I'm faced with multiple projects and deadlines to complete, I found what works best for me. 
 
 Every week, I would take a very long and dense email that would contain what I needed to accomplish that week and break it down by creating a daily schedule. 
 
