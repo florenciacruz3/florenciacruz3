@@ -24,9 +24,9 @@
 
 ## 1. Why Content Creators Should Care About PM
 
-I started my career change journey as a content creator, then technical writer, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. It was suggested by my mentor to start exploring PM and I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and it changed my whole perspective. 
+I started my career change journey as a content creator, then technical writer, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. My mentor suggested I start exploring PM, but I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and it changed my whole perspective. 
 
-Every content creator has used, at the very least, some of these skills in their work without even knowing about it: Time management, deliverable management, change management, feedback delivery, are just a few of them. Do any of them sound familiar? If so, you're already involved in PM. 
+Every content creator has used, at the very least, some of these skills in their work without even knowing about it: time management, deliverable management, change management, feedback delivery, are just a few of them. Do any of them sound familiar? If so, you're already involved in PM. 
 
 Continue reading to find out how to optimize the way to best apply them to your work and learn many more. 
 
