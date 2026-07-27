@@ -88,15 +88,15 @@ Now that we've covered the foundations, here's where we go from here:
 
 - [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Very basic and straightforward. Takes only 1 hour to do.
    
-- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): It goes deep on what PM is about and touches some of the most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
+- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): It goes deep on PM's most important vocabulary and concepts that are essential for getting started on this field. Takes about 10 hours to complete if you're fast enough.
    
 - [Google Project Management Certificate _ Course 2](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): This is where we begin to understand how to initiate a project and what that entails. Takes about 10 hours to complete too.
   
 - [Google Project Management Certificate _ Course 5](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Focuses on the Agile methodology, which is also mentioned in Course 1.
   
-- [Read the Scrum Guide](https://scrumguides.org/): Scrum, one of Agile's frameworks covered in the course, will be relevant to your PM research and contains unfiltered definition of every Scrum concept that is only introduced in the course.
+- [Read the Scrum Guide](https://scrumguides.org/): Scrum will be relevant to your PM research and contains unfiltered definition of every Scrum concept that is only introduced in the Agile's course.
   
-- [PSM I: Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification): This is an exam that contains all of the knowledge that you've gained from following the previous steps. It costs $200 to take, but this will get your foot in the door.
+- [PSM I: Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification): This is an exam that contains all of the knowledge that you've gained from following the previous steps. It costs $200 to take.
 
 ---
 
