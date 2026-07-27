@@ -78,7 +78,7 @@ All of the skills mentioned previously are a recipe for being ready to anticipat
 
 This is exactly why I choose, for instance, to make sure to complete the most time-sensitive tasks right away. 
 
-Scope creep is an actual problem that Project Managers have to face day by day. But as long as we follow the recipe, we should be prepared to expect them. 
+Scope creep a actual problem that Project Managers have to face day by day. But as long as we follow the recipe, we should be prepared to expect them. 
 
 ---
 
