@@ -82,9 +82,9 @@ Scope creep a actual problem that Project Managers have to face day by day. But 
 
 ### 3. Sources
 
-- [PMI KICKOFF](https://www.pmi.org/kickoff): Beginners guide. Takes only 1 hour to do.
+- [PMI KICKOFF](https://www.pmi.org/kickoff)
    
-- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Deep understanding of fundamental vocabulary and concepts that are essential for getting started on this field.
+- [Google Project Management Certificate _ Course 1](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1)
    
 ---
 
