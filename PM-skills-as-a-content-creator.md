@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Who this article is for:** Content creators with no prior knowledge of PM.
+**Who this article is for:** Content creators with no prior knowledge of Project Management (PM.) 
 
 **What you will learn:**
 
