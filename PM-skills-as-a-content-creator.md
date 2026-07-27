@@ -28,7 +28,7 @@ I started my career change journey as a content creator, then technical writer, 
 
 Every content creator has used, at the very least, some of these skills in their work without even knowing about it: Time management, deliverable management, change management, feedback delivery, are just a few of them. Do any of them sound familiar? If so, you're already involved in PM. 
 
-Have they helped you deliver a project on time or helped you improve the quality of your work? Continue reading to find out how to optimize the way to best apply them to your work and learn many more. 
+Continue reading to find out how to optimize the way to best apply them to your work and learn many more. 
 
 ---
 
