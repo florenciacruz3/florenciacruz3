@@ -54,7 +54,7 @@ When you're planning your weekly schedule, even though you'll want to do as much
 
 ### Communication Skills
 
-Every content writer has had experience with what I like to call, "A work in progress." Feedback is essential for completing any project. Project Managers are in constant communication with their stakeholders throughout the duration of the progress. 
+Every content creator has had experience with what I like to call, "A work in progress." Feedback is essential for completing any project. Project Managers are in constant communication with their stakeholders throughout the duration of the process. 
 
 Having someone to look over your work is a great way to get perspective and, in my case, get a sense of what my mentor's vision is and what needs to be achieved. 
 
