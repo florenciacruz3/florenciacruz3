@@ -94,7 +94,7 @@ Now that we've covered the foundations, here's where we go from here:
   
 - [Google Project Management Certificate _ Course 5](https://www.coursera.org/professional-certificates/google-project-management?gad_source=1): Focuses on the Agile methodology, which is also mentioned in Course 1.
   
-- [Read the Scrum Guide](https://scrumguides.org/): Scrum will be relevant to your PM research and contains unfiltered definition of every Scrum concept that is only introduced in the Agile's course.
+- [Read the Scrum Guide](https://scrumguides.org/): Contains unfiltered definition of every Scrum concept that is only introduced in the Agile's course.
   
 - [PSM I: Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification): This is an exam that contains all of the knowledge that you've gained from following the previous steps. It costs $200 to take.
 
