@@ -66,7 +66,7 @@ Having someone to look over your work is a great way to get perspective and, in 
 
 Prioritization is what helps me stay organized. In order to create your list of tasks for the week, you need to make sure that you're able to tackle the most time-sensitive projects first before going into the extras. 
 
-I usually try to start off immediately doing what needs to get done, and once you're finished. In order to achieve these quickly, I try to keep a mental picture of how my day is going to go by dedicating a certain amount of hours to each project, and dividing my day into a set of projects. 
+I usually try to start off immediately doing what needs to get done, and once I'm finished, I move on to the least-sensitive tasks. In order to achieve these quickly, I try to keep a mental picture of how my day is going to go by anticipating how much time will each project take, and dividing my day into a sets. 
 
 This allows me to achieve what's important faster than the deadline in order to make sure that I have time to either get ahead on next week's plans, or start off a new personal project. 
 
