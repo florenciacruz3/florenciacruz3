@@ -11,13 +11,13 @@ I am a technical writer with a background in English
 and Cinema and Media Studies from the University of 
 Washington. I spent years guiding people through 
 complex decisions quickly, clearly, and without 
-frustration — first in customer service, now in 
+frustration, first in customer service, now in 
 documentation.
 
 My focus is translating complex subjects into clear, 
 structured content that works for the reader it was 
 written for. I specialize in accessibility, plain 
-language, and information architecture — making sure 
+language, and information architecture, making sure 
 content is not just technically accurate but genuinely 
 usable by the people who need it.
 
@@ -75,7 +75,7 @@ to GitHub as I went.
 
 If you are looking for a technical writer who combines 
 accessibility standards, plain language, and structured 
-documentation — my work is on GitHub and I would love 
+documentation, my work is on GitHub and I would love 
 to hear from you.
 
 [LinkedIn](https://www.linkedin.com/in/florencia-cruz-assandri) · [Upwork](https://www.upwork.com/freelancers/~01be3448096dd46eac)
