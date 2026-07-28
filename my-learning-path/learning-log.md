@@ -500,6 +500,133 @@ things working together.
 - [W3Cx — Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3-introduction-to-web-accessibility)
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 
+--- 
+
+## Week 4 — Entry 1: Project Management Skills Deliverable 
+
+**Date:** July 27, 2026
+**Resources completed:**
+- PMI KICKOFF Ceritificate
+- Project Management Certificate - Course 1
+- Applied to: PM Skills as a Content Creator — 
+  PM-skills-as-a-content-creator.md
+
+---
+
+### What I Learned
+
+Today I worked on developing a skill that I've been 
+working on my whole life as a writer, which is 
+learning how to write concisely and to the point.
+
+After completing my two Week 1 certifications on 
+Project Management (PM), I was assigned to write a 
+one-page article on how the skills used in PM relate 
+to content creation. But I was stuck on the — 1 page 
+— part.
+
+The skills that I used were recognizing which sections 
+have earned their place in my article and which have 
+not, which sentences are just redundant and need to be 
+cut, and then there were the specifics, like **Do I 
+want to include a "Next Steps" section, or do I just 
+want a smaller "Sources" section?**
+
+During this period of time, I also focused on how I 
+can start using AI tools smartly, which is something 
+that was briefly mentioned in the certifications I 
+completed. So, I tried focusing on my writing itself 
+before consulting Claude right away. I used Claude to 
+help me brainstorm some ideas and selected what could 
+be useful to add in this short space. I pasted my 
+article several times, checking for writing clarity, 
+good grammar, and syntax in order to help me polish 
+my article in the last few steps. I also used it to 
+ask its opinion on some of my thoughts, such as the 
+length, what could be cut or reduced, and some of the 
+formatting ideas I had in mind.
+
+In regard to the content of my work, I thought that 
+doing this exercise was interesting and helpful. I 
+thought that briefly reflecting on what I've learned 
+this week is a great way to absorb what I've been 
+focusing all my time on.
+
+---
+
+### What I Applied
+
+Some of the major changes I made were correcting 
+grammar and checking for clarity, reorganizing my 
+resource page — which used to be a Next Steps section 
+— and managing the length of the piece, making sure 
+that it fits the expectations.
+
+- **Grammar mistakes:** They were mostly just typos 
+  from quick, unrevised previous drafts.
+- **Coherent sentences:** When editing, I found some 
+  sentences that were cut off in the middle or read 
+  awkwardly.
+- **Resource page:** It was originally a Next Steps 
+  page and contained descriptions for each one of the 
+  websites. This was taking up too much space and made 
+  it seem like I was putting too much emphasis on a 
+  section that needed to be minimized. I changed it to 
+  a Sources page containing only the two links I had 
+  reviewed so far. I thought having only two source 
+  links wouldn't be useful for the reader. So instead, 
+  I brought back the original list, cut the 
+  descriptions, and named it Resources.
+- **Length:** I rewrote a lot of the sentences in the 
+  skill descriptions to make them less redundant and 
+  more to the point. I even deleted some sentences 
+  completely. And as I mentioned, I reduced the 
+  Resource page.
+
+While making these changes, I made sure to commit to 
+the expectations of the prompt. With so little space, 
+the Next Steps section shouldn't be too long. Making 
+sure there are no grammar mistakes or incoherent 
+sentences is vital for the article to even be taken 
+seriously. Last but not least, making sure the writing 
+was concise and to the point was the most important 
+aspect.
+
+---
+
+### In My Own Words
+
+Learning about PM, as mentioned in my article, was a 
+big step for me. I was in denial for a while, and 
+taking the step to start my first certification was 
+something new to me. This whole career change has been 
+a big jump for me. I've always liked stability, being 
+safe and cautious. Moving away from my technical 
+writing field was scary but very much worth it.
+
+Doing this activity was a great exercise in stepping 
+outside my comfort zone.
+
+And now I understand that PM makes perfect sense for 
+me. Knowing how to practice time management, 
+deliverable management, change management, and 
+feedback delivery is what I've been preparing for my 
+entire life.
+
+While I was completing my two bachelor's degrees while 
+working part time, PM was what got me to where I am 
+now. PM was what was necessary to succeed.
+
+---
+
+## Resources
+
+- [PMI KICKOFF](https://www.pmi.org/kickoff) 
+
+- [Google Project Management Certificate — Course 1](https://www.coursera.org/professional-certificates/google-project-management)
+
+- [Project Management Skills I Already Use as a Content Creator](https://github.com/florenciacruz3/florenciacruz3/blob/main/PM-skills-as-a-content-creator.md?plain=1)
+
 ---
 
 *Last updated: July 20, 2026*
