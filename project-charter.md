@@ -18,20 +18,17 @@
 
 ## 1. Project Summary
 
-*This is a portfolio containing writing samples with what I've learn during the time frame of May 2026 to present. The purpose of this project is to build a resume that will ultimately get me to land a job related to this field.*
+This is a portfolio containing writing samples with what I've learned during the time frame of May 2026 to present. The purpose of this project is to build a resume that will ultimately get me to land a job related to this field.
 
 ---
 
 ## 2. Business Need
 
-*This project is done to serve as a documentation of my work for freelances or enterprises to be able to access to all of my work in a fast, easy manner. It addresses my skills as a writer by showing what I specialize in.*
+This project is done to serve as a documentation of my work for freelancers or enterprises to be able to access to all of my work in a fast, easy manner. It addresses my skills as a writer by showing what I specialize in.
 
 ---
 
 ## 3. Project Goals
-
-*What does this project aim to achieve? Use SMART 
-criteria where possible.*
 
 - Be able to add at the very least 5 paid projects to this repository. 
 - Land at least one job in Upwork by the end of the year.
@@ -45,17 +42,22 @@ criteria where possible.*
 
 *What this project will include and deliver.*
 
-- 5 paid samples to add in my repository
-- After that, clean my repository in order to have only 7 documents in my repository. 
-- LinkedIn posts, showcasing my work. 
+- Accessibility audit samples
+- UX writing and plain language samples
+- Technical writing samples
+- Information architecture work
+- Project management documentation
+- LinkedIn posts showcasing completed work
+- Repository organization and navigation
 
 ### Out of Scope
 
 *What this project will NOT include.*
 
-- Out of topic writing. 
-- Grammar or syntax mistakes. 
-- Lack of hygiene making it impossible to navigate through this page. 
+- Writing samples unrelated to technical writing, 
+  accessibility, UX writing, or project management
+- Client work under NDA that cannot be published
+- Personal blog posts or opinion pieces
 
 ---
 
@@ -67,7 +69,7 @@ criteria where possible.*
 |---|---|---|
 |5 paid projects |Based on my field, either accessibility, UX writing, IA, technical writing, PM |March 2027 |
 |LinkedIn Posts |1 LinkedIn post creating activity |After every project |
-|Apply to at least 1 job in Upwork per day | Use this repository as my portfolio | Every day |
+|Organized repository | Clean, navigable GitHub portfolio with 7 or fewer documents | February 2027 |
 
 ---
 
@@ -87,9 +89,12 @@ by this project.*
 *How will we know this project has succeeded? 
 Be specific and measurable.*
 
-- Landed 1 Upwrok job before December 2026
-- Published 3 more paid project before December 2026
-- Made at least 100 connections on LinkedIn throughout my posts before the end of the year. 
+- Landed 1 Upwork job before December 2026
+- Published 3 additional paid projects before 
+  December 2026
+- Reached at least 100 new LinkedIn connections 
+  through portfolio posts before December 2026
+- Secured an enterprise IT role by March 2027
 
 ---
 
@@ -99,7 +104,6 @@ Be specific and measurable.*
 
 | Milestone | Target Date |
 |---|---|
-| Project kickoff | |
 | 1 Upwork job |December 2026 |
 | 5 paid projects |February 2027 |
 | 100 LinkedIn connects |December 2026 |
@@ -131,8 +135,8 @@ project.*
 
 | Risk / Constraint | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-|Time: Not being able to get the work done |20% |60% |Moderate |
-|Budget: Not making money and having to find a job fast |40% |70% |Major |
+|Time: Not being able to get the work done |20% |60% |Maintain a weekly schedule with daily minimums; communicate with sponsor when overwhelmed|
+|Budget: Not making money and having to find a job fast |40% |70% |Prioritize Upwork applications daily; maintain emergency fund; communicate timeline pressure with sponsor |
 
 ---
 
