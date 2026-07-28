@@ -108,7 +108,7 @@ This project is done to serve as a documentation of my work for freelancers or e
 - Upwork
 
 ### Budget
-- Estimated cost: $100 per month
+- Estimated cost: $150 per month
 
 ---
 
