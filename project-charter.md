@@ -147,4 +147,4 @@ stakeholders before the project begins.*
 
 ---
 
-*Project Charter — Florencia Cruz | [Date]*
+*Project Charter — Florencia Cruz | July 28, 2026*
