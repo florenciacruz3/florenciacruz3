@@ -18,7 +18,7 @@
 
 ## 1. Project Summary
 
-*This is a portfolio containing writing samples with what I've learning during the time frame of May 2026 to present. The purpose of this project is to build a resume that will ultimately get me to land a job related to this field.*
+*This is a portfolio containing writing samples with what I've learn during the time frame of May 2026 to present. The purpose of this project is to build a resume that will ultimately get me to land a job related to this field.*
 
 ---
 
