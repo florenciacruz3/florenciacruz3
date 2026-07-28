@@ -77,12 +77,12 @@ This project is done to serve as a documentation of my work for freelancers or e
 
 ## 7. Success Criteria
 
-- Landed 1 Upwork job before December 2026
-- Published 3 additional paid projects before 
+- Land 1 Upwork job before December 2026
+- Publish 3 additional paid projects before 
   December 2026
-- Reached at least 100 new LinkedIn connections 
+- Reach at least 100 new LinkedIn connections 
   through portfolio posts before December 2026
-- Secured an enterprise IT role by March 2027
+- Secure an enterprise IT role by March 2027
 
 ---
 
