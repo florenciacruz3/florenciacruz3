@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Who this article is for:** Content creators with no prior knowledge of Project Management (PM.) 
+**Who this article is for:** Content creators with no prior knowledge of Project Management (PM). 
 
 **What you will learn:**
 
@@ -24,11 +24,11 @@
 
 ## 1. Why Content Creators Should Care About PM
 
-I started my career change journey as a content creator, then technical writer, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. My mentor suggested I start exploring PM, but I didn't know how PM would even relate to my skills as a content creator. Until, I gave it a shot and it changed my whole perspective. 
+I started my career change journey as a content creator, then technical writer, which led me into wanting to know more about it, so I moved on to Accessibility, UX Writing, and Information Architecture. My mentor suggested I start exploring PM, but I didn't know how PM would even relate to my skills as a content creator, until I gave it a shot and it changed my whole perspective. 
 
-Every content creator has used, at the very least, some of these skills in their work without even knowing about it: time management, deliverable management, change management, feedback delivery, are just a few of them. Do any of them sound familiar? If so, you're already involved in PM. 
+Every content creator has used, at the very least, some of these skills in their work without even knowing about it: time management, deliverable management, change management, and feedback delivery are just a few of them. Do any of them sound familiar? If so, you're already involved in PM. 
 
-Continue reading to find out how to optimize the way to best apply them to your work and learn many more. 
+Continue reading to find out how to optimize the way you apply them to your work and learn many more. 
 
 ---
 
@@ -44,7 +44,7 @@ Over the years, I've developed the skill to work with schedules and planning. An
 
 Every week, I would take a very long and dense email that would contain what I needed to accomplish that week and break it down by creating a daily schedule. 
 
-I would create a list, which is one of the methods that PM uses, and set goals for what I wanted to achieve each day. For this, I would take what Project Managers like to call SMART, which stands for specific, measurable, attainable, relevant, and time-bound. 
+I would create a list, which is one of the methods that PM uses, and set goals for what I wanted to achieve each day. For this, I would use what project managers like to call SMART, which stands for Specific, Measurable, Attainable, Relevant, and Time-bound. 
 
 When you're planning your weekly schedule, even though you'll want to do as much as possible, you need to remember the SMART method. 
 
@@ -52,9 +52,9 @@ When you're planning your weekly schedule, even though you'll want to do as much
 
 ### Communication Skills
 
-Every content creator has had experience with what I like to call, "A work in progress." Feedback is essential for completing any project. Project Managers are in constant communication with their stakeholders throughout the duration of the process. 
+Every content creator has had experience with what I like to call, "a work in progress." Feedback is essential for completing any project. Project managers are in constant communication with their stakeholders throughout the duration of the process. 
 
-Having someone to look over your work is a great way to get perspective and, in my case, get a sense of what my mentor's vision is and what needs to be achieved. 
+Having someone look over your work is a great way to get perspective and, in my case, get a sense of what my mentor's vision is and what needs to be achieved. 
 
 ---
 
@@ -64,19 +64,19 @@ Prioritization is what helps me stay organized. In order to create your list of 
 
 In order to achieve these quickly, I try to keep a mental picture of how my day is going to go by anticipating how much time each project will take, and dividing my day into sets. 
 
-This allows me to achieve what's important faster than the deadline in order to make sure that I have time to either get ahead on next week's plans, or start off a new personal project. 
+This allows me to achieve what's important ahead of the deadline in order to make sure that I have time to either get ahead on next week's plans, or start a new personal project. 
 
 ---
 
 ### Strategic Skills
 
-Being in control of your projects is very important. However, you need to always be able to anticipate any changes that may arrive, such as changes of the deadline, or changes in the scope of the project. 
+Being in control of your projects is very important. However, you need to always be able to anticipate any changes that may arise, such as changes to the deadline, or changes in the scope of the project. 
 
 All of the skills mentioned previously are a recipe for being ready to anticipate any changes that your stakeholders might request without having the whole project fall apart. 
 
 This is exactly why I choose, for instance, to make sure to complete the most time-sensitive tasks right away. 
 
-Scope creep is an actual problem that Project Managers have to face day by day. But as long as we follow the recipe, we should be prepared to expect it. 
+Scope creep is an actual problem that project managers have to face day by day. But as long as we follow the recipe, we should be prepared to expect it. 
 
 ---
 
