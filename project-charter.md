@@ -1,5 +1,5 @@
 # Project Charter
-## Portfolio
+## Career Change Portfolio: Technical Writing, Accessibility, UX Writing, IA, and PM
 
 ---
 
@@ -7,7 +7,7 @@
 
 | Field | Details |
 |---|---|
-| **Project Title** | Portfolio |
+| **Project Title** | Career Change Portfolio: Technical Writing, Accessibility, UX Writing, IA, and PM |
 | **Project Manager** | Florencia Cruz |
 | **Project Sponsor** | Gastón Cruz |
 | **Date Created** | May 18, 2026 |
