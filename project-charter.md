@@ -1,5 +1,5 @@
 # Project Charter
-## [Project Name]
+## Portfolio
 
 ---
 
@@ -7,26 +7,24 @@
 
 | Field | Details |
 |---|---|
-| **Project Title** | |
+| **Project Title** | | Portfolio
 | **Project Manager** | Florencia Cruz |
-| **Project Sponsor** | |
-| **Date Created** | |
-| **Last Updated** | |
-| **Status** | Draft / Active / Closed |
+| **Project Sponsor** | | Gastón Cruz
+| **Date Created** | | May 18, 2026
+| **Last Updated** | | June 28, 2026
+| **Status** | Draft / **Active** / Closed |
 
 ---
 
 ## 1. Project Summary
 
-*One to two sentences describing what this project 
-is and why it exists.*
+*This is a portfolio containing writing samples with what I've learning during the time frame of May 2026 to present. The purpose of this project is to build a resume that will ultimately get me to land a job related to this field.*
 
 ---
 
 ## 2. Business Need
 
-*Why is this project being done? What problem does 
-it solve or what opportunity does it address?*
+*This project is done to serve as a documentation of my work for freelances or enterprises to be able to access to all of my work in a fast, easy manner. It addresses my skills as a writer by showing what I specialize in.*
 
 ---
 
@@ -35,9 +33,9 @@ it solve or what opportunity does it address?*
 *What does this project aim to achieve? Use SMART 
 criteria where possible.*
 
-- Goal 1
-- Goal 2
-- Goal 3
+- Be able to add at the very least 5 paid projects to this repository. 
+- Land at least one job in Upwork by the end of the year.
+- Move into an enterprise IT company by March 2027. 
 
 ---
 
@@ -47,17 +45,17 @@ criteria where possible.*
 
 *What this project will include and deliver.*
 
-- Item 1
-- Item 2
-- Item 3
+- 5 paid samples to add in my repository
+- After that, clean my repository in order to have only 7 documents in my repository. 
+- LinkedIn posts, showcasing my work. 
 
 ### Out of Scope
 
 *What this project will NOT include.*
 
-- Item 1
-- Item 2
-- Item 3
+- Out of topic writing. 
+- Grammar or syntax mistakes. 
+- Lack of hygiene making it impossible to navigate through this page. 
 
 ---
 
@@ -67,9 +65,9 @@ criteria where possible.*
 
 | Deliverable | Description | Due Date |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|5 paid projects |Based on my field, either accessibility, UX writing, IA, technical writing, PM |March 2027 |
+|LinkedIn Posts |1 LinkedIn post creating activity |After every project |
+|Apply to at least 1 job in Upwork per day | Use this repository as my portfolio | Every day |
 
 ---
 
