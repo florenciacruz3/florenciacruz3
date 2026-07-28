@@ -11,7 +11,7 @@
 | **Project Manager** | Florencia Cruz |
 | **Project Sponsor** | | Gastón Cruz
 | **Date Created** | | May 18, 2026
-| **Last Updated** | | June 28, 2026
+| **Last Updated** | | July 28, 2026
 | **Status** | Draft / **Active** / Closed |
 
 ---
@@ -78,9 +78,7 @@ by this project.*
 
 | Name / Role | Involvement | Interest Level |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Gastón Cruz |Project Sponsor |High |
 
 ---
 
@@ -89,9 +87,9 @@ by this project.*
 *How will we know this project has succeeded? 
 Be specific and measurable.*
 
-- Criteria 1
-- Criteria 2
-- Criteria 3
+- Landed 1 Upwrok job before December 2026
+- Published 3 more paid project before December 2026
+- Made at least 100 connections on LinkedIn throughout my posts before the end of the year. 
 
 ---
 
@@ -102,10 +100,10 @@ Be specific and measurable.*
 | Milestone | Target Date |
 |---|---|
 | Project kickoff | |
-| Phase 1 complete | |
-| Phase 2 complete | |
-| Final review | |
-| Project close | |
+| 1 Upwork job |December 2026 |
+| 5 paid projects |February 2027 |
+| 100 LinkedIn connects |December 2026 |
+| Move into an enterprise IT company |March 2027 |
 
 ---
 
@@ -115,15 +113,15 @@ Be specific and measurable.*
 project.*
 
 ### Team
-- Role 1 — Name
-- Role 2 — Name
+- Project Sponsor — Gastón Cruz
 
 ### Tools
-- Tool 1
-- Tool 2
+- LinkedIn 
+- GitHub
+- Upwork
 
 ### Budget
-- Estimated cost: $
+- Estimated cost: $100 per month
 
 ---
 
@@ -133,8 +131,8 @@ project.*
 
 | Risk / Constraint | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| | | | |
-| | | | |
+|Time: Not being able to get the work done |20% |60% |Moderate |
+|Budget: Not making money and having to find a job fast |40% |70% |Major |
 
 ---
 
@@ -145,8 +143,7 @@ stakeholders before the project begins.*
 
 | Name | Role | Approval Date |
 |---|---|---|
-| | | |
-| | | |
+|Gastón Cruz |Project Sponsor |July 28, 2026 |
 
 ---
 
