@@ -40,8 +40,6 @@ This project is done to serve as a documentation of my work for freelancers or e
 
 ### In Scope
 
-*What this project will include and deliver.*
-
 - Accessibility audit samples
 - UX writing and plain language samples
 - Technical writing samples
@@ -52,8 +50,6 @@ This project is done to serve as a documentation of my work for freelancers or e
 
 ### Out of Scope
 
-*What this project will NOT include.*
-
 - Writing samples unrelated to technical writing, 
   accessibility, UX writing, or project management
 - Client work under NDA that cannot be published
@@ -62,8 +58,6 @@ This project is done to serve as a documentation of my work for freelancers or e
 ---
 
 ## 5. Deliverables
-
-*The tangible outputs this project will produce.*
 
 | Deliverable | Description | Due Date |
 |---|---|---|
@@ -75,9 +69,6 @@ This project is done to serve as a documentation of my work for freelancers or e
 
 ## 6. Stakeholders
 
-*Everyone who has an interest in or is impacted 
-by this project.*
-
 | Name / Role | Involvement | Interest Level |
 |---|---|---|
 |Gastón Cruz |Project Sponsor |High |
@@ -85,9 +76,6 @@ by this project.*
 ---
 
 ## 7. Success Criteria
-
-*How will we know this project has succeeded? 
-Be specific and measurable.*
 
 - Landed 1 Upwork job before December 2026
 - Published 3 additional paid projects before 
@@ -100,8 +88,6 @@ Be specific and measurable.*
 
 ## 8. Timeline
 
-*High-level milestones and target dates.*
-
 | Milestone | Target Date |
 |---|---|
 | 1 Upwork job |December 2026 |
@@ -112,9 +98,6 @@ Be specific and measurable.*
 ---
 
 ## 9. Resources
-
-*People, tools, and budget available for this 
-project.*
 
 ### Team
 - Project Sponsor — Gastón Cruz
@@ -130,8 +113,6 @@ project.*
 ---
 
 ## 10. Risks and Constraints
-
-*What could go wrong or limit the project?*
 
 | Risk / Constraint | Likelihood | Impact | Mitigation |
 |---|---|---|---|
