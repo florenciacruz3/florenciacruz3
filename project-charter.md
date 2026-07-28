@@ -7,11 +7,11 @@
 
 | Field | Details |
 |---|---|
-| **Project Title** | | Portfolio |
+| **Project Title** | Portfolio |
 | **Project Manager** | Florencia Cruz |
 | **Project Sponsor** | | Gastón Cruz |
-| **Date Created** | | May 18, 2026 |
-| **Last Updated** | | July 28, 2026 |
+| **Date Created** | May 18, 2026 |
+| **Last Updated** | July 28, 2026 |
 | **Status** | Draft / **Active** / Closed |
 
 ---
