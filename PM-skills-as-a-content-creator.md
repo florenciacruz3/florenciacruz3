@@ -28,7 +28,7 @@ I'll be listing PM skills that have worked well for me as a content creator.
 
 Over the years, I've developed the skill to work with schedules and planning. Even though I wasn't a PM expert, when I'm faced with multiple projects and deadlines to complete, I found what works best for me. 
 
-Every week, I would take a very long and dense email that would contain what I needed to accomplish that week and break it down by creating a daily schedule. 
+Every week, I would take a very long and dense email with my projects for the week and break it down by creating a daily schedule. 
 
 I would create a list, which is one of the methods that PM uses, and set goals for what I wanted to achieve each day. For this, I would use what project managers like to call SMART, which stands for Specific, Measurable, Attainable, Relevant, and Time-bound. 
 
@@ -46,7 +46,7 @@ Having someone look over your work is a great way to get perspective and, in my 
 
 ### Organizational Skills
 
-Prioritization is what helps me stay organized. In order to create your list of tasks for the week, you need to make sure that you're able to tackle the most time-sensitive projects first before going into the extras. 
+In order to create your list of tasks for the week, you need to make sure that you're able to tackle the most time-sensitive projects first before going into the extras by prioritizing. 
 
 In order to achieve these quickly, I try to keep a mental picture of how my day is going to go by anticipating how much time each project will take. 
 
