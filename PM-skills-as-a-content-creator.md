@@ -2,23 +2,8 @@
 
 ---
 
-## Overview
-
-**Who this article is for:** Content creators with no prior knowledge of Project Management (PM). 
-
-**What you will learn:**
-
-1. [Why Content Creators Should Care About PM](#1-why-content-creators-should-care-about-pm)
-2. [Core PM Skills](#2-core-pm-skills)
-3. [Resources](#3-resources)
-
-**What this article does *not* cover:**
-
-- PM tools and how to use them
-- Budget management
-- Job search advice
-
-> ⏱ Estimated reading time: 3 minutes
+Author: Florencia Cruz
+Date: July 28, 2026
 
 ---
 
@@ -80,22 +65,11 @@ Scope creep is an actual problem that project managers have to face day by day. 
 
 ---
 
-## 3. Resources
-
-Now that we've covered the foundations, here's where 
-we go from here:
+## 3. Sources
 
 - [PMI KICKOFF](https://www.pmi.org/kickoff) 
 
 - [Google Project Management Certificate — Course 1](https://www.coursera.org/professional-certificates/google-project-management) 
-
-- [Google Project Management Certificate — Course 2](https://www.coursera.org/professional-certificates/google-project-management) 
-
-- [Google Project Management Certificate — Course 5](https://www.coursera.org/professional-certificates/google-project-management) 
-
-- [Read the Scrum Guide](https://scrumguides.org/) 
-
-- [PSM I: Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification) 
 
 ---
 
