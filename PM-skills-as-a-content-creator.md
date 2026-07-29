@@ -60,11 +60,11 @@ Being in control of your projects is very important. However, you need to always
 
 All of the skills mentioned previously are a recipe for being ready to anticipate any changes that your stakeholders might request without having the whole project fall apart. 
 
-This is exactly why I choose, for instance, to make sure to complete the most time-sensitive tasks right away. 
+This is exactly why I choose to make sure to complete the most time-sensitive tasks right away. 
 
 ---
 
-## 3. Sources
+#### 3. Sources
 
 - [PMI KICKOFF](https://www.pmi.org/kickoff) 
 
