@@ -2,8 +2,9 @@
 
 ---
 
-Author: Florencia Cruz
-Date: July 28, 2026
+**Author:** Florencia Cruz
+
+**Date:** July 28, 2026
 
 ---
 
