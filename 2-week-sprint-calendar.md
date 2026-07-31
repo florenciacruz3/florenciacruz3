@@ -1,13 +1,17 @@
 # 2-Week Sprint Calendar
+
 **Project:** Florencia Cruz | Project Management
-**Sprint:** [Sprint Number] — [Start Date] to [End Date]
-**Last Updated:** [Date]
-**WIP Limit:** No more than [#] items In Progress at the same time
+
+**Sprint:** 1 — July 30, 2026 to August 13, 2026
+
+**Last Updated:** July 30, 2026
+
+**WIP Limit:** No more than 2 items In Progress at the same time
 
 ---
 
 ## Sprint Goal
-*One sentence describing what this sprint is trying to achieve.*
+This sprint is trying to achieve balance and, at the same time, productivity. What it's trying to achieve is to be able to distribute tasks throughout the week, managing to achieve a lot without causing any burnouts. 
 
 > 
 
