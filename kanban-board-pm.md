@@ -7,6 +7,8 @@
 
 ## 📋 Backlog
 
+*Ideas and upcoming content pieces not yet started.*
+
 | # | Content Piece | Type | Priority | Notes |
 |---|---|---|---|---|
 | 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / Low |Must be completed by Tuesday of the week and should take several hours |
@@ -20,6 +22,8 @@
 
 ## 🔄 In Progress
 
+*Content currently being researched or written.*
+
 | # | Content Piece | Type | Started | Due | Blocker |
 |---|---|---|---|---|---|
 |001 |Projects Kanban board |GitHub Doc |07/30/26 |08/04/26 |Needs to be approved by Gastón for it to be finished |
@@ -28,6 +32,8 @@
 
 ## 👀 Review
 
+*Content completed and waiting for feedback or approval.*
+
 | # | Content Piece | Type | Submitted | Reviewer | Status |
 |---|---|---|---|---|---|
 |001 |Miri's LinkedIn Post |Post |07/29/26 |Gastón |Completed |
@@ -35,6 +41,8 @@
 ---
 
 ## ✅ Done
+
+*Published or delivered content pieces.*
 
 | # | Content Piece | Type | Published | Link |
 |---|---|---|---|---|
@@ -53,11 +61,11 @@
 | Label | Description |
 |---|---|
 | Certification | Completed course or exam with a verifiable credential |
-| Deliverable | Finished work that got published to GitHub |
+| Deliverable | Finished work product published to GitHub or submitted to a client |
 | Exam | Scheduled professional certification exam |
 | Capstone | Applied multiple skills for a project |
 | Practice Tests | Preparation exercises completed before a certification exam |
-| Post | LinkedIn content published |
+| Post | LinkedIn content published or scheduled for publication |
 | Document | Internal reference document such as a retrospective or sprint plan |
 | GitHub Doc | Working document created and tracked inside GitHub |
 | Read Article | External resource reviewed as part of research or learning |
