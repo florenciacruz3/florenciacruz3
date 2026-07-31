@@ -49,7 +49,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 | Coursera Course 1 | Certification | To Do / **In Progress** / Done | 8 hrs |
 | LinkedIn Post | Post | To Do / In Progress / **Done** | 30 min |
 
-### Friday — Retrospective
+### Friday 
 | Task | Type | Status | Notes |
 |---|---|---|---|
 | Coursera Course 1 | Certification | To Do / In Progress / **Done** | 6 hrs |
