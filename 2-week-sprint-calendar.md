@@ -32,7 +32,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | # | Content Piece | Type | Priority | Estimated Effort | Assigned To |
 |---|---|---|---|---|---|
-| 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / 8 hrs | Florencia Cruz |
+| 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / Low |8 hrs | Florencia Cruz |
 | 002 |Professional Scrum Master I |Exam | **High** / Medium / Low |1 hr | Florencia Cruz |
 | 003 |The Full-Week Content PM Challenge |Capstone | High / **Medium** / Low |2.5 hrs | Florencia Cruz |
 | 004 |LinkedIn Post |Post | High / Medium / **Low** |40 min | Florencia Cruz |
