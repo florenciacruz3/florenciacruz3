@@ -62,7 +62,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 |---|---|---|---|
 | PM Skills Article | Deliverable| To Do / In Progress / **Done** | 5 hrs |
 | Register on Learning log | Exercise | To Do / In Progress / **Done** | 1 hr |
-| Project Charter | Deliverable | To Do / In Progress / **Done** | 2 hrs |
+| Project Charter | Deliverable | To Do / **In Progress** / Done | 2 hrs |
 
 
 ### Tuesday
