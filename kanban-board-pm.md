@@ -57,13 +57,15 @@ Use these labels consistently across all columns:
 
 | Label | Description |
 |---|---|
-| Accessibility Audit | WCAG evaluation of a website or product |
-| Technical Doc | How-to guide or product documentation |
-| UX Writing | Plain language rewrite or IA pass |
-| PM Article | Project management content |
-| LinkedIn Post | Public LinkedIn content |
-| Portfolio | GitHub portfolio updates |
-| Client Work | Paid Upwork deliverable |
+| Certification | Completed course with a verifiable credential |
+| Deliverable | Finished work that got published to GitHub |
+| Exam | Scheduled exam |
+| Capstone | Applied multiple skills for a project |
+| Practice Tests | Prepared for exam |
+| Post | LinkedIn content published |
+| Document | Retrospective or sprint plan documented |
+| GitHub Doc | Working document created and tracked inside GitHub |
+| Read Article | External resource reviewed |
 
 ---
 
