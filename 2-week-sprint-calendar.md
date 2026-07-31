@@ -11,7 +11,7 @@
 ---
 
 ## Sprint Goal
-This sprint is trying to achieve balance and, at the same time, productivity. What it's trying to achieve is to be able to distribute tasks throughout the week, managing to achieve a lot without causing any burnouts. 
+This sprint is trying to achieve balance and, at the same time, productivity. What it's trying to achieve is to be able to distribute tasks throughout the week to accomplish meaningful work without causing burnout.
 
 > 
 
@@ -40,7 +40,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 ---
 
-## Week 1 — 07/23/26 - 07/28
+## Week 1 — 07/23/26 — 07/28/26
 
 ### Thursday
 | Task | Type | Status | Notes |
@@ -90,12 +90,12 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 ### Blockers encountered
 | Blocker | Impact | How It Was Resolved |
 |---|---|---|
-| Certifications took longer than expected |8 | Added more hours for work and cleared my schedule |
+| Certifications took longer than expected |Disrupted my goal of committing to a strict deadline and managing to balance my work | Added extra hours and cleared schedule to compensate |
 
 ---
 
 
-## Week 2 — 07/29/26 - 08/04/26
+## Week 2 — 07/29/26 — 08/04/26
 
 ### Wednesday
 | Task | Type | Status | Notes |
@@ -129,7 +129,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 | Retrospective doc | Document| **To** Do / In Progress / Done | Dedicate enough time for value |
 
 **Week 2 Status Update:**
-> Feel unsure about being able to finish these 2 weeks in one, might have to extend the deadline that I had set
+> Uncertain whether all remaining items can be completed within the sprint window — may need to carry some over to Sprint 2
 
 ---
 
@@ -150,7 +150,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | # | Content Piece | Reason Not Completed |
 |---|---|---|
-| 0 | - | - |
+| 0 | — | — |
 
 ---
 
