@@ -32,103 +32,104 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | # | Content Piece | Type | Priority | Estimated Effort | Assigned To |
 |---|---|---|---|---|---|
-| 001 | | | High / Medium / Low | hrs | |
-| 002 | | | High / Medium / Low | hrs | |
-| 003 | | | High / Medium / Low | hrs | |
-| 004 | | | High / Medium / Low | hrs | |
-| 005 | | | High / Medium / Low | hrs | |
+| 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / 8 hrs | Florencia Cruz |
+| 002 |Professional Scrum Master I |Exam | **High** / Medium / Low |1 hr | Florencia Cruz |
+| 003 |The Full-Week Content PM Challenge |Capstone | High / **Medium** / Low |2.5 hrs | Florencia Cruz |
+| 004 |LinkedIn Post |Post | High / Medium / **Low** |40 min | Florencia Cruz |
+| 005 |Retrospective doc |Document | High / **Medium** / Low |2 hrs | Florencia Cruz |
 
 ---
 
-## Week 1 — [Date Range]
-
-### Monday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Tuesday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Wednesday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
+## Week 1 — 07/23/26 - 07/28
 
 ### Thursday
 | Task | Type | Status | Notes |
 |---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Friday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-**Week 1 Status Update:**
-> 
-
----
-
-## Week 2 — [Date Range]
-
-### Monday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Tuesday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Wednesday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
-
-### Thursday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
+|PMI Kickoff |Certification | To Do / In Progress / **Done** |2 hrs |
+|Coursera Course 1 |Certification | To Do / **In Progress** / Done |8 hrs |
+|LinkedIn Post |Post | To Do / In Progress / **Done** |30 min |
 
 ### Friday — Retrospective
 | Task | Type | Status | Notes |
 |---|---|---|---|
-| | | To Do / In Progress / Done | |
-| | | To Do / In Progress / Done | |
+|Coursera Course 1 |Certification | To Do / In Progress / **Done** |6 hrs |
+|LinkedIn Post |Post | To Do / In Progress / **Done** |30 min |
+|Coursera Course 2  |Certification | To Do / In Progress / **Done** |5 hrs |
+|LinkedIn Post |Post | To Do / In Progress / **Done** |30 min |
 
-**Week 2 Status Update:**
-> 
+### Monday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|PM Skills Article |Deliverable| To Do / In Progress / **Done** |5 hrs |
+|Register on Learning log |Exercise | To Do / In Progress / **Done** |1 hr |
+|Project Charter |Deliverable | To Do / **In Progress** / Done |2 hrs |
+
+
+### Tuesday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|Project Charter |Deliverable | To Do / In Progress / **Done** |2 hrs |
+|Read Scrum Guide |Read Article | To Do / In Progress / **Done** |1 hr |
+
+**Week 1 Status Update:**
+> Managed to balance my work and compress two weeks into one successfully
 
 ---
 
 ## Sprint Retrospective
 
 ### What went well?
-> 
+> Added some extra work on the weekend so that tasks could be more evenly distributed
 
 ### What did not go as planned?
-> 
+> Certifications took longer than it was expected
 
 ### What will I do differently next sprint?
-> 
+> Add more work to Tuesdays. Some days had long lists of tasks to complete, but Tuesday had only two short assignments.
 
 ### Blockers encountered
 | Blocker | Impact | How It Was Resolved |
 |---|---|---|
-| | | |
+|Certifications took longer than expected |8 |Added more hours for work and cleared my schedule |
+
+---
+
+
+## Week 2 — 07/29/26 - 08/12/26
+
+### Wednesday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|Agile Project Management Certification |Certification | To Do / **In Progress** / Done |Dedicated this full day to make progress on Certification |
+
+### Thursday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|Agile Project Management Certification |Certification | To Do / In Progress / **Done** |Finished it first thing in the morning |
+|Projects Kanban board |GitHub Doc | To Do / In Progress / **Done** |Completed this but needs to be revised |
+|2 Week Sprint Calendar |GitHub Doc | To Do / **In Progress** / Done |Still working on this|
+
+### Friday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|Scrum Open Assessments |Practice Tests | **To Do** / In Progress / Done |Dedicate most of the day to this |
+|Revise Deliverables |Editing | **To Do** / In Progress / Done |Must be completed before Tuesday |
+
+### Monday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+|Scrum Open Assessments |Practice Tests | **To Do** / In Progress / Done | Review material before exam |
+|Professional Scrum Master I  |Exam | **To Do** / In Progress / Done | Have to schedule, hopefully for Monday |
+
+### Tuesday
+| Task | Type | Status | Notes |
+|---|---|---|---|
+| The Full-Week Content PM Challenge |Capstone| **To Do** / In Progress / Done |Dedicate enough time for value|
+|LinkedIn Post |Post| **To** Do / In Progress / Done |Should be quick in comparison to other assignments |
+|Retrospective doc |Document| **To** Do / In Progress / Done |Dedicate enough time for value |
+
+**Week 2 Status Update:**
+> Feel unsure about being able to finish these 2 weeks in one, might have to extend the deadline that I had set
 
 ---
 
@@ -136,11 +137,11 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | Metric | Target | Actual |
 |---|---|---|
-| Items committed | | |
-| Items completed | | |
-| Items carried over | | |
-| WIP limit breached | Yes / No | |
-| Sprint goal met | Yes / No | |
+| Items committed |17 |17 |
+| Items completed |12 |12 |
+| Items carried over |5 |5 |
+| WIP limit breached | Yes / **No** | |
+| Sprint goal met | **Yes** / No |Yes |
 
 ---
 
@@ -153,4 +154,4 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 ---
 
-*2-Week Sprint Calendar — Florencia Cruz | [Date]*
+*2-Week Sprint Calendar — Florencia Cruz | July 30, 2026*
