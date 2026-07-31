@@ -6,7 +6,7 @@
 
 **Last Updated:** July 30, 2026
 
-**WIP Limit:** No more than 2 items In Progress at the same time
+**WIP Limit:** No more than 3 items In Progress at the same time
 
 ---
 
@@ -22,8 +22,8 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | Column | WIP Limit |
 |---|---|
-| In Progress | [#] |
-| Review | [#] |
+| In Progress | 3 |
+| Review | 2 |
 
 ---
 
