@@ -2,7 +2,7 @@
 
 **Project:** Florencia Cruz | Project Management
 
-**Sprint:** 1 — July 30, 2026 to August 13, 2026
+**Sprint:** 1 — July 23, 2026 to August 13, 2026
 
 **Last Updated:** July 30, 2026
 
