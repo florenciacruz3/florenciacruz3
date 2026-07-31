@@ -43,9 +43,9 @@
 | # | Content Piece | Type | Published | Link |
 |---|---|---|---|---|
 |001 |PMI Kickoff |Certification |07/23/26 |https://www.pmi.org/kickoff |
-|002 |Coursera Course 1 |Certification |07/24/26 |(https://www.coursera.org/account/accomplishments/verify/8A3YGN6QRMB0) |
+|002 |Coursera Course 1 |Certification |07/24/26 |https://www.coursera.org/account/accomplishments/verify/8A3YGN6QRMB0 |
 |003 |PM Skills Article |Deliverable |07/27/26 |https://github.com/florenciacruz3/florenciacruz3/blob/main/PM-skills-as-a-content-creator.md |
-|004 |Coursera Course 2 |Certification |07/26/26 |(https://www.coursera.org/account/accomplishments/verify/NBJBGM5FPYZZ) |
+|004 |Coursera Course 2 |Certification |07/26/26 |https://www.coursera.org/account/accomplishments/verify/NBJBGM5FPYZZ |
 |005 |Read Scrum Guide |Read Article |07/28/26 |https://scrumguides.org/ |
 |006 |Project Charter |Deliverable |07/28/26 |https://github.com/florenciacruz3/florenciacruz3/blob/main/project-charter.md |
 |007 |Coursera Course 5 |Certification |07/30/26 |https://www.coursera.org/account/accomplishments/certificate/4DI86RR4ZK26 |
