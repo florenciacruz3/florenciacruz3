@@ -2,7 +2,7 @@
 
 **Project:** Florencia Cruz | Project Management
 
-**Sprint:** 1 — July 23, 2026 to August 13, 2026
+**Sprint:** 1 — July 23, 2026 to August 4, 2026
 
 **Last Updated:** July 31, 2026
 
@@ -95,7 +95,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 ---
 
 
-## Week 2 — 07/29/26 - 08/12/26
+## Week 2 — 07/29/26 - 08/04/26
 
 ### Wednesday
 | Task | Type | Status | Notes |
