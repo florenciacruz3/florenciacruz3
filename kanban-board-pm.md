@@ -71,9 +71,9 @@ Use these labels consistently across all columns:
 
 | Priority | Definition |
 |---|---|
-| High | Deadline within 7 days or blocking another task |
-| Medium | Deadline within 2 weeks |
-| Low | No immediate deadline — backlog item |
+| High | Deadline within 5 days |
+| Medium | Critical for this module but deadline is within 12 days |
+| Low | Deadline is within 12 days and are estimated to take no more than 2 hours |
 
 ---
 
@@ -82,9 +82,10 @@ A content piece moves to Done only when ALL of the following are true:
 
 - [ ] Grammar and spelling checked
 - [ ] Content reviewed by mentor or self-reviewed against checklist
-- [ ] Published to GitHub, LinkedIn, or delivered to client
+- [ ] Published to GitHub or LinkedIn
 - [ ] LinkedIn post created if applicable
-- [ ] Portfolio README updated if applicable
+- [ ] Fits the prompt
+- [ ] Make sure information is accurate
 
 ---
 
