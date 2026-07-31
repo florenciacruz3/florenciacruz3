@@ -6,21 +6,19 @@
 ---
 
 ## 📋 Backlog
-*Ideas and upcoming content pieces not yet started.*
 
 | # | Content Piece | Type | Priority | Notes |
 |---|---|---|---|---|
 | 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / Low |Must be completed by Tuesday of the week and should take several hours |
 | 002 |2 Week Sprint Calendar |Deliverable | **High** / Medium / Low |Must be completed by Tuesday and must be finished |
-| 003 |Professional Scrum Master I |Exam | High / **Medium** / Low |I very important that I complete it. However, it's not due until another week |
-| 004 |The Full-Week Content PM Challenge |Capstone | High / Medium / **Low** |I very important that I complete it. However, it's not due until another week |
+| 003 |Professional Scrum Master I |Exam | High / **Medium** / Low |It's very important that I complete it. However, it's not due until another week |
+| 004 |The Full-Week Content PM Challenge |Capstone | High / Medium / **Low** |It's not due until another week and should take 2 hours tops |
 | 005 |LinkedIn Post |Post | High / Medium / **Low** |It's due in two weeks and doesn't require too much time to do |
 | 006 |Retrospective doc |Document | High / Medium / **Low** |It's due in two weeks |
 
 ---
 
 ## 🔄 In Progress
-*Content currently being researched or written.*
 
 | # | Content Piece | Type | Started | Due | Blocker |
 |---|---|---|---|---|---|
@@ -29,7 +27,6 @@
 ---
 
 ## 👀 Review
-*Content completed and waiting for feedback or approval.*
 
 | # | Content Piece | Type | Submitted | Reviewer | Status |
 |---|---|---|---|---|---|
@@ -38,7 +35,6 @@
 ---
 
 ## ✅ Done
-*Published or delivered content pieces.*
 
 | # | Content Piece | Type | Published | Link |
 |---|---|---|---|---|
@@ -53,19 +49,18 @@
 ---
 
 ## Content Types
-Use these labels consistently across all columns:
 
 | Label | Description |
 |---|---|
-| Certification | Completed course with a verifiable credential |
+| Certification | Completed course or exam with a verifiable credential |
 | Deliverable | Finished work that got published to GitHub |
-| Exam | Scheduled exam |
+| Exam | Scheduled professional certification exam |
 | Capstone | Applied multiple skills for a project |
-| Practice Tests | Prepared for exam |
+| Practice Tests | Preparation exercises completed before a certification exam |
 | Post | LinkedIn content published |
-| Document | Retrospective or sprint plan documented |
+| Document | Internal reference document such as a retrospective or sprint plan |
 | GitHub Doc | Working document created and tracked inside GitHub |
-| Read Article | External resource reviewed |
+| Read Article | External resource reviewed as part of research or learning |
 
 ---
 
@@ -87,8 +82,8 @@ A content piece moves to Done only when ALL of the following are true:
 - [ ] Published to GitHub or LinkedIn
 - [ ] LinkedIn post created if applicable
 - [ ] Fits the prompt
-- [ ] Make sure information is accurate
+- [ ] Information verified for accuracy
 
 ---
 
-*Content Pipeline — Florencia Cruz | July 2026*
+*Content Pipeline — Florencia Cruz | July 30, 2026*
