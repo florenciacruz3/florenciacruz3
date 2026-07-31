@@ -139,7 +139,7 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 |---|---|---|
 | Items committed |17 |17 |
 | Items completed |12 |12 |
-| Items carried over |5 |5 |
+| Items carried over |0 |0 |
 | WIP limit breached | Yes / **No** | No |
 | Sprint goal met | **Yes** / No | Yes |
 
