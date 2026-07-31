@@ -58,6 +58,9 @@
 
 ## Content Types
 
+*Use these labels consistently across all columns to 
+categorize every item on the board.*
+
 | Label | Description |
 |---|---|
 | Certification | Completed course or exam with a verifiable credential |
@@ -74,6 +77,9 @@
 
 ## Priority Guide
 
+*Use these definitions to assign priority to every 
+item in the Backlog before adding it to the board.*
+
 | Priority | Definition |
 |---|---|
 | High | Deadline within 5 days |
@@ -83,7 +89,8 @@
 ---
 
 ## Definition of Done
-A content piece moves to Done only when ALL of the following are true:
+
+*A content piece moves to Done only when ALL of the following are true:*
 
 - [ ] Grammar and spelling checked
 - [ ] Content reviewed by mentor or self-reviewed against checklist
@@ -94,4 +101,4 @@ A content piece moves to Done only when ALL of the following are true:
 
 ---
 
-*Content Pipeline — Florencia Cruz | July 30, 2026*
+*Content Pipeline — Florencia Cruz | July 31, 2026*
