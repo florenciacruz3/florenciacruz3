@@ -24,7 +24,7 @@
 
 | # | Content Piece | Type | Started | Due | Blocker |
 |---|---|---|---|---|---|
-|001 | Projects Kanban board |GitHub Doc | 07/30/26 | 08/04/26 | Needs to be approved by Gastón for it to be finished |
+|001 | Scrum Open Assessments |Practice | 07/30/26 | 08/11/26 | Continuous practice until the exam |
 
 ---
 
@@ -35,6 +35,7 @@
 | # | Content Piece | Type | Submitted | Reviewer | Status |
 |---|---|---|---|---|---|
 |001 | 2 Week - Calendar |GitHub Doc |08/04/26 |Gastón |Completed |
+|002 | Projects Kanban board |GitHub Doc | 07/30/26 | Gastón | Needs to be approved by Gastón for it to be finished |
 
 ---
 
