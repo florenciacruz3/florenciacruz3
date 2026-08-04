@@ -1,7 +1,7 @@
 # Content Pipeline — Kanban Board
 **Project:** Florencia Cruz | Project Management 
 
-**Last Updated:** July 2026
+**Last Updated:** August 2026
 
 ---
 
@@ -11,10 +11,10 @@
 
 | # | Content Piece | Type | Priority | Notes |
 |---|---|---|---|---|
-| 001 |Professional Scrum Master I |Exam | High / **Medium** / Low |It's very important that I complete it. However, it's not due until another week |
-| 002 |The Full-Week Content PM Challenge |Capstone | High / Medium / **Low** |It's not due until another week and should take 2 hours tops |
+| 001 |Professional Scrum Master I |Exam | **High** / Medium / Low |Even though it's not due for another week, I only have one attempt to pass it and the exam is very complex |
+| 002 |The Full-Week Content PM Challenge |Capstone | High / **Medium** / Low |It's not due until another week but it's a substantial result that comes after the exam |
 | 003 |LinkedIn Post |Post | High / Medium / **Low** |It's due in two weeks and doesn't require too much time to do |
-| 004 |Retrospective doc |Document | High / Medium / **Low** |It's due in two weeks |
+| 004 |Retrospective doc |Document | High / **Medium** / Low |It's not due until another week but it's a substantial result that comes after the exam  |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | # | Content Piece | Type | Started | Due | Blocker |
 |---|---|---|---|---|---|
-|001 |Projects Kanban board |GitHub Doc |07/30/26 |08/04/26 |Needs to be approved by Gastón for it to be finished |
+|001 | Projects Kanban board |GitHub Doc | 07/30/26 | 08/04/26 | Needs to be approved by Gastón for it to be finished |
 
 ---
 
@@ -99,4 +99,4 @@ item in the Backlog before adding it to the board.*
 
 ---
 
-*Content Pipeline — Florencia Cruz | July 31, 2026*
+*Content Pipeline — Florencia Cruz | August 4, 2026*
