@@ -112,21 +112,8 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 ### Friday
 | Task | Type | Status | Notes |
 |---|---|---|---|
-| Scrum Open Assessments | Practice Tests | **To Do** / In Progress / Done | Dedicate most of the day to this |
-| Revise Deliverables | Editing | **To Do** / In Progress / Done | Must be completed before Tuesday |
-
-### Monday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| Scrum Open Assessments | Practice Tests | **To Do** / In Progress / Done | Review material before exam |
-| Professional Scrum Master I  | Exam | **To Do** / In Progress / Done | Have to schedule, hopefully for Monday |
-
-### Tuesday
-| Task | Type | Status | Notes |
-|---|---|---|---|
-| The Full-Week Content PM Challenge | Capstone| **To Do** / In Progress / Done | Dedicate enough time for value|
-| LinkedIn Post | Post| **To** Do / In Progress / Done | Should be quick in comparison to other assignments |
-| Retrospective doc | Document| **To** Do / In Progress / Done | Dedicate enough time for value |
+| Scrum Open Assessments | Practice Tests | To Do / In Progress / **Done** | Dedicate most of the day to this |
+| Revise 2 Deliverables | Editing | To Do / In Progress / **Done** | Must be completed before Tuesday |
 
 **Week 2 Status Update:**
 > Uncertain whether all remaining items can be completed within the sprint window — may need to carry some over to Sprint 2
@@ -137,9 +124,9 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | Metric | Target | Actual |
 |---|---|---|
-| Items committed |17 |17 |
-| Items completed |12 |12 |
-| Items carried over |0 |0 |
+| Items committed | 5 | 5 |
+| Items completed | 7 | 7 |
+| Items carried over |0 |4 |
 | WIP limit breached | Yes / **No** | No |
 | Sprint goal met | **Yes** / No | Yes |
 
@@ -150,7 +137,10 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 | # | Content Piece | Reason Not Completed |
 |---|---|---|
-| 0 | — | — |
+| 001 | Professional Scrum Master I Exam | Didn't reach the passing grade |
+| 002 | LinkedIn Post | Can't be completed without passing the exam |
+| 003 | Capstone | Can't be completed without passing the exam |
+| 004 | Deliverable | Can't be completed without passing the exam |
 
 ---
 
