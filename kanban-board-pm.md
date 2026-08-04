@@ -11,12 +11,10 @@
 
 | # | Content Piece | Type | Priority | Notes |
 |---|---|---|---|---|
-| 001 |Scrum Open Assessments |Practice Tests | **High** / Medium / Low |Must be completed by Tuesday of the week and should take several hours |
-| 002 |2 Week Sprint Calendar |Deliverable | **High** / Medium / Low |Must be completed by Tuesday and must be finished |
-| 003 |Professional Scrum Master I |Exam | High / **Medium** / Low |It's very important that I complete it. However, it's not due until another week |
-| 004 |The Full-Week Content PM Challenge |Capstone | High / Medium / **Low** |It's not due until another week and should take 2 hours tops |
-| 005 |LinkedIn Post |Post | High / Medium / **Low** |It's due in two weeks and doesn't require too much time to do |
-| 006 |Retrospective doc |Document | High / Medium / **Low** |It's due in two weeks |
+| 001 |Professional Scrum Master I |Exam | High / **Medium** / Low |It's very important that I complete it. However, it's not due until another week |
+| 002 |The Full-Week Content PM Challenge |Capstone | High / Medium / **Low** |It's not due until another week and should take 2 hours tops |
+| 003 |LinkedIn Post |Post | High / Medium / **Low** |It's due in two weeks and doesn't require too much time to do |
+| 004 |Retrospective doc |Document | High / Medium / **Low** |It's due in two weeks |
 
 ---
 
