@@ -34,7 +34,7 @@
 
 | # | Content Piece | Type | Submitted | Reviewer | Status |
 |---|---|---|---|---|---|
-|001 |Miri's LinkedIn Post |Post |07/29/26 |Gastón |Completed |
+|001 | 2 Week - Calendar |GitHub Doc |08/04/26 |Gastón |Completed |
 
 ---
 
