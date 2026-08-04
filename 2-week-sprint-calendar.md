@@ -4,7 +4,7 @@
 
 **Sprint:** 1 — July 23, 2026 to July 31st, 2026
 
-**Last Updated:** July 31, 2026
+**Last Updated:** August 4, 2026
 
 **WIP Limit:** No more than 3 items In Progress at the same time
 
@@ -144,4 +144,4 @@ This sprint is trying to achieve balance and, at the same time, productivity. Wh
 
 ---
 
-*2-Week Sprint Calendar — Florencia Cruz | July 31, 2026*
+*2-Week Sprint Calendar — Florencia Cruz | August 4, 2026*
