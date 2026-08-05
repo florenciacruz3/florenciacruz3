@@ -9,7 +9,7 @@
 |---|---|
 | **Project Title** | Go-to-Market Outreach: Informed Decision Client Acquisition |
 | **Project Manager** | Florencia Cruz |
-| **Project Sponsor** | Gastón Cruz and Erik Johnson |
+| **Project Sponsor** | Erik Johnson |
 | **Date Created** | August 5, 2026 |
 | **Last Updated** | August 5, 2026 |
 | **Status** | Draft / **Active** / Closed |
@@ -69,9 +69,9 @@ This project is done to serve as a point of connection between Erik and his clie
 
 | Name / Role | Involvement | Interest Level |
 |---|---|---|
-|Gastón Cruz |Project Sponsor |High |
-|Erik Johnson |Project Sponsor |High |
-|Clients | Clients |High |
+| Gastón Cruz | Mentor | High |
+| Erik Johnson | Project Sponsor | High |
+| Clients | Clients |High |
 
 ---
 
@@ -96,8 +96,9 @@ This project is done to serve as a point of connection between Erik and his clie
 ## 9. Resources
 
 ### Team
-- Project Sponsor — Gastón Cruz
+- Mentor — Gastón Cruz
 - Project Sponsor - Erik Johnson
+- Account Executive — Florencia Cruz
 
 ### Tools
 - LinkedIn 
@@ -125,8 +126,8 @@ stakeholders before the project begins.*
 
 | Name | Role | Approval Date |
 |---|---|---|
-|Gastón Cruz |Project Sponsor |August 5, 2026 |
-|Erik Johnson |Project Sponsor |August 5, 2026 |
+| Gastón Cruz | Mentor | August 5, 2026 |
+| Erik Johnson | Project Sponsor | August 5, 2026 |
 
 ---
 
