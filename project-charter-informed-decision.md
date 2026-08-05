@@ -8,7 +8,7 @@
 | Field | Details |
 |---|---|
 | **Project Title** | Go-to-Market Outreach: Informed Decision Client Acquisition |
-| **Project Manager** | Florencia Cruz |
+| **Account Executive** | Florencia Cruz |
 | **Project Sponsor** | Erik Johnson |
 | **Date Created** | August 5, 2026 |
 | **Last Updated** | August 5, 2026 |
