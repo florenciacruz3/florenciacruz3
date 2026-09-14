@@ -4,7 +4,7 @@
 
 **Beginning Stage**
 
-After graduating from @The University of Washington with two bachelor’s degrees in English, and Cinema and Media Studies, I didn’t know what to do with these degrees. So, I decided that I wanted to be an English teacher because that seemed like my only choice at the time. 
+After graduating from @The University of Washington with two bachelor’s degrees in English, and Cinema and Media Studies, I didn’t know what to do. So, I decided that I wanted to be an English teacher because that seemed like my only choice at the time. 
 
 I picked these majors because I wanted to study in school something I would enjoy, not thinking about the prospects of what’s out there after those four years. 
 
@@ -36,11 +36,11 @@ I had previously worked in several customer service jobs (food service and retai
 
 Months went by, and I kept getting rejected from every job that I would apply to due to lack of experience. 
 
-But eventually, I got offered the opportunity of working under the mentorship of @Gaston Cruz, Microsoft MVP in Data & AI platforms. I stopped working at the daycare completely and decided to dedicate all of my time to this entrepreneurship. 
+But eventually, I got offered the opportunity to work under the mentorship of @Gaston Cruz, Microsoft MVP in Data & AI platforms. I stopped working at the daycare completely and decided to dedicate all of my time to this entrepreneurship. 
 
-We started off with the idea of becoming a technical writer. And after some practice using Markdown and GitHub, I managed to complete a project, “The Hidden Risks in your Microsoft Fabric Tenant — and How to Find Them Before They Find You.” 
+We started off with technical writer. And after some practice using Markdown and GitHub, I managed to complete a project, “The Hidden Risks in your Microsoft Fabric Tenant — and How to Find Them Before They Find You.” 
 
-Eventually, we expanded a little bit more into accessibility, UX writing, and IA. While doing this, I managed to complete eight certifications and continue building a portfolio on GitHub. We are currently in the process of getting some qualifications into Project Management. 
+Eventually, we expanded a little bit more into accessibility, UX writing, and IA. While doing this, I managed to complete eight certifications and continue building a portfolio on GitHub. We are currently in the process of getting some qualifications in Project Management. 
 
 > Tip 4: Making connections is key to getting that first opportunity. Make sure to look for them. 
 
@@ -52,7 +52,7 @@ It was overwhelming at first. I had to learn how to operate HubSpot’s CRM, use
 
 But thanks to the skills that I learned through working with Gaston, I was able to complete certifications, do my own personal research, and eventually adapt to this internship. 
 
-I think, maybe the reason why it took me so many years after finishing my college degree to get serious about my work was because I was afraid of being back to starting over. It seemed really intimidating. 
+I think, maybe the reason why it took me so many years after finishing my college degree to get serious about my work was because I was afraid I'd need to start at the beginning all over again. It seemed really intimidating. 
 
 I was told growing up that what you do is, you get good grades in school so that you can get to college. You finish a four-year career, immediately apply to as many jobs as you can, and within a couple of months, you end up working in a corporate job. Sadly, this was not my experience. 
 
@@ -60,7 +60,7 @@ I was told growing up that what you do is, you get good grades in school so that
 
 **Conclusion**
 
-If you’re currently enrolled in college and thinking that after graduating, you’ll immediately find the job of your dreams and everything will fit into your life, I can tell you myself from my experience, opportunities don’t just fall over your head. It’s about knowing the right people, putting in the work, going outside of the box, and going out of your way to get things. 
+If you’re currently enrolled in college and thinking that after graduating, you’ll immediately find the job of your dreams and everything will fit into your life, I can tell you myself from my experience, opportunities don’t just fall on your head. It’s about knowing the right people, putting in the work, going outside of the box, and going out of your way to get things. 
 
 The advice that I wish I had listened to while I was still at school is, **STOP** waiting. Your career doesn’t start after you finish college. Your career starts now. 
 
