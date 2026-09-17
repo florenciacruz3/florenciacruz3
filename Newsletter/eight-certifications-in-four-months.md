@@ -1,4 +1,4 @@
-# What Seven Certifications in Four Months Actually Taught Me 
+# What Eight Certifications in Four Months Actually Taught Me 
 
 *Not what I learned from the content, but what I learned about how I learn*
 
@@ -18,7 +18,7 @@ With longer certifications, having a schedule has been, from my experience, the 
 
 There’s another side to it: pretending like doing a certification is a race, and you are in competition with yourself. With this, I mean, setting high standards for yourself. If the certification typically takes one month to complete, try doing it in two weeks. 
 
-When I completed three of my @Coursera Project Management certifications, I couldn’t wait one whole month to get it done. And this is exactly how I was able to complete these seven certifications in only four months. 
+When I completed three of my @Coursera Project Management certifications, I couldn’t wait one whole month to get it done. And this is exactly how I was able to complete these eight certifications in only four months. 
 
 > Tip 2: Challenge yourself. Test your abilities. 
 
@@ -36,7 +36,7 @@ So, I went my own way to do some research and get a certification on @Canva Esse
 
 Looking back at that first certification experience, I learned that, even though people have different styles for learning, the actual skills that employers look for are, “Can you put this into practice?”
 
-Once I completed each one of the mentioned qualifications, I wrote at the very least two pieces for each one of them. Not only do I have those seven certifications now, I also have a full portfolio to back it up. 
+Once I completed each one of the mentioned qualifications, I wrote at the very least two pieces for each one of them. Not only do I have those eight certifications now, I also have a full portfolio to back it up. 
 
 > Tip 4: Unless you’re constantly writing and updating your portfolio, the knowledge that you gained from your work will be forgotten. 
 
@@ -48,7 +48,7 @@ At first, I was very disappointed that I had to stop working in technical writin
 
 The next day, I started my first certification, and ended up completely loving it. 
 
-I learned about how we all have at some point in our lives project managed an event or trip. That got me thinking about the skills that I gained from managing my time to complete seven certifications in four months and how those skills translate directly into what project managers do. 
+I learned about how we all have at some point in our lives project managed an event or trip. That got me thinking about the skills that I gained from managing my time to complete eight certifications in four months and how those skills translate directly into what project managers do. 
 
 > Tip 5: You might regret not following someone’s advice or missing out on a job opportunity, but you’ll never regret giving something new a shot. Try it, you have nothing to lose. 
 
@@ -99,6 +99,7 @@ Here are some of the certifications that helped me shape the way I think now.
 - [Google for Developers — Technical Writing Courses](https://developers.google.com/tech-writing/overview)
 - [Canva Essentials](https://www.canva.com/designschool/courses/canva-essentials/)
 - [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
+- [KICKOFF Project Management Certification](https://www.pmi.org/kickoff)
 - [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google)
 - [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)
 - [Agile Project Management](https://www.coursera.org/learn/agile-project-management)
