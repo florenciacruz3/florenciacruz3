@@ -80,7 +80,7 @@ Four months ago, I entered this field expecting to take maybe two or three short
 
 It was interesting to learn that life just doesn’t work that way. This is not a short process with immediate results. Learning, growing, and gaining new skills is a lifetime process. 
 
-I now can say not only, “I have completed seven certifications and an internship,” but “I’ve grown and expanded within my abilities. I’ve gained the confidence that I was lacking four months ago to navigate complex tools and systems of the tech industry, and communicate them into clear, structured content that works for the reader. I’ve learned about hard work and thinking outside the box. Completing seven certifications and a portfolio wasn’t just an assignment that was given to me, it was something I needed to do in order to be who I am now.”
+I now can say not only, “I have completed eight certifications and an internship,” but “I’ve grown and expanded within my abilities. I’ve gained the confidence that I was lacking four months ago to navigate complex tools and systems of the tech industry, and communicate them into clear, structured content that works for the reader. I’ve learned about hard work and thinking outside the box. Completing eight certifications and a portfolio wasn’t just an assignment that was given to me, it was something I needed to do in order to be who I am now.”
 
 **Conclusion**
 
