@@ -66,3 +66,6 @@ https://empressa.ai/
 
 Comment below if you've ever had a goal you’ve been too scared to even try, and what breaking that barrier looked like for you.
 
+---
+
+*Thank you for reading. Make sure to hit the subscribe button for more articles coming up.*
