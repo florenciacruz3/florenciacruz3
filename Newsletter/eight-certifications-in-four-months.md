@@ -104,3 +104,7 @@ Here are some of the certifications that helped me shape the way I think now.
 - [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)
 - [Agile Project Management](https://www.coursera.org/learn/agile-project-management)
 - [HubSpot Inbound Certification](https://academy.hubspot.com/courses/inbound)
+
+---
+
+*Thank you for reading. Make sure to hit the subscribe button for more articles coming up.*
