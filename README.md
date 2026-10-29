@@ -69,16 +69,20 @@ I am open to roles and collaborations on:
 - [2-Week Sprint Calendar](Project%20Management/2-week-sprint-calendar.md)
 - [Project Management Skills I Already Use as a Content Creator](Project%20Management/PM-skills-as-a-content-creator.md)
 
-### The Writing Shift (Newsletter)
+---
 
-A biweekly newsletter for anyone starting over: how I broke into tech as a writer, what I learned, and how you can rewrite your career story.
+## The Writing Shift
 
-- [How I Went from Daycare Teacher to Account Executive in Four Months](Newsletter/from-daycare-to-account-executive.md)
-- [What I Wish Someone Had Told Me About the Tech Industry Before I Entered It](Newsletter/entering-the-tech-industry.md)
-- [What Working Under a Microsoft MVP Actually Looks Like Day to Day](Newsletter/microsoft-mvp-mentorship.md)
-- [What Eight Certifications in Four Months Actually Taught Me](Newsletter/eight-certifications-in-four-months.md)
-- [How I Built My GitHub Portfolio from Zero](Newsletter/github-portfolio.md)
-- [What Writing a Memoir at 25 Is Teaching Me About My Technical Writing](Newsletter/writing-memoir-at-25.md)
+I also write **The Writing Shift**, a biweekly newsletter for anyone starting over: how I broke into tech as a writer, what I learned, and how you can rewrite your career story.
+
+**Start here:**
+
+- [What I Wish Someone Had Told Me About the Tech Industry Before I Entered It](https://florenciacruzwrites.substack.com/p/what-i-wish-someone-had-told-me-about)
+- [From Nepo Baby to Technical Writer: Four Months of Mentorship](https://florenciacruzwrites.substack.com/p/from-nepo-baby-to-technical-writer)
+
+[Subscribe on Substack](https://florenciacruzwrites.substack.com/subscribe) · [Read it on LinkedIn](https://www.linkedin.com/in/florencia-cruz-assandri/recent-activity/newsletter/)
+
+---
 
 ---
 
