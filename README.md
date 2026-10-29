@@ -84,8 +84,6 @@ I also write **The Writing Shift**, a biweekly newsletter for anyone starting ov
 
 ---
 
----
-
 ## Certifications
 
 **Technical Writing**
