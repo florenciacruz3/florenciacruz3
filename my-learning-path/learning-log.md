@@ -629,4 +629,259 @@ now. PM was what was necessary to succeed.
 
 ---
 
-*Last updated: July 27, 2026*
+## Week 4 — Entry 2: Writing My First Project Charter
+
+**Date:** July 28, 2026
+**Resources completed:**
+- Google Project Management Certificate — Course 2: Project Initiation
+- The Scrum Guide
+- Applied to: Project Charter — Career Change Portfolio
+
+---
+
+### What I Learned
+
+A project charter is the document that says what a project is, why it exists, and what success looks like, before any of the work begins. It is also the document a sponsor signs off on.
+
+What surprised me most is how much of a charter is about saying no. The scope section has two lists: what is in scope and what is out of scope. Writing down what I would *not* do turned out to be just as useful as writing down what I would do.
+
+I also read the Scrum Guide this week to get ready for the Scrum side of project management. The idea that stayed with me is that work happens in short, fixed periods called sprints, and every sprint ends with a look back at what worked and what didn't.
+
+---
+
+### What I Applied
+
+**Project Charter — Career Change Portfolio**
+
+I treated my own career change as a project and wrote a charter for it, with Gastón Cruz as the project sponsor.
+
+- **Goals:** add at least 5 paid projects to my portfolio, land my first Upwork job by the end of the year, and move into an enterprise IT company by March 2027.
+- **In scope:** accessibility audits, UX writing and plain language samples, technical writing, information architecture, project management documentation, and LinkedIn posts about my work.
+- **Out of scope:** writing unrelated to these fields, client work under NDA, and personal opinion pieces.
+- **Risks:** not having enough time, and not making money fast enough. For each one I wrote a plan to reduce it, like keeping a weekly schedule with daily minimums and telling my sponsor when I feel overwhelmed.
+
+Gastón approved the charter on July 28, 2026.
+
+---
+
+### In My Own Words
+
+Writing a charter for my own life felt a little strange at first. But putting my goals in a table, with dates next to them, made them feel real. It also made it easier to say no to things that didn't move me closer to them.
+
+---
+
+## Resources
+
+- [Google Project Management Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+- [The Scrum Guide](https://scrumguides.org/)
+- [Project Charter — Career Change Portfolio](../Project%20Management/project-charter.md)
+
+---
+
+## Week 5 — Entry 1: Agile, Kanban, and My First Sprint
+
+**Date:** August 4, 2026
+**Resources completed:**
+- Google Project Management Certificate — Course 5: Agile Project Management
+- Scrum.org Open Assessments: Scrum Open, Product Owner Open, Developer Open
+- Applied to: Content Pipeline Kanban Board and 2-Week Sprint Calendar
+
+---
+
+### What I Learned
+
+Agile is a way of working in small pieces instead of planning everything up front. Two tools made it click for me:
+
+- **Kanban boards** show every task as a card moving through columns: Backlog, In Progress, Review, and Done. You can see at a glance what is stuck.
+- **WIP limits** (work in progress limits) cap how many tasks can be in one column at the same time. I learned that starting fewer things at once is how you actually finish more.
+
+I also practiced with the free Scrum.org open assessments to get ready for the Professional Scrum Master I (PSM I) exam.
+
+---
+
+### What I Applied
+
+**Content Pipeline — Kanban Board**
+
+I built a Kanban board in GitHub to track my own work: certifications, deliverables, practice tests and LinkedIn posts. I added a priority guide so every item gets a priority based on its deadline:
+
+- **High:** due within 5 days
+- **Medium:** important, due within 12 days
+- **Low:** everything else
+
+**2-Week Sprint Calendar**
+
+I planned my first sprint, from July 23 to July 31, 2026, with a WIP limit of 3 items in progress at a time. The sprint goal was to get meaningful work done without burning out.
+
+At the end, I wrote my first sprint retrospective:
+
+| Question | My answer |
+|---|---|
+| What went well? | Adding some work on the weekend spread my tasks more evenly. |
+| What did not go as planned? | Certifications took longer than I expected. |
+| What will I do differently? | Add more work to Tuesdays, which only had two short tasks. |
+
+---
+
+### In My Own Words
+
+I managed to fit two weeks of work into one. But the retrospective showed me that it only worked because I added extra hours. Next time, the goal isn't to do more. It's to plan better, so I don't need the extra hours in the first place.
+
+---
+
+## Resources
+
+- [Agile Project Management (Coursera)](https://www.coursera.org/learn/agile-project-management)
+- [Scrum.org Open Assessments](https://www.scrum.org/open-assessments)
+- [Content Pipeline — Kanban Board](../Project%20Management/kanban-board-pm.md)
+- [2-Week Sprint Calendar](../Project%20Management/2-week-sprint-calendar.md)
+
+---
+
+## Week 6 — Entry 1: Project Management in a Real Job
+
+**Date:** August 2026
+**Resources completed:**
+- HubSpot Academy — Inbound Certification
+- Applied to: Project Charter — Go-to-Market Outreach for Informed Decision
+
+---
+
+### What I Learned
+
+In August, I started an Account Executive internship at Informed Decision, working with Erik Johnson. For the first time, I used project management on someone else's project instead of my own.
+
+The hardest part was HubSpot. We run everything through it, I had never used a CRM before, and this time I had no one to ask. My first week, I spent twelve hours a day trying to make it work, weekends included.
+
+At the end of that week, I took HubSpot's free Inbound certification, and it changed everything. Within about ten days, I had a routine: I wake up, I know exactly what to do, and I know where to go from there.
+
+---
+
+### What I Applied
+
+**Project Charter — Go-to-Market Outreach: Informed Decision Client Acquisition**
+
+I wrote a charter for the internship, approved by Erik Johnson (project sponsor) and Gastón Cruz (mentor) on August 5, 2026.
+
+- **Goals:** land 4 calls out of every 100 emails, send 20 emails a day, and keep up with follow-ups.
+- **Out of scope:** phone calls, technical questions about Informed Decision's services, and contacting prospects on platforms we didn't agree on.
+- **Risk I planned for:** emails landing in spam. The fix was setting up SPF, DKIM and DMARC, the settings that prove an email really comes from the sender.
+
+---
+
+### In My Own Words
+
+I've never been good at figuring things out on my own. The HubSpot certification is the one I'm most proud of, because nobody told me to take it. I went out of my way to do it, and everything after it was self-taught.
+
+---
+
+## Resources
+
+- [HubSpot Academy — Inbound Certification](https://academy.hubspot.com/courses/inbound)
+- [Project Charter — Go-to-Market Outreach](../Project%20Management/project-charter-informed-decision.md)
+
+---
+
+## August 2026 — Entry 2: When the Plan Falls Apart
+
+**Date:** August 2026
+
+---
+
+### What I Learned
+
+I failed the Professional Scrum Master I exam.
+
+I had been rushing through my project management certifications as fast as I could, trying to make everything fit perfectly. That's how I was able to finish so many in so little time. But for this exam, speed worked against me.
+
+---
+
+### What I Applied
+
+Gastón and I decided to take a break from project management and focus on my internship at Informed Decision. I'm still preparing for the exam, but at a slower pace, with time to actually absorb the material.
+
+---
+
+### In My Own Words
+
+I like to be in control. I like having a schedule and knowing exactly what comes next. Failing this exam was the first time this year that my plan didn't work.
+
+What I learned is that discipline is important, but knowing how to pick yourself up after an unexpected change is more important. If I hadn't failed, I might not have given my full attention to the internship that taught me HubSpot, sales writing and how to work with AI tools.
+
+---
+
+## September 2026 — Entry 1: Learning in Public with The Writing Shift
+
+**Date:** September 14, 2026
+**Applied to:** The Writing Shift, my biweekly newsletter on LinkedIn and Substack
+
+---
+
+### What I Learned
+
+Having a portfolio isn't enough if nobody knows it exists. So I started writing about my career change in public.
+
+I used to think professional writing had to be formal: no jokes, no anecdotes, nothing personal. Then Miri Rodriguez gave me feedback that changed how I write: write from the heart, be vulnerable, and be myself.
+
+---
+
+### What I Applied
+
+I launched The Writing Shift, a newsletter for anyone starting over, published every other Monday:
+
+| Date | Edition |
+|---|---|
+| September 14, 2026 | How I Went from Daycare Teacher to Account Executive in Four Months |
+| September 28, 2026 | What I Wish Someone Had Told Me About the Tech Industry Before I Entered It |
+| October 12, 2026 | Luck, Ego, and Asking for Help: A Writer's Journey |
+| October 27, 2026 | From Nepo Baby to Technical Writer: Four Months of Mentorship |
+
+Alongside the newsletter, I post on LinkedIn several times a week about my certifications, my work and what I'm learning.
+
+---
+
+### In My Own Words
+
+The hard part was never opening up. It was consistency. Gastón told me, "After work, you always have the evening and the weekend." Now I see writing as the thing I do after work because I love it, not as a chore.
+
+---
+
+## Resources
+
+- [The Writing Shift on Substack](https://florenciacruzwrites.substack.com)
+
+---
+
+## October 2026 — Entry 1: Technical Writer at Empressa
+
+**Date:** October 2026
+**Applied to:** Technical Writer & Onboarding Storyteller Internship at Empressa® | AI Women Trust
+
+---
+
+### What I Learned
+
+In October, Miri Rodriguez offered me a three-month technical writing internship at Empressa® | AI Women Trust. It's the first role I've had where technical writing is the actual job.
+
+Most of my projects involve video, and I thought my Cinema and Media Studies degree had prepared me for that. I was wrong about how much I still had to learn:
+
+- **iMovie was never the only option.** I now use Canva, where I can also find footage for my videos.
+- **AI editing tools aren't the enemy.** Tools like Riverside can generate voiceovers and music and turn a still picture into a moving video in minutes.
+- **Good enough for an A isn't good enough at work.** On real projects, I want to be able to say, "I'm proud of what I built."
+
+---
+
+### What I Applied
+
+- Write product video scripts and onboarding stories that explain the platform in plain language.
+- Audited the company website and presented my recommended changes to the CEO. The changes were implemented.
+
+---
+
+### In My Own Words
+
+School taught me the theory. A few weeks on the job taught me the workflow, and the workflow is what people actually pay for. Miri has been the one pushing me to experiment instead of falling back on what I already knew.
+
+---
+
+*Last updated: October 29, 2026*
