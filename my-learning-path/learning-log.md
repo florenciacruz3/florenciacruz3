@@ -1,7 +1,7 @@
-# Accessibility Learning Log
+# Learning Log
 ## Florencia Cruz — Technical Writer in Training
 
-In this log, I'll be documenting my learning journey through accessibility as part of my technical writing training under the mentorship of a Microsoft MVP in Data and AI Platforms.
+In this log, I'll be documenting my learning journey from wanting to be a technical writer to actually becoming one as part of my technical writing training under the mentorship of a Microsoft MVP in Data and AI Platforms.
 
 ---
 
